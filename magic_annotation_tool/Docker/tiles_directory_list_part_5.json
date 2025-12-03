@@ -1,0 +1,1646 @@
+[
+  {
+    "entry_number": 1097,
+    "svs_file": "TCGA-AO-A125-01A-01-BS1.e881fb71-5e5e-40ec-8284-3ee696de7239.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ac88dabc-ff07-45a9-ac1c-12670e2162e1/TCGA-AO-A125-01A-01-BS1.e881fb71-5e5e-40ec-8284-3ee696de7239_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1098,
+    "svs_file": "TCGA-D8-A1J9-01A-01-TSA.a7772c0a-357e-4d4c-b74c-1c14d13ab744.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ac98281d-c024-44e1-aed3-084ec2ab474d/TCGA-D8-A1J9-01A-01-TSA.a7772c0a-357e-4d4c-b74c-1c14d13ab744_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1099,
+    "svs_file": "TCGA-BH-A0E6-01A-01-TSA.54e2d7c5-0b53-4221-a8fe-af32465030ec.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/acb25948-851a-4636-83aa-d01cd84c5201/TCGA-BH-A0E6-01A-01-TSA.54e2d7c5-0b53-4221-a8fe-af32465030ec_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1100,
+    "svs_file": "TCGA-AR-A0TR-01A-01-BSA.f1455ed0-393b-495c-9618-bbe3088baf4d.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/acbb02e6-5995-4f7a-b709-ed14c4a10a91/TCGA-AR-A0TR-01A-01-BSA.f1455ed0-393b-495c-9618-bbe3088baf4d_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1101,
+    "svs_file": "TCGA-B6-A0IB-01A-01-TSA.67edd3f0-b36e-427c-b8ec-4e527de67414.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/acbd8276-ad78-4278-8dcf-2657aa1345db/TCGA-B6-A0IB-01A-01-TSA.67edd3f0-b36e-427c-b8ec-4e527de67414_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1102,
+    "svs_file": "TCGA-A8-A0A4-01A-01-BS1.b2f7bff9-16c8-4bf7-8228-fd2a98995fdf.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ad0b53f7-0871-46be-9b15-f7b761749905/TCGA-A8-A0A4-01A-01-BS1.b2f7bff9-16c8-4bf7-8228-fd2a98995fdf_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1103,
+    "svs_file": "TCGA-AR-A1AN-01A-01-TS1.f27b0f08-345b-4950-9344-8f6c54ca576a.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ad0f1ce7-8578-416d-9a38-ac4e76de62dd/TCGA-AR-A1AN-01A-01-TS1.f27b0f08-345b-4950-9344-8f6c54ca576a_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1104,
+    "svs_file": "TCGA-A2-A0YL-01A-02-TSB.12b73a8a-ac2d-4cd5-b8c2-de8fd1357dea.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ad3e904b-1dc2-4fd3-94c6-7bc5735e9d1a/TCGA-A2-A0YL-01A-02-TSB.12b73a8a-ac2d-4cd5-b8c2-de8fd1357dea_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1105,
+    "svs_file": "TCGA-BH-A0HX-01A-02-BSB.1557ba7a-169e-4a9d-a9e7-48223614e663.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ad4e62f8-3066-46b9-bee8-4f40d5e8c067/TCGA-BH-A0HX-01A-02-BSB.1557ba7a-169e-4a9d-a9e7-48223614e663_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1106,
+    "svs_file": "TCGA-AO-A03L-01A-04-BS4.50d93e4e-db51-4d98-86f8-08228baeee4e.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ad91e3a0-c0d6-4b9f-a2e4-e8d8fed6bd1c/TCGA-AO-A03L-01A-04-BS4.50d93e4e-db51-4d98-86f8-08228baeee4e_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1107,
+    "svs_file": "TCGA-A8-A082-01A-01-TS1.3cad4a77-47a6-4658-becf-d8cffa161d3a.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ad9ed74a-2725-49e6-bf7a-ef100e299989/TCGA-A8-A082-01A-01-TS1.3cad4a77-47a6-4658-becf-d8cffa161d3a_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1108,
+    "svs_file": "TCGA-BH-A0E1-01A-01-BSA.57534115-65b7-48cc-b124-13b8f3c15d48.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/adc0c591-b3da-403d-a122-b2b528632bb8/TCGA-BH-A0E1-01A-01-BSA.57534115-65b7-48cc-b124-13b8f3c15d48_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1109,
+    "svs_file": "TCGA-D8-A27V-01A-01-TS1.4F3FB63F-C45A-4C28-95F3-C2C8682993DA.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ae639d5d-1f1f-4bbf-95b8-d2221e0ba833/TCGA-D8-A27V-01A-01-TS1.4F3FB63F-C45A-4C28-95F3-C2C8682993DA_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1110,
+    "svs_file": "TCGA-BH-A0DL-01A-01-TSA.bbf68858-72c8-490a-89b1-6018c8aef709.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/aead0c3b-49f6-4892-819d-024b1a50f956/TCGA-BH-A0DL-01A-01-TSA.bbf68858-72c8-490a-89b1-6018c8aef709_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1111,
+    "svs_file": "TCGA-A7-A13G-01A-01-TS1.a3f33960-ef9c-4b46-83d2-b08dc677f2bd.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/af250a20-f72d-4171-ab99-667c562e2cf5/TCGA-A7-A13G-01A-01-TS1.a3f33960-ef9c-4b46-83d2-b08dc677f2bd_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1112,
+    "svs_file": "TCGA-BH-A0DD-01A-03-TSC.0088505b-5e18-49c4-bc2b-7946b2780383.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/af303218-add4-45cf-83ab-eaf4d55edb85/TCGA-BH-A0DD-01A-03-TSC.0088505b-5e18-49c4-bc2b-7946b2780383_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1113,
+    "svs_file": "TCGA-AN-A0AM-01A-01-BSA.1736e9ff-6a00-45e7-8ab9-b81018eea03f.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/af35bcd1-00e0-4400-8b0d-0abf457f950e/TCGA-AN-A0AM-01A-01-BSA.1736e9ff-6a00-45e7-8ab9-b81018eea03f_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1114,
+    "svs_file": "TCGA-A2-A4S3-01A-02-TSB.8DF9D6C3-017C-448F-A04B-68F2F69279B7.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/af99e4dc-0752-453f-b4b7-77b0640266a6/TCGA-A2-A4S3-01A-02-TSB.8DF9D6C3-017C-448F-A04B-68F2F69279B7_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1115,
+    "svs_file": "TCGA-AO-A129-01A-02-TSB.427ec681-3c44-4d87-bfe5-525df3ade7f2.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/afcfa5d3-6b65-4ca7-8feb-6bedd784b861/TCGA-AO-A129-01A-02-TSB.427ec681-3c44-4d87-bfe5-525df3ade7f2_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1116,
+    "svs_file": "TCGA-PE-A5DC-01A-01-TS1.025C5684-F580-4622-877A-B7E9EC383E0F.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/afd7e464-c43b-486d-9aab-7d17bc353f32/TCGA-PE-A5DC-01A-01-TS1.025C5684-F580-4622-877A-B7E9EC383E0F_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1117,
+    "svs_file": "TCGA-A1-A0SJ-01A-01-TSA.c61cc926-b7df-4519-a049-1a65ec97a99c.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/aff3dd6e-b8a6-4b30-a1b8-e3bc437e7330/TCGA-A1-A0SJ-01A-01-TSA.c61cc926-b7df-4519-a049-1a65ec97a99c_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1118,
+    "svs_file": "TCGA-B6-A0IH-01A-01-BSA.4bfc7c55-1aaa-431a-a252-9426bb2b469b.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b011f09a-6a17-4ae3-aa0f-d37bbbf89569/TCGA-B6-A0IH-01A-01-BSA.4bfc7c55-1aaa-431a-a252-9426bb2b469b_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1119,
+    "svs_file": "TCGA-EW-A1IZ-01A-01-TSA.a52af132-ed54-40a0-931b-913928cf057f.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b052b2c3-fa18-4706-92e3-8137af39226c/TCGA-EW-A1IZ-01A-01-TSA.a52af132-ed54-40a0-931b-913928cf057f_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1120,
+    "svs_file": "TCGA-E2-A10B-01A-01-TS1.3bfc66da-c6c4-4246-8794-4b477deba098.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b0ec55e2-0486-43bf-83d1-3a7ed0eb86a4/TCGA-E2-A10B-01A-01-TS1.3bfc66da-c6c4-4246-8794-4b477deba098_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1121,
+    "svs_file": "TCGA-A8-A06N-01A-01-BS1.12bf6cf9-767e-469a-ab07-accd6b3b134e.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b1108817-ee32-40d8-b905-bd3fcb3320d1/TCGA-A8-A06N-01A-01-BS1.12bf6cf9-767e-469a-ab07-accd6b3b134e_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1122,
+    "svs_file": "TCGA-BH-A0B0-01A-02-TSB.0eb990a6-1311-4909-8d86-03ae43a41227.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b195c00d-1827-4b5d-9603-b5a6e3ea6d0f/TCGA-BH-A0B0-01A-02-TSB.0eb990a6-1311-4909-8d86-03ae43a41227_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1123,
+    "svs_file": "TCGA-GI-A2C8-01A-01-TSA.3b6ee8f0-86dc-47bc-b5ab-fa0b1c6e8a59.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b1a8d6af-daed-4fc0-9b44-a047dc047eeb/TCGA-GI-A2C8-01A-01-TSA.3b6ee8f0-86dc-47bc-b5ab-fa0b1c6e8a59_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1124,
+    "svs_file": "TCGA-A7-A4SD-01A-01-TS1.1FF59A1D-351F-4F25-B843-667F387A2C04.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b22e5037-24b2-4ef1-8127-b63d54fc48c1/TCGA-A7-A4SD-01A-01-TS1.1FF59A1D-351F-4F25-B843-667F387A2C04_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1125,
+    "svs_file": "TCGA-LL-A8F5-01A-01-TS1.B5357CA4-8C24-4F27-9054-06B801C3D8DF.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b2420021-3b91-4bad-bc6f-9be985e9fc13/TCGA-LL-A8F5-01A-01-TS1.B5357CA4-8C24-4F27-9054-06B801C3D8DF_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1126,
+    "svs_file": "TCGA-AN-A04A-01A-01-BS1.647f0482-49a8-4794-b9c4-5941b14fd1af.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b2670a30-47ca-47a2-9e5a-b1bb788d3bdb/TCGA-AN-A04A-01A-01-BS1.647f0482-49a8-4794-b9c4-5941b14fd1af_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1127,
+    "svs_file": "TCGA-BH-A0HO-01A-01-TSA.927ed714-1749-44c9-bfb1-a55d65671692.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b2866786-c078-404c-a959-7052d383adf9/TCGA-BH-A0HO-01A-01-TSA.927ed714-1749-44c9-bfb1-a55d65671692_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1128,
+    "svs_file": "TCGA-C8-A12O-01A-01-TSA.ba52cd91-3f6c-4507-a6b2-baad00effb08.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b2b9d4bd-676c-47b6-bdf5-50337e010db9/TCGA-C8-A12O-01A-01-TSA.ba52cd91-3f6c-4507-a6b2-baad00effb08_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1129,
+    "svs_file": "TCGA-A8-A0AD-01A-01-TS1.4f7d3b85-05f4-44d2-8176-3ee94105f10f.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b2bd7a1f-a9ba-403b-b0c7-846f8a99150d/TCGA-A8-A0AD-01A-01-TS1.4f7d3b85-05f4-44d2-8176-3ee94105f10f_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1130,
+    "svs_file": "TCGA-B6-A0WT-01A-01-BS1.8eed3670-559d-4275-a141-542c4c95bc0a.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b2c9ac8b-73fb-430c-8999-b69b5ac94cfd/TCGA-B6-A0WT-01A-01-BS1.8eed3670-559d-4275-a141-542c4c95bc0a_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1131,
+    "svs_file": "TCGA-A8-A08B-01A-01-BS1.cd256d6e-99c5-4b32-8bbc-7c1811004b8b.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b2de19e8-9eb3-435d-a475-387051094687/TCGA-A8-A08B-01A-01-BS1.cd256d6e-99c5-4b32-8bbc-7c1811004b8b_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1132,
+    "svs_file": "TCGA-A2-A0CR-01A-01-BSA.EEDC8A56-25C0-4348-B5CD-E91C2CC3411B.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b31ff2da-5e41-4c60-ba50-10decfdbe349/TCGA-A2-A0CR-01A-01-BSA.EEDC8A56-25C0-4348-B5CD-E91C2CC3411B_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1133,
+    "svs_file": "TCGA-BH-A0BO-01A-01-BSA.fb0f8c89-81d2-4f60-af1b-44a84aae1d3a.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b3361781-8bae-4dfa-b433-beb5dc7151bc/TCGA-BH-A0BO-01A-01-BSA.fb0f8c89-81d2-4f60-af1b-44a84aae1d3a_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1134,
+    "svs_file": "TCGA-S3-AA15-01A-01-TS1.395D6B62-E484-472A-9283-DA4CD6CB4E79.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b3515f78-9ca4-4d0c-be46-d08b6eea9214/TCGA-S3-AA15-01A-01-TS1.395D6B62-E484-472A-9283-DA4CD6CB4E79_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1135,
+    "svs_file": "TCGA-E9-A6HE-01A-01-TSA.0EC4715E-A5F7-48BF-B95E-8532C3F101D6.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b3cae8de-1bba-407c-9334-c035ddd12bd2/TCGA-E9-A6HE-01A-01-TSA.0EC4715E-A5F7-48BF-B95E-8532C3F101D6_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1136,
+    "svs_file": "TCGA-B6-A0I9-01A-01-TSA.62770546-8fb2-43cc-904a-5331ec01c37a.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b3f8a4b3-1f3e-41df-8ab7-341104f63522/TCGA-B6-A0I9-01A-01-TSA.62770546-8fb2-43cc-904a-5331ec01c37a_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1137,
+    "svs_file": "TCGA-BH-A0BO-01A-02-BSB.984c099a-27b1-4584-8c84-0ff358b7610e.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b40f3902-df39-44cd-8656-7e8ddeff681f/TCGA-BH-A0BO-01A-02-BSB.984c099a-27b1-4584-8c84-0ff358b7610e_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1138,
+    "svs_file": "TCGA-A8-A06R-01A-01-BS1.81f34f39-e1c2-4769-aaa3-5aa5df1c3543.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b413ae9d-cb96-4824-8f26-a3654d52da82/TCGA-A8-A06R-01A-01-BS1.81f34f39-e1c2-4769-aaa3-5aa5df1c3543_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1139,
+    "svs_file": "TCGA-A7-A5ZV-01A-01-TS1.7D506802-D2B5-4BFB-AB73-B62C87558D9B.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b41491d7-b3ba-4b3d-8740-44aa9384bb66/TCGA-A7-A5ZV-01A-01-TS1.7D506802-D2B5-4BFB-AB73-B62C87558D9B_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1140,
+    "svs_file": "TCGA-E2-A15S-01A-01-TSA.99332ce7-e3ab-4891-a612-fa51b84869f8.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b4433a81-b4fb-4a44-8962-a53c123e120e/TCGA-E2-A15S-01A-01-TSA.99332ce7-e3ab-4891-a612-fa51b84869f8_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1141,
+    "svs_file": "TCGA-AO-A0J6-01A-01-BSA.094c1ad0-5cd5-4b13-af5e-9c7d3688aa23.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b455fc02-0f59-40a7-8b39-46ee021dad4f/TCGA-AO-A0J6-01A-01-BSA.094c1ad0-5cd5-4b13-af5e-9c7d3688aa23_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1142,
+    "svs_file": "TCGA-OL-A5RV-01A-01-TSA.001D9539-9344-444C-BD29-85B5B0224201.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b4a40f13-50f9-4d74-8d78-fcab061817ae/TCGA-OL-A5RV-01A-01-TSA.001D9539-9344-444C-BD29-85B5B0224201_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1143,
+    "svs_file": "TCGA-GM-A5PV-01A-01-TS1.108695F7-6C19-41C9-9A63-ABD78088F235.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b4a78f57-5295-43ae-b5a7-0181dd671968/TCGA-GM-A5PV-01A-01-TS1.108695F7-6C19-41C9-9A63-ABD78088F235_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1144,
+    "svs_file": "TCGA-D8-A1JL-01A-01-TS1.9f253479-0b59-42c5-a7d9-00724cd03439.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b4cf8323-9497-4ee0-81bd-5059b557a524/TCGA-D8-A1JL-01A-01-TS1.9f253479-0b59-42c5-a7d9-00724cd03439_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1145,
+    "svs_file": "TCGA-AO-A0J2-01A-01-TSA.4ba30dc7-d042-4730-b197-95684549adba.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b4ec18b4-719d-444b-885e-67c2cb8efff7/TCGA-AO-A0J2-01A-01-TSA.4ba30dc7-d042-4730-b197-95684549adba_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1146,
+    "svs_file": "TCGA-EW-A1IX-01A-01-TSA.14c3dbaf-c377-426c-96a7-9c087b2f577a.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b4ec8208-d552-459d-b206-87bc324af77d/TCGA-EW-A1IX-01A-01-TSA.14c3dbaf-c377-426c-96a7-9c087b2f577a_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1147,
+    "svs_file": "TCGA-AR-A0TP-01A-01-TSA.300fb1d5-301a-4a10-b9f6-615bac812e93.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b5565f07-c27f-40a9-823f-113622a78cb1/TCGA-AR-A0TP-01A-01-TSA.300fb1d5-301a-4a10-b9f6-615bac812e93_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1148,
+    "svs_file": "TCGA-B6-A401-01A-01-TS1.C196D55B-479E-4F08-A6BB-C5F8FDA2113E.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b59c36af-2e17-4bac-91b0-570ac6eea2b0/TCGA-B6-A401-01A-01-TS1.C196D55B-479E-4F08-A6BB-C5F8FDA2113E_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1149,
+    "svs_file": "TCGA-BH-A0EB-01A-01-BSA.f2664782-5c6a-4693-8f9c-aa963b38e605.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b5a51777-e0b0-43cc-832c-6e5889a0b948/TCGA-BH-A0EB-01A-01-BSA.f2664782-5c6a-4693-8f9c-aa963b38e605_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1150,
+    "svs_file": "TCGA-AO-A0J2-01A-01-BSA.74fa8ced-1f57-44bb-af80-97f3136ef201.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b5c35572-22e5-4d00-8019-c9f0c400da43/TCGA-AO-A0J2-01A-01-BSA.74fa8ced-1f57-44bb-af80-97f3136ef201_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1151,
+    "svs_file": "TCGA-AO-A126-01A-01-BSA.d9c05421-91fc-4fdd-988d-2b404fa24095.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b6371944-5ebe-45bd-9b10-0f19856f3dc5/TCGA-AO-A126-01A-01-BSA.d9c05421-91fc-4fdd-988d-2b404fa24095_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1152,
+    "svs_file": "TCGA-EW-A3U0-01A-01-TSA.28E10343-61CE-416D-92FF-9763AE47C3F2.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b6381ec8-817f-4489-b233-9ce30935b0b8/TCGA-EW-A3U0-01A-01-TSA.28E10343-61CE-416D-92FF-9763AE47C3F2_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1153,
+    "svs_file": "TCGA-A2-A0EO-01A-01-MSA.a8ba9ddd-967b-428f-aef6-81207cb53e35.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b656e71d-db06-4ddc-bef8-55e013334e13/TCGA-A2-A0EO-01A-01-MSA.a8ba9ddd-967b-428f-aef6-81207cb53e35_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1154,
+    "svs_file": "TCGA-B6-A0IN-01A-01-TSA.42771812-95a0-4850-b413-2b6b2b29df69.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b672c334-2fd1-4345-a3dc-800bb7769fec/TCGA-B6-A0IN-01A-01-TSA.42771812-95a0-4850-b413-2b6b2b29df69_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1155,
+    "svs_file": "TCGA-A8-A0A7-01A-01-BS1.4a4d1511-7d0f-4482-bd6c-7a1ebbfe2ce6.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b6ee862d-798b-4f79-b060-cd7861c6886f/TCGA-A8-A0A7-01A-01-BS1.4a4d1511-7d0f-4482-bd6c-7a1ebbfe2ce6_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1156,
+    "svs_file": "TCGA-BH-A8G0-01A-01-TSA.27CBC599-7861-4307-BEAB-E0FBF50C96F7.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b70d8852-b93c-489e-8f8e-0feaa0d273ad/TCGA-BH-A8G0-01A-01-TSA.27CBC599-7861-4307-BEAB-E0FBF50C96F7_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1157,
+    "svs_file": "TCGA-B6-A0RH-01A-02-BSB.4d8dc01d-171d-4bde-9f7c-2e54a2bbb427.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b73ca1e9-4938-4467-a805-fefc230b543b/TCGA-B6-A0RH-01A-02-BSB.4d8dc01d-171d-4bde-9f7c-2e54a2bbb427_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1158,
+    "svs_file": "TCGA-AC-A3QQ-01B-06-BS6.C20D50B8-6EC0-4BF4-BE23-D5664C18B702.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b783d6be-e8f5-49c7-9c35-e729475573a9/TCGA-AC-A3QQ-01B-06-BS6.C20D50B8-6EC0-4BF4-BE23-D5664C18B702_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1159,
+    "svs_file": "TCGA-BH-A0E0-01A-01-BSA.b224536e-7d49-421d-a3bb-815fc01556a9.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b7c25f35-e5be-43f5-8f48-d99b86aa28f6/TCGA-BH-A0E0-01A-01-BSA.b224536e-7d49-421d-a3bb-815fc01556a9_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1160,
+    "svs_file": "TCGA-A8-A09W-01A-01-TS1.98c12c3a-dc1b-4e28-b3ce-89c5ad01c8bc.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b7d1a54b-07b3-454a-9377-e47f5d77818a/TCGA-A8-A09W-01A-01-TS1.98c12c3a-dc1b-4e28-b3ce-89c5ad01c8bc_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1161,
+    "svs_file": "TCGA-A2-A04N-01A-01-MSA.8c234a82-e8e8-41dd-8019-58bd895f50e8.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b7e68bb6-cd5e-4e5a-a96e-86bce27e34e9/TCGA-A2-A04N-01A-01-MSA.8c234a82-e8e8-41dd-8019-58bd895f50e8_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1162,
+    "svs_file": "TCGA-A8-A07Z-01A-01-BS1.9ea011c8-570d-479f-9023-54ddc5fe1e04.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b7e6aa78-5272-44a9-aa40-013ea4b7a1d6/TCGA-A8-A07Z-01A-01-BS1.9ea011c8-570d-479f-9023-54ddc5fe1e04_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1163,
+    "svs_file": "TCGA-AN-A0FK-01A-01-TSA.4cbfd31d-1a58-4ee1-8359-7fd4fc9c4cbe.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b86ffbd8-f73b-415b-bab5-841073ff3713/TCGA-AN-A0FK-01A-01-TSA.4cbfd31d-1a58-4ee1-8359-7fd4fc9c4cbe_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1164,
+    "svs_file": "TCGA-BH-A0WA-01A-01-TS1.432bea0e-7c43-4b34-bee7-3ee094e87c40.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b8993dd9-e231-40a1-a696-53f1a1546812/TCGA-BH-A0WA-01A-01-TS1.432bea0e-7c43-4b34-bee7-3ee094e87c40_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1165,
+    "svs_file": "TCGA-AR-A1AL-01A-02-TSB.a5a169e3-b2b7-4a89-95fb-ee01621d32ee.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b89bf653-acd9-4307-a7a7-f82c2bb4c44d/TCGA-AR-A1AL-01A-02-TSB.a5a169e3-b2b7-4a89-95fb-ee01621d32ee_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1166,
+    "svs_file": "TCGA-A8-A090-01A-01-TS1.6fd65ca8-2e04-4f0b-902a-070cd65c2d93.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b8c35108-a111-4704-b615-89f896370eb4/TCGA-A8-A090-01A-01-TS1.6fd65ca8-2e04-4f0b-902a-070cd65c2d93_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1167,
+    "svs_file": "TCGA-AR-A2LN-01A-02-TSB.4430D89C-595E-49C3-A552-96C1E19F30E1.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b8f78d45-68e0-4ecf-b8d8-6c5b31982b7a/TCGA-AR-A2LN-01A-02-TSB.4430D89C-595E-49C3-A552-96C1E19F30E1_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1168,
+    "svs_file": "TCGA-EW-A2FW-01A-01-TSA.93F3FA5A-4797-489A-B863-4C30CC923B90.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b917220e-c3b3-44ec-b53f-10313f82e402/TCGA-EW-A2FW-01A-01-TSA.93F3FA5A-4797-489A-B863-4C30CC923B90_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1169,
+    "svs_file": "TCGA-E2-A1IG-01A-01-TSA.acb89b9b-84e6-4d43-9bb4-9dadb9a4bded.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b95a165d-cdac-4d36-906b-420763d8b0a8/TCGA-E2-A1IG-01A-01-TSA.acb89b9b-84e6-4d43-9bb4-9dadb9a4bded_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1170,
+    "svs_file": "TCGA-AN-A0AR-01A-01-BSA.a5a0ea68-b7ce-4a1e-a161-64785d585c60.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b989a1b0-6e12-4a74-a652-b3db910e1070/TCGA-AN-A0AR-01A-01-BSA.a5a0ea68-b7ce-4a1e-a161-64785d585c60_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1171,
+    "svs_file": "TCGA-GM-A3NW-01A-02-MSB.18C875E2-C15C-4B47-8AC5-6125F93B9334.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/b9e9de70-895a-4a7f-b519-8882356deae6/TCGA-GM-A3NW-01A-02-MSB.18C875E2-C15C-4B47-8AC5-6125F93B9334_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1172,
+    "svs_file": "TCGA-D8-A27T-01A-01-TS1.5f603af5-e50c-456a-b79a-a42fd63cd65a.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ba266871-0885-4597-a794-08634ebc48b2/TCGA-D8-A27T-01A-01-TS1.5f603af5-e50c-456a-b79a-a42fd63cd65a_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1173,
+    "svs_file": "TCGA-B6-A1KF-01A-01-TS1.dd8b55e7-823a-4805-b2df-8b20a3e94a55.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ba26be0a-e5cf-4369-a28f-0895c6ffa297/TCGA-B6-A1KF-01A-01-TS1.dd8b55e7-823a-4805-b2df-8b20a3e94a55_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1174,
+    "svs_file": "TCGA-AO-A0JE-01A-01-TSA.2ade56dd-a085-472b-b92c-c7a63d7ce4ac.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ba26c8ab-f866-4c0c-b263-6641696ef870/TCGA-AO-A0JE-01A-01-TSA.2ade56dd-a085-472b-b92c-c7a63d7ce4ac_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1175,
+    "svs_file": "TCGA-AN-A0XT-01A-01-TSA.14d9f5ee-14a2-4049-9353-74e11c28dd2d.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ba56d49e-1907-44fd-93aa-34bfc566dd59/TCGA-AN-A0XT-01A-01-TSA.14d9f5ee-14a2-4049-9353-74e11c28dd2d_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1176,
+    "svs_file": "TCGA-AR-A2LH-01A-03-TSC.F95ACB2C-4C81-4104-A40D-D4DD52A1CC2F.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ba5e36b0-774d-4b90-b664-b21b160f8676/TCGA-AR-A2LH-01A-03-TSC.F95ACB2C-4C81-4104-A40D-D4DD52A1CC2F_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1177,
+    "svs_file": "TCGA-AO-A03V-01A-01-TS1.9b67fe65-977d-4b18-bf14-79378230f289.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ba605481-9fa9-4ef2-83c8-fb7c05fbff09/TCGA-AO-A03V-01A-01-TS1.9b67fe65-977d-4b18-bf14-79378230f289_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1178,
+    "svs_file": "TCGA-AN-A0XL-01A-01-MS1.b12658ed-b708-4bdf-beef-f968f6913e6a.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ba8604cc-79ce-4370-85a1-3f3b56a8cb46/TCGA-AN-A0XL-01A-01-MS1.b12658ed-b708-4bdf-beef-f968f6913e6a_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1179,
+    "svs_file": "TCGA-B6-A409-01A-01-TS1.02A10D0A-2B31-4165-94E3-4E6CA784A092.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ba915a58-0e97-40f5-a4ce-17f35e67db61/TCGA-B6-A409-01A-01-TS1.02A10D0A-2B31-4165-94E3-4E6CA784A092_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1180,
+    "svs_file": "TCGA-A8-A08A-01A-01-BS1.db510b27-0937-42da-b559-6d65271401f1.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bbc98c4c-372a-4642-a305-84b1c6238e6d/TCGA-A8-A08A-01A-01-BS1.db510b27-0937-42da-b559-6d65271401f1_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1181,
+    "svs_file": "TCGA-GM-A2D9-01A-01-TS1.640CA05F-D91E-406B-BFD4-B04441C9C811.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bbf464b9-dade-415c-8109-1fbab30ea575/TCGA-GM-A2D9-01A-01-TS1.640CA05F-D91E-406B-BFD4-B04441C9C811_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1182,
+    "svs_file": "TCGA-C8-A12M-01A-01-BSA.571f82b7-891b-45bd-a660-96e03d403705.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bc0d90b0-303d-4746-a3c7-cd97cc339680/TCGA-C8-A12M-01A-01-BSA.571f82b7-891b-45bd-a660-96e03d403705_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1183,
+    "svs_file": "TCGA-AR-A24P-01A-01-TSA.98666bb0-dd9e-4c97-b886-87c994c63e93.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bc0fbb90-a80d-4813-9a6c-c7a8a4d02bef/TCGA-AR-A24P-01A-01-TSA.98666bb0-dd9e-4c97-b886-87c994c63e93_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1184,
+    "svs_file": "TCGA-BH-A0HN-01A-01-TSA.82c8d845-2b00-401b-af1a-70573b4a95d3.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bc139363-3878-403a-a175-9fa8fa95badb/TCGA-BH-A0HN-01A-01-TSA.82c8d845-2b00-401b-af1a-70573b4a95d3_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1185,
+    "svs_file": "TCGA-B6-A0RO-01A-02-BSB.6162fd09-22c4-49bf-9d12-cfc2f4d56518.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bcd21743-feb5-4624-9eeb-033ed84e41f8/TCGA-B6-A0RO-01A-02-BSB.6162fd09-22c4-49bf-9d12-cfc2f4d56518_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1186,
+    "svs_file": "TCGA-A8-A08J-01A-01-TS1.51017c5f-8abd-4c99-89c9-b94a5a64249f.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bd1e6be9-ea35-4328-b853-99a562b10d26/TCGA-A8-A08J-01A-01-TS1.51017c5f-8abd-4c99-89c9-b94a5a64249f_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1187,
+    "svs_file": "TCGA-A8-A09I-01A-02-BS2.ca9aacf2-573b-4af2-bc50-5213526eb3a3.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bd291e93-70a8-4a17-ac23-7e1145471217/TCGA-A8-A09I-01A-02-BS2.ca9aacf2-573b-4af2-bc50-5213526eb3a3_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1188,
+    "svs_file": "TCGA-AN-A0XN-01A-02-BSB.2ffff1fb-5f41-4d87-854b-ff38bfd677a0.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bd3eadbf-c702-4692-9669-34f58c310f3c/TCGA-AN-A0XN-01A-02-BSB.2ffff1fb-5f41-4d87-854b-ff38bfd677a0_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1189,
+    "svs_file": "TCGA-B6-A0I5-01A-01-BSA.d9b86ccf-b192-4256-bd02-0a4f4be3775e.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bd4a095f-124c-4d64-a04f-9f4bad544e85/TCGA-B6-A0I5-01A-01-BSA.d9b86ccf-b192-4256-bd02-0a4f4be3775e_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1190,
+    "svs_file": "TCGA-A8-A07G-01A-01-TS1.ed5520f2-535b-4bb4-b580-b2372714d3fb.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bd5bd325-ddd8-420d-866d-8454b5782ed5/TCGA-A8-A07G-01A-01-TS1.ed5520f2-535b-4bb4-b580-b2372714d3fb_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1191,
+    "svs_file": "TCGA-A2-A0CZ-01A-01-BS1.792ef70c-5f29-44df-8d18-0b54697b2cca.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bd716eb1-1356-4f09-9659-f065b0b0c1ca/TCGA-A2-A0CZ-01A-01-BS1.792ef70c-5f29-44df-8d18-0b54697b2cca_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1192,
+    "svs_file": "TCGA-BH-A0C0-01A-02-BSB.4b112630-4214-42cb-8db9-56df1ce4c6ea.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bd97f5d4-9bfb-465a-bd83-f594f42b39ab/TCGA-BH-A0C0-01A-02-BSB.4b112630-4214-42cb-8db9-56df1ce4c6ea_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1193,
+    "svs_file": "TCGA-E2-A1L7-01A-01-TSA.d812be09-0f0b-4172-a039-18e2d89f3e9d.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bdb81704-c6d2-4390-b8e7-3240db22fd5a/TCGA-E2-A1L7-01A-01-TSA.d812be09-0f0b-4172-a039-18e2d89f3e9d_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1194,
+    "svs_file": "TCGA-C8-A131-01A-01-BSA.df5faaa8-e4ac-4a4b-8ef2-ff2063c9ae2f.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bdcd04e3-0b87-4f09-9cbe-7d2adcd1694f/TCGA-C8-A131-01A-01-BSA.df5faaa8-e4ac-4a4b-8ef2-ff2063c9ae2f_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1195,
+    "svs_file": "TCGA-BH-A0RX-01A-02-MSB.dd4d6596-9320-4e5d-982b-10909a2e4dd2.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bdd2a9d5-bf01-4e34-a4d4-590ae5a288bc/TCGA-BH-A0RX-01A-02-MSB.dd4d6596-9320-4e5d-982b-10909a2e4dd2_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1196,
+    "svs_file": "TCGA-BH-A1F8-01A-01-TSA.e4ec1432-989c-4386-9d45-97a835bf0e64.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/be10c776-5ebf-46bb-b884-215aaa08a75e/TCGA-BH-A1F8-01A-01-TSA.e4ec1432-989c-4386-9d45-97a835bf0e64_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1197,
+    "svs_file": "TCGA-E2-A1IE-01A-01-TSA.fe9a2e4e-1c11-45f6-89e8-ee618922dfe9.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/be78962c-10bc-414f-8d51-afabf8330102/TCGA-E2-A1IE-01A-01-TSA.fe9a2e4e-1c11-45f6-89e8-ee618922dfe9_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1198,
+    "svs_file": "TCGA-A2-A0ET-01A-03-BSC.a5ea8948-821d-471d-ba1c-3c36807ff5df.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bebedf40-ec66-4d65-98cb-f5465172134f/TCGA-A2-A0ET-01A-03-BSC.a5ea8948-821d-471d-ba1c-3c36807ff5df_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1199,
+    "svs_file": "TCGA-AO-A0J4-01A-01-TSA.b019ef9d-8bd3-48cf-acd5-d52ae474e0d1.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bef487ab-a4a6-4f88-a8e4-29d46858668e/TCGA-AO-A0J4-01A-01-TSA.b019ef9d-8bd3-48cf-acd5-d52ae474e0d1_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1200,
+    "svs_file": "TCGA-EW-A1P3-01A-01-TSA.bc5f0d8f-aa52-42b7-abe1-f729c2bc5dff.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/befd78a4-08f6-41d6-83ff-27b25bb81a29/TCGA-EW-A1P3-01A-01-TSA.bc5f0d8f-aa52-42b7-abe1-f729c2bc5dff_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1201,
+    "svs_file": "TCGA-A8-A08T-01A-01-BS1.a4f425d3-222d-4ef0-96f4-97bdde661971.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bf3d8a67-e236-413e-9a61-d5d0776d6c94/TCGA-A8-A08T-01A-01-BS1.a4f425d3-222d-4ef0-96f4-97bdde661971_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1202,
+    "svs_file": "TCGA-BH-A0BV-01A-01-TSA.f5f04523-e30b-4204-99f4-0003ceec2724.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bf456380-c582-4483-a211-debdaa1cf713/TCGA-BH-A0BV-01A-01-TSA.f5f04523-e30b-4204-99f4-0003ceec2724_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1203,
+    "svs_file": "TCGA-B6-A0RL-01A-01-TSA.497a08d0-67ef-4486-abf0-8d04b713d770.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bf54175c-ffb1-4d7f-96f9-b58110d55cc5/TCGA-B6-A0RL-01A-01-TSA.497a08d0-67ef-4486-abf0-8d04b713d770_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1204,
+    "svs_file": "TCGA-GM-A2DI-01A-03-TSC.DB9E24D8-2B07-483E-A490-2B64240EFCEE.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bf5ec6a4-d725-45fb-b3c5-662c82c74438/TCGA-GM-A2DI-01A-03-TSC.DB9E24D8-2B07-483E-A490-2B64240EFCEE_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1205,
+    "svs_file": "TCGA-BH-A0DT-01A-02-TSB.059d6dec-9051-4d12-96cc-49bd63ae678e.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bf898550-b384-47dc-babe-0e38f0c131fa/TCGA-BH-A0DT-01A-02-TSB.059d6dec-9051-4d12-96cc-49bd63ae678e_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1206,
+    "svs_file": "TCGA-AN-A0AT-01A-01-BSA.a4fc206e-5f94-4eb5-b7ff-78f2013b2ed1.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bfd3b4f2-94d8-49f6-99bd-7e8a15542700/TCGA-AN-A0AT-01A-01-BSA.a4fc206e-5f94-4eb5-b7ff-78f2013b2ed1_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1207,
+    "svs_file": "TCGA-AC-A23H-01A-01-TS1.7b893da7-ca91-4a95-bc70-37ad06f61d88.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/bfe0908e-59ac-49c3-863c-f9c47b560aba/TCGA-AC-A23H-01A-01-TS1.7b893da7-ca91-4a95-bc70-37ad06f61d88_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1208,
+    "svs_file": "TCGA-A2-A04R-01A-04-BSD.8ce73dd5-7124-4ff1-8a07-12b5e8aad3a9.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c035fd5c-98c2-487a-85a8-614db8c785f2/TCGA-A2-A04R-01A-04-BSD.8ce73dd5-7124-4ff1-8a07-12b5e8aad3a9_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1209,
+    "svs_file": "TCGA-A2-A3XV-01A-02-TSB.FF8434E6-B703-43FE-AC0A-AE53131F1EC6.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c060bfbe-ff60-42f4-aa1d-79d3b551c67a/TCGA-A2-A3XV-01A-02-TSB.FF8434E6-B703-43FE-AC0A-AE53131F1EC6_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1210,
+    "svs_file": "TCGA-BH-A28Q-01A-01-TSA.c1c6f077-05eb-435f-a8ed-ebb79bcba2cf.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c0901667-e08a-49c1-ab34-8bd37c8fe85f/TCGA-BH-A28Q-01A-01-TSA.c1c6f077-05eb-435f-a8ed-ebb79bcba2cf_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1211,
+    "svs_file": "TCGA-A8-A08H-01A-01-BS1.ec8e361e-ad57-4505-8cee-f897eca575c5.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c0d9b261-6a15-4d43-91ad-95aed64c76d0/TCGA-A8-A08H-01A-01-BS1.ec8e361e-ad57-4505-8cee-f897eca575c5_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1212,
+    "svs_file": "TCGA-AN-A0FZ-01A-01-TS1.a389bdd5-9cf6-4e87-bfa7-208a33f25915.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c0e4f238-13f9-4e5b-be0e-a9710343ba16/TCGA-AN-A0FZ-01A-01-TS1.a389bdd5-9cf6-4e87-bfa7-208a33f25915_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1213,
+    "svs_file": "TCGA-AO-A12C-01A-01-TSA.1a16f83d-8699-4f04-97ff-54ef8f460938.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c0f1bc07-66ef-4543-98e5-8478c53b5993/TCGA-AO-A12C-01A-01-TSA.1a16f83d-8699-4f04-97ff-54ef8f460938_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1214,
+    "svs_file": "TCGA-A1-A0SD-01A-01-BS1.24ae9ce9-ef51-4cef-a095-1681d4bdd2fb.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c1023af8-1b71-4943-a537-f34b2c637db9/TCGA-A1-A0SD-01A-01-BS1.24ae9ce9-ef51-4cef-a095-1681d4bdd2fb_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1215,
+    "svs_file": "TCGA-AR-A0U1-01A-01-TSA.917fb666-08ea-4618-b568-37dac7e9fd1f.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c143f1ce-358f-4da9-8d39-7dcc7728f242/TCGA-AR-A0U1-01A-01-TSA.917fb666-08ea-4618-b568-37dac7e9fd1f_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1216,
+    "svs_file": "TCGA-A2-A0T5-01A-02-TSB.b6a2c4da-e252-4a6f-b22f-788dec8d6ede.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c16071ce-608c-47af-b23e-0cd5ac3ba141/TCGA-A2-A0T5-01A-02-TSB.b6a2c4da-e252-4a6f-b22f-788dec8d6ede_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1217,
+    "svs_file": "TCGA-AC-A3YI-01A-02-TSB.F2AFA7A9-58C7-4932-BC30-6B0CA5964C11.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c171a931-9635-4168-8706-6a7244d2236b/TCGA-AC-A3YI-01A-02-TSB.F2AFA7A9-58C7-4932-BC30-6B0CA5964C11_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1218,
+    "svs_file": "TCGA-D8-A1Y0-01A-01-TS1.c38fad63-fb38-482d-b9ad-62de484bfdac.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c18cb0c5-d71a-4ada-913e-4e64a5a27d2f/TCGA-D8-A1Y0-01A-01-TS1.c38fad63-fb38-482d-b9ad-62de484bfdac_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1219,
+    "svs_file": "TCGA-B6-A0I6-01A-01-TSA.a0ed7f9a-2661-481e-9e7a-b1864f6db4bd.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c1d83f9c-2098-405c-8ac7-e88ff1b24401/TCGA-B6-A0I6-01A-01-TSA.a0ed7f9a-2661-481e-9e7a-b1864f6db4bd_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1220,
+    "svs_file": "TCGA-BH-A0HF-01A-01-TSA.7ded795f-16d8-44ef-b26f-5f6fdd25fc1b.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c1dca73c-9817-47da-82c4-83197a6f33bf/TCGA-BH-A0HF-01A-01-TSA.7ded795f-16d8-44ef-b26f-5f6fdd25fc1b_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1221,
+    "svs_file": "TCGA-E2-A574-01A-01-TSA.EE331433-5ED0-495C-8704-E7D8C73DA803.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c20d7345-64bf-47d8-b02f-ced32d5559bd/TCGA-E2-A574-01A-01-TSA.EE331433-5ED0-495C-8704-E7D8C73DA803_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1222,
+    "svs_file": "TCGA-A2-A0EO-01A-01-TSA.36f29540-ef11-4f71-bfa7-170e5f037a0a.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c233cfeb-e3b8-4907-9e9e-04fed31ae078/TCGA-A2-A0EO-01A-01-TSA.36f29540-ef11-4f71-bfa7-170e5f037a0a_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1223,
+    "svs_file": "TCGA-A2-A0EU-01A-02-MSB.44688c8e-aaff-4acd-b70e-d4c570a04317.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c23893ca-70e4-4f8b-992c-84ae3e9a15e4/TCGA-A2-A0EU-01A-02-MSB.44688c8e-aaff-4acd-b70e-d4c570a04317_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1224,
+    "svs_file": "TCGA-BH-A0AU-01A-01-TSA.8370f783-9342-417c-b7bf-250368330ceb.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c24f3cb3-9ee5-4ca1-b97b-48836e56292d/TCGA-BH-A0AU-01A-01-TSA.8370f783-9342-417c-b7bf-250368330ceb_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1225,
+    "svs_file": "TCGA-AN-A04D-01A-02-BS2.5c72d68a-9c0e-4551-bc1f-21f91c168acc.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c26a35cd-3922-41ce-8f91-6c80573e3310/TCGA-AN-A04D-01A-02-BS2.5c72d68a-9c0e-4551-bc1f-21f91c168acc_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1226,
+    "svs_file": "TCGA-BH-A0HA-01A-01-BSA.3299cf66-843b-4c75-9ab2-fac7dd9a4dec.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c29d846a-6d7e-42ad-83ce-d625cb6178e8/TCGA-BH-A0HA-01A-01-BSA.3299cf66-843b-4c75-9ab2-fac7dd9a4dec_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1227,
+    "svs_file": "TCGA-A2-A0CX-01A-02-TSB.eae9814e-e25c-4dfe-9564-e348c74699ba.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c2b0c377-07f4-4a41-b01a-32212fba0bc2/TCGA-A2-A0CX-01A-02-TSB.eae9814e-e25c-4dfe-9564-e348c74699ba_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1228,
+    "svs_file": "TCGA-A7-A13H-01A-01-MS1.D6BDC38A-8528-46CA-91EE-4069A8CCD1C5.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c2d32855-185e-4460-b5e5-b2f1409f0467/TCGA-A7-A13H-01A-01-MS1.D6BDC38A-8528-46CA-91EE-4069A8CCD1C5_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1229,
+    "svs_file": "TCGA-A1-A0SE-01A-01-TS1.9de25aa5-6128-49b4-990b-c6bf3830489d.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c306b4bb-a653-441d-ac56-a9a7ad9a951c/TCGA-A1-A0SE-01A-01-TS1.9de25aa5-6128-49b4-990b-c6bf3830489d_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1230,
+    "svs_file": "TCGA-AO-A0JC-01A-01-TSA.261a41f2-e0b3-4c3b-bd16-ce6a61d1454c.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c31e76a9-7210-44b4-8645-7b174efa3b67/TCGA-AO-A0JC-01A-01-TSA.261a41f2-e0b3-4c3b-bd16-ce6a61d1454c_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1231,
+    "svs_file": "TCGA-BH-A42V-01A-01-TS1.34D6AC99-06D3-4A17-8519-2D71185DF7A4.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c32a9bd5-6b53-47bc-92ae-e524cab14048/TCGA-BH-A42V-01A-01-TS1.34D6AC99-06D3-4A17-8519-2D71185DF7A4_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1232,
+    "svs_file": "TCGA-AO-A0J8-01A-02-BSB.74af0d3a-ced8-495f-b765-bcaf313e3f08.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c37fdd4f-0f46-4fae-b057-026aef732ff0/TCGA-AO-A0J8-01A-02-BSB.74af0d3a-ced8-495f-b765-bcaf313e3f08_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1233,
+    "svs_file": "TCGA-A8-A07B-01A-01-BS1.b1f937c2-0868-4c6a-a85f-cc4853c0a639.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c398676d-f5d4-4865-9ad5-be991f82fa99/TCGA-A8-A07B-01A-01-BS1.b1f937c2-0868-4c6a-a85f-cc4853c0a639_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1234,
+    "svs_file": "TCGA-A2-A0ST-01A-01-TSA.8e2979c6-24f8-4dcf-8439-1da07dbc6a9b.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c3c831ca-75b2-4186-8959-08cc4899e0a0/TCGA-A2-A0ST-01A-01-TSA.8e2979c6-24f8-4dcf-8439-1da07dbc6a9b_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1235,
+    "svs_file": "TCGA-A8-A084-01A-02-MS2.20452f22-4c24-488f-a8e5-e7594579888c.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c3d3d42f-2dbe-4310-a8ad-f3bb1479dbdb/TCGA-A8-A084-01A-02-MS2.20452f22-4c24-488f-a8e5-e7594579888c_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1236,
+    "svs_file": "TCGA-A8-A08B-01A-01-MS1.6513191e-0189-4a23-9a56-5ac94a553b43.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c3ea7324-3d36-4d89-9939-2e0367ff6380/TCGA-A8-A08B-01A-01-MS1.6513191e-0189-4a23-9a56-5ac94a553b43_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1237,
+    "svs_file": "TCGA-B6-A0RL-01A-01-BSA.448744f8-8c40-4d41-ad86-e59e8fd63b47.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c4478142-a88b-412b-a591-e216fd370870/TCGA-B6-A0RL-01A-01-BSA.448744f8-8c40-4d41-ad86-e59e8fd63b47_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1238,
+    "svs_file": "TCGA-BH-A1FC-01A-01-TSA.7170e05f-33be-43ee-bb19-dfd819cc04fe.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c484e779-f409-4ede-b33e-07bde37fd87a/TCGA-BH-A1FC-01A-01-TSA.7170e05f-33be-43ee-bb19-dfd819cc04fe_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1239,
+    "svs_file": "TCGA-A2-A0CL-01A-01-BS1.216b597c-9d7c-448f-984e-5659006a9c40.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c48fe206-e111-4511-8687-c3cc26b3f9ff/TCGA-A2-A0CL-01A-01-BS1.216b597c-9d7c-448f-984e-5659006a9c40_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1240,
+    "svs_file": "TCGA-BH-A0BT-01A-01-BSA.5024ab0b-133d-4414-803d-29a1d63df444.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c4a50f22-b7f0-478f-86b3-f7128bcebcbe/TCGA-BH-A0BT-01A-01-BSA.5024ab0b-133d-4414-803d-29a1d63df444_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1241,
+    "svs_file": "TCGA-D8-A13Z-01A-01-BS1.164d43d3-bb10-423b-8eca-99abc75e8397.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c4db47ec-4bf6-41be-b91a-ab65c0b99e54/TCGA-D8-A13Z-01A-01-BS1.164d43d3-bb10-423b-8eca-99abc75e8397_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1242,
+    "svs_file": "TCGA-E2-A3DX-01A-02-TSB.4BD3DC88-03E9-426A-A7D4-033DD742279C.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c4ffcf0e-dcd4-49ae-b337-92e6dfca5b25/TCGA-E2-A3DX-01A-02-TSB.4BD3DC88-03E9-426A-A7D4-033DD742279C_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1243,
+    "svs_file": "TCGA-BH-A1FE-01A-01-TSA.d6713956-a320-419d-9e3d-ff9a8951a2d0.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c51cde14-8369-46aa-9544-1949d9e7562e/TCGA-BH-A1FE-01A-01-TSA.d6713956-a320-419d-9e3d-ff9a8951a2d0_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1244,
+    "svs_file": "TCGA-A2-A0YC-01A-01-TSA.dfb0f795-b54a-44fd-8ddd-105ac7c51d35.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c53c8ae2-3521-4ba0-bb36-84e55d1242c6/TCGA-A2-A0YC-01A-01-TSA.dfb0f795-b54a-44fd-8ddd-105ac7c51d35_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1245,
+    "svs_file": "TCGA-C8-A12N-01A-01-TS1.12467703-d419-4109-8a50-232366bf2c3b.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c54f7d2c-9b49-49e0-8d5a-b9eeac19a35e/TCGA-C8-A12N-01A-01-TS1.12467703-d419-4109-8a50-232366bf2c3b_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1246,
+    "svs_file": "TCGA-A8-A096-01A-01-BS1.fee8e940-d009-4580-b5dd-148a0218e31e.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c5524b46-b6c5-4081-b572-165c94918062/TCGA-A8-A096-01A-01-BS1.fee8e940-d009-4580-b5dd-148a0218e31e_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1247,
+    "svs_file": "TCGA-AO-A1KQ-01A-01-TSA.7154a02c-5a29-46ea-94d9-6453a6125e15.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c55fb4df-def7-4a46-a863-6bc6b04895bf/TCGA-AO-A1KQ-01A-01-TSA.7154a02c-5a29-46ea-94d9-6453a6125e15_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1248,
+    "svs_file": "TCGA-D8-A27E-01A-01-TSA.48a9ccf5-588d-4f44-a026-2ba63d43c5fd.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c591b2bd-f610-4f79-9b80-92ab79892cf8/TCGA-D8-A27E-01A-01-TSA.48a9ccf5-588d-4f44-a026-2ba63d43c5fd_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1249,
+    "svs_file": "TCGA-AC-A23E-01A-01-TSA.e43478f1-47e9-4b9c-8506-1978e481de57.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c59e3862-bffd-4caf-a8f8-081f47685276/TCGA-AC-A23E-01A-01-TSA.e43478f1-47e9-4b9c-8506-1978e481de57_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1250,
+    "svs_file": "TCGA-BH-A0DX-01A-01-TSA.326ef6ce-5ee6-4b23-ab87-199c55107405.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c5c4127d-d1c1-4aac-a684-2616eadb1425/TCGA-BH-A0DX-01A-01-TSA.326ef6ce-5ee6-4b23-ab87-199c55107405_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1251,
+    "svs_file": "TCGA-A8-A096-01A-01-TS1.e065fb32-52f0-49dd-a724-c689ee567379.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c63804fe-7790-4c8e-8735-1842fac15b9a/TCGA-A8-A096-01A-01-TS1.e065fb32-52f0-49dd-a724-c689ee567379_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1252,
+    "svs_file": "TCGA-AN-A03Y-01A-02-BS2.c10a444a-d23b-4334-9140-4c90d4e521b4.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c648c5e6-aa02-4c46-9f08-f201e94d0a30/TCGA-AN-A03Y-01A-02-BS2.c10a444a-d23b-4334-9140-4c90d4e521b4_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1253,
+    "svs_file": "TCGA-A2-A0D3-01A-01-TSA.55add6f4-ecd3-4228-af07-045ef5a2cbf6.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c65677c8-896b-45bc-80c0-2afb9725e9df/TCGA-A2-A0D3-01A-01-TSA.55add6f4-ecd3-4228-af07-045ef5a2cbf6_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1254,
+    "svs_file": "TCGA-BH-A0B4-01A-01-BSA.f2bcfe2d-e385-4d55-989e-9013d4a38230.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c68f6717-998b-4cdd-aa52-d2457e4f7675/TCGA-BH-A0B4-01A-01-BSA.f2bcfe2d-e385-4d55-989e-9013d4a38230_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1255,
+    "svs_file": "TCGA-BH-A209-01A-01-TSA.7ae4e111-b182-427b-8c46-726c2f94e82b.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c69a4d25-1440-48bb-9c2b-4505f5fb5afa/TCGA-BH-A209-01A-01-TSA.7ae4e111-b182-427b-8c46-726c2f94e82b_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1256,
+    "svs_file": "TCGA-BH-A1FJ-01A-01-TSA.676983af-aca4-415d-bf7b-f3de057ccd89.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c6c6e4bf-0479-4e09-87dd-a79774a17181/TCGA-BH-A1FJ-01A-01-TSA.676983af-aca4-415d-bf7b-f3de057ccd89_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1257,
+    "svs_file": "TCGA-AR-A0TP-01A-01-BSA.c952677d-24c0-4687-ba57-1f812fc51e91.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c6d577da-4db2-4cfd-b9c7-3cbf91cad70e/TCGA-AR-A0TP-01A-01-BSA.c952677d-24c0-4687-ba57-1f812fc51e91_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1258,
+    "svs_file": "TCGA-A7-A4SE-01A-01-TSA.E85740C0-F763-4776-A6BB-847C10CCA21C.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c734fc51-4151-4107-907d-bc565f3b77a4/TCGA-A7-A4SE-01A-01-TSA.E85740C0-F763-4776-A6BB-847C10CCA21C_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1259,
+    "svs_file": "TCGA-AC-A3OD-01B-06-BS6.DB7A09BB-5A66-45B0-A2CE-657BA8BC2E38.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c7506dad-edb6-4ac2-90fc-a08ca5b8c513/TCGA-AC-A3OD-01B-06-BS6.DB7A09BB-5A66-45B0-A2CE-657BA8BC2E38_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1260,
+    "svs_file": "TCGA-E9-A1RH-01A-02-TSB.03b969da-c200-48e2-bed2-ec2830daf487.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c7596aea-cd12-4abf-8fef-29631fdf6564/TCGA-E9-A1RH-01A-02-TSB.03b969da-c200-48e2-bed2-ec2830daf487_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1261,
+    "svs_file": "TCGA-D8-A145-01A-01-TS1.83d825eb-20f2-410b-a33e-258c5414dccf.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c7ad6fd8-bb6c-4628-8090-cc39ac250f6a/TCGA-D8-A145-01A-01-TS1.83d825eb-20f2-410b-a33e-258c5414dccf_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1262,
+    "svs_file": "TCGA-AC-A5XU-01A-01-TSA.53BFAB63-FB19-4F47-B71C-C93645D58BBB.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c7c7c0dc-7998-46ae-8306-2d1f6ea1fbc2/TCGA-AC-A5XU-01A-01-TSA.53BFAB63-FB19-4F47-B71C-C93645D58BBB_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1263,
+    "svs_file": "TCGA-B6-A0WW-01A-01-TS1.0b847cf2-8c5e-4f79-91c4-2781eaa137f9.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c826aee8-3e85-43d4-bf1c-bfc473a29e39/TCGA-B6-A0WW-01A-01-TS1.0b847cf2-8c5e-4f79-91c4-2781eaa137f9_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1264,
+    "svs_file": "TCGA-D8-A143-01A-01-BSA.0b346101-acfa-429f-a30d-3ed544719c7a.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c82d104b-10cb-4de9-a190-4e1abe2839dc/TCGA-D8-A143-01A-01-BSA.0b346101-acfa-429f-a30d-3ed544719c7a_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1265,
+    "svs_file": "TCGA-C8-A12Q-01A-01-BSA.0ca5b171-d61d-4e6d-b365-4cd6bd288aec.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c85314c2-d915-413a-aa8d-aa8d7cfb74e3/TCGA-C8-A12Q-01A-01-BSA.0ca5b171-d61d-4e6d-b365-4cd6bd288aec_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1266,
+    "svs_file": "TCGA-AN-A0FD-01A-01-BS1.8993b012-d168-422d-ae26-a3947764acd9.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c86e0a95-5ebb-4c0e-a8d1-5f28d5ee7957/TCGA-AN-A0FD-01A-01-BS1.8993b012-d168-422d-ae26-a3947764acd9_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1267,
+    "svs_file": "TCGA-BH-A0AY-01A-02-TSB.06ebda0b-2dd5-4116-9f51-c3a0ad9fb8bb.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c882bcf6-8ce4-4ecb-a77c-29d87b148b8c/TCGA-BH-A0AY-01A-02-TSB.06ebda0b-2dd5-4116-9f51-c3a0ad9fb8bb_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1268,
+    "svs_file": "TCGA-A1-A0SG-01A-01-TS1.5f26a16f-7657-4383-8c5e-48c62cc2e258.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c88d4e3f-aa39-46d6-ae1c-18c3f77b50b8/TCGA-A1-A0SG-01A-01-TS1.5f26a16f-7657-4383-8c5e-48c62cc2e258_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1269,
+    "svs_file": "TCGA-A2-A0CX-01A-02-BSB.04ad0cae-1b9c-472f-8d08-ea6995e00bdd.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c88e50ae-968b-4105-b7d9-e150c4c2c061/TCGA-A2-A0CX-01A-02-BSB.04ad0cae-1b9c-472f-8d08-ea6995e00bdd_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1270,
+    "svs_file": "TCGA-A8-A0A6-01A-01-MS1.8a85e02c-6098-4347-be13-b645b860057d.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c8a044a6-c96c-4ef6-8519-844473890ed4/TCGA-A8-A0A6-01A-01-MS1.8a85e02c-6098-4347-be13-b645b860057d_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1271,
+    "svs_file": "TCGA-E2-A15C-01A-03-TSC.19c1b196-81cc-46f9-8e36-59e833b6e369.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c9067ce6-c382-497d-b718-32f354dacc10/TCGA-E2-A15C-01A-03-TSC.19c1b196-81cc-46f9-8e36-59e833b6e369_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1272,
+    "svs_file": "TCGA-A2-A0EQ-01A-01-TSA.c64d0ac8-9849-47c7-86e1-2e2037b02422.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c91cfb60-f89d-4c63-8757-9bc367bad880/TCGA-A2-A0EQ-01A-01-TSA.c64d0ac8-9849-47c7-86e1-2e2037b02422_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1273,
+    "svs_file": "TCGA-BH-A0AV-01A-03-MSC.f769a3c4-ee58-45c2-931e-d94b31981169.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c9245cfd-d30c-4cce-b750-072070084f0c/TCGA-BH-A0AV-01A-03-MSC.f769a3c4-ee58-45c2-931e-d94b31981169_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1274,
+    "svs_file": "TCGA-A2-A1FV-01A-01-TSA.1ef7e33c-4e9f-46fb-8600-e2028e666b58.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c935479d-0baf-4f0d-bebb-6f765d36238e/TCGA-A2-A1FV-01A-01-TSA.1ef7e33c-4e9f-46fb-8600-e2028e666b58_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1275,
+    "svs_file": "TCGA-E2-A15E-01A-01-TSA.2b86c3d9-2b3d-4d2b-9f8f-dfef08275677.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c94cfb8f-aa61-488b-9654-2b480ac11ea6/TCGA-E2-A15E-01A-01-TSA.2b86c3d9-2b3d-4d2b-9f8f-dfef08275677_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1276,
+    "svs_file": "TCGA-BH-A0B3-01A-01-BSA.6e9592e8-196a-40a2-bc46-55dee088bc76.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c964dbe0-40d6-4844-bf8e-e78fb66a3699/TCGA-BH-A0B3-01A-01-BSA.6e9592e8-196a-40a2-bc46-55dee088bc76_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1277,
+    "svs_file": "TCGA-B6-A0RP-01A-02-TSB.33cd7f49-a917-49af-9dad-40e1e645f171.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c9703424-1b50-493c-82cc-abee33f122ee/TCGA-B6-A0RP-01A-02-TSB.33cd7f49-a917-49af-9dad-40e1e645f171_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1278,
+    "svs_file": "TCGA-AR-A254-01A-02-TSB.098d701e-d135-47a2-ba97-298a12462de1.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c971c15b-88eb-4d8e-8fac-2fe667c0730b/TCGA-AR-A254-01A-02-TSB.098d701e-d135-47a2-ba97-298a12462de1_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1279,
+    "svs_file": "TCGA-E9-A1N6-01A-01-TSA.cb99a09f-ab42-403f-a8b1-f45be63f2946.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c9817bc7-33a5-4591-bd2b-5c057d2dedb4/TCGA-E9-A1N6-01A-01-TSA.cb99a09f-ab42-403f-a8b1-f45be63f2946_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1280,
+    "svs_file": "TCGA-B6-A0RE-01A-01-TS1.8df18495-1c1f-4114-a5ee-8dece9b410aa.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c9ad1887-191a-43c7-84be-adf1d41bd00e/TCGA-B6-A0RE-01A-01-TS1.8df18495-1c1f-4114-a5ee-8dece9b410aa_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1281,
+    "svs_file": "TCGA-A2-A0ST-01A-01-BSA.187f1dfd-47df-4e31-883c-62534d8e0dd5.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c9c58d1a-1d5c-4d19-a11c-b691c3b89154/TCGA-A2-A0ST-01A-01-BSA.187f1dfd-47df-4e31-883c-62534d8e0dd5_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1282,
+    "svs_file": "TCGA-B6-A1KC-01B-01-TS1.af22665c-5cc1-4c93-a95c-65580c40e7e1.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/c9cbbc3c-59bd-4571-8379-5f025022de90/TCGA-B6-A1KC-01B-01-TS1.af22665c-5cc1-4c93-a95c-65580c40e7e1_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1283,
+    "svs_file": "TCGA-B6-A0RT-01A-02-TSB.f71d0d64-f522-441c-8bb1-e67fa92653bf.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ca00471b-3513-404d-8420-43e7a2d7b22c/TCGA-B6-A0RT-01A-02-TSB.f71d0d64-f522-441c-8bb1-e67fa92653bf_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1284,
+    "svs_file": "TCGA-A8-A07W-01A-01-BSA.0f13b36e-14b4-4e59-8800-2e8d86b08079.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ca044f51-ce1a-433a-ae8d-8f90e382ba63/TCGA-A8-A07W-01A-01-BSA.0f13b36e-14b4-4e59-8800-2e8d86b08079_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1285,
+    "svs_file": "TCGA-B6-A0IE-01A-01-TSA.8a087aa5-e53d-41e2-8709-63c3d03ea7db.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ca06f9d9-f193-4ec1-afa7-289265b6eb13/TCGA-B6-A0IE-01A-01-TSA.8a087aa5-e53d-41e2-8709-63c3d03ea7db_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1286,
+    "svs_file": "TCGA-BH-A1ES-01A-01-TSA.94f9e0f1-711e-40aa-a249-119871c21dd2.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ca081cee-3665-43f5-8b0a-4d3c26f50eb9/TCGA-BH-A1ES-01A-01-TSA.94f9e0f1-711e-40aa-a249-119871c21dd2_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1287,
+    "svs_file": "TCGA-D8-A1XF-01A-01-TS1.2debd2a3-fb89-43d6-94a9-145f831aa282.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ca777b9f-6cf0-4ff9-bb12-9b781f583992/TCGA-D8-A1XF-01A-01-TS1.2debd2a3-fb89-43d6-94a9-145f831aa282_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1288,
+    "svs_file": "TCGA-A7-A0DC-01A-01-TS1.19dd493c-9563-416b-8e3f-71c6ef3e8e95.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ca7d68f5-3c9c-4f50-bbb4-f726a0079e2d/TCGA-A7-A0DC-01A-01-TS1.19dd493c-9563-416b-8e3f-71c6ef3e8e95_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1289,
+    "svs_file": "TCGA-A8-A091-01A-01-TS1.c06440ae-88c4-4ed8-a1be-cd23967db5c3.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ca7e0d59-7c28-41ba-8c55-59b69ab80d07/TCGA-A8-A091-01A-01-TS1.c06440ae-88c4-4ed8-a1be-cd23967db5c3_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1290,
+    "svs_file": "TCGA-AO-A1KO-01A-03-TSC.4226d4b4-f783-41d6-ba0e-ee74719cb152.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cabc5aa4-9dc7-4406-89fc-2cbfa7d0eb66/TCGA-AO-A1KO-01A-03-TSC.4226d4b4-f783-41d6-ba0e-ee74719cb152_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1291,
+    "svs_file": "TCGA-BH-A0B7-01A-01-TSA.c22d40fb-49bd-406f-bb75-83d655889804.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/caf3c564-e179-4b9e-a289-db2555352577/TCGA-BH-A0B7-01A-01-TSA.c22d40fb-49bd-406f-bb75-83d655889804_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1292,
+    "svs_file": "TCGA-B6-A0RO-01A-02-TSB.af00bb62-e1ef-4042-a8fe-80173e42c9f8.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cb22fc6e-342e-4a55-a754-66679f4a42c0/TCGA-B6-A0RO-01A-02-TSB.af00bb62-e1ef-4042-a8fe-80173e42c9f8_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1293,
+    "svs_file": "TCGA-AO-A03V-01A-01-MS1.ade6a103-b697-4730-82f9-4c9ba6eda8a1.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cb3e7cb3-8a99-4baf-bfc1-7cfe09bbc39f/TCGA-AO-A03V-01A-01-MS1.ade6a103-b697-4730-82f9-4c9ba6eda8a1_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1294,
+    "svs_file": "TCGA-A8-A08R-01A-01-BS1.7d1f1daf-4f4f-4126-8b13-3febf866f042.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cb54343b-4ba9-4d6e-96eb-1a183d6a5ff3/TCGA-A8-A08R-01A-01-BS1.7d1f1daf-4f4f-4126-8b13-3febf866f042_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1295,
+    "svs_file": "TCGA-A2-A0EX-01A-02-MSB.8a884510-c00e-442d-bf13-1eb36f4ee10b.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cb58d436-d4d7-4a05-a12f-5536b90c9efb/TCGA-A2-A0EX-01A-02-MSB.8a884510-c00e-442d-bf13-1eb36f4ee10b_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1296,
+    "svs_file": "TCGA-A2-A0SU-01A-01-TSA.1501d762-6b57-43d8-b8bb-fe7970b750dd.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cb80ee9b-a009-46d2-b907-b978a8368960/TCGA-A2-A0SU-01A-01-TSA.1501d762-6b57-43d8-b8bb-fe7970b750dd_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1297,
+    "svs_file": "TCGA-EW-A1OV-01A-01-TSA.9ccd6a13-34e4-4d98-9a18-3e7136ec0a13.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cb83e019-f1cb-4fa9-a415-015db323ba43/TCGA-EW-A1OV-01A-01-TSA.9ccd6a13-34e4-4d98-9a18-3e7136ec0a13_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1298,
+    "svs_file": "TCGA-BH-A18I-01A-01-TSA.ef056365-4256-4249-9632-5647ee23a6dc.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cbba775e-542d-4c76-9b87-0aaf871fc303/TCGA-BH-A18I-01A-01-TSA.ef056365-4256-4249-9632-5647ee23a6dc_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1299,
+    "svs_file": "TCGA-BH-A0EA-01A-01-MSA.a0826f0d-986a-491b-8c6f-b34f8929f3ee.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cc040860-10f3-4e91-81e2-32c1d6a6a033/TCGA-BH-A0EA-01A-01-MSA.a0826f0d-986a-491b-8c6f-b34f8929f3ee_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1300,
+    "svs_file": "TCGA-AO-A0J8-01A-02-TSB.0fbb2777-df10-4bbb-9d37-e76cf0993444.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cc04dac5-af7a-4f46-ac18-c80d23f22153/TCGA-AO-A0J8-01A-02-TSB.0fbb2777-df10-4bbb-9d37-e76cf0993444_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1301,
+    "svs_file": "TCGA-A8-A06Q-01A-01-TS1.6a3caeab-6ec9-4829-b7e2-dbe7a6279a54.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cc686db7-61a9-47f1-8cd9-a1b99559118b/TCGA-A8-A06Q-01A-01-TS1.6a3caeab-6ec9-4829-b7e2-dbe7a6279a54_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1302,
+    "svs_file": "TCGA-BH-A18U-01A-02-TSB.157a84f2-044a-4414-a029-d5b626e1b53e.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cc776dec-81b6-4f18-bfda-8e51ced636c0/TCGA-BH-A18U-01A-02-TSB.157a84f2-044a-4414-a029-d5b626e1b53e_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1303,
+    "svs_file": "TCGA-A8-A093-01A-01-BS1.3909d441-2e91-4182-ad97-9e55853961a9.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ccc2ab39-0823-4a2d-89a6-05200db2159a/TCGA-A8-A093-01A-01-BS1.3909d441-2e91-4182-ad97-9e55853961a9_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1304,
+    "svs_file": "TCGA-AR-A255-01A-01-TSA.85414c8e-dc54-4ae2-80dd-c58db439c5c7.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cd700415-79ee-4274-8743-b02dc5266df7/TCGA-AR-A255-01A-01-TSA.85414c8e-dc54-4ae2-80dd-c58db439c5c7_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1305,
+    "svs_file": "TCGA-A2-A0EN-01A-01-TSA.d57caa16-813c-41c9-9b9a-3e906e576bb0.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cd915488-38ba-4f0b-bbaf-ecf081e61e44/TCGA-A2-A0EN-01A-01-TSA.d57caa16-813c-41c9-9b9a-3e906e576bb0_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1306,
+    "svs_file": "TCGA-BH-A0BL-01A-01-BSA.f8277eba-2d30-4c5f-ae15-94daba29503a.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cdcd79e1-ec17-4178-a159-b0159146bbc3/TCGA-BH-A0BL-01A-01-BSA.f8277eba-2d30-4c5f-ae15-94daba29503a_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1307,
+    "svs_file": "TCGA-AC-A2FB-01A-01-TS1.36526F45-F01A-4CE1-BD6A-C10BE2CF96B1.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ce344ff3-cb19-425a-93e5-d5adbd746e2b/TCGA-AC-A2FB-01A-01-TS1.36526F45-F01A-4CE1-BD6A-C10BE2CF96B1_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1308,
+    "svs_file": "TCGA-AR-A1AP-01A-01-TSA.462d1ac8-1c00-4690-9d0e-975853c4c5f2.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ce6150bc-54a4-48d5-b699-7948c672fc00/TCGA-AR-A1AP-01A-01-TSA.462d1ac8-1c00-4690-9d0e-975853c4c5f2_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1309,
+    "svs_file": "TCGA-C8-A3M7-01A-01-TS1.677A5F7E-ED18-477D-9CB7-315A4C0E2672.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ce72a47e-2c2b-4768-90da-85a0fa10f08a/TCGA-C8-A3M7-01A-01-TS1.677A5F7E-ED18-477D-9CB7-315A4C0E2672_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1310,
+    "svs_file": "TCGA-E2-A1LI-01A-01-TS1.fbca9d73-aac9-43ba-82cc-7eb527c4904e.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/ce94d0ef-fa7e-452e-93ed-22e37c2775ec/TCGA-E2-A1LI-01A-01-TS1.fbca9d73-aac9-43ba-82cc-7eb527c4904e_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1311,
+    "svs_file": "TCGA-AC-A3QQ-01B-05-BS5.D6D3A471-DD4B-4138-8395-9E40A8DB3EF3.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cec06ea8-c762-4803-8a6e-5c97c59cb0e3/TCGA-AC-A3QQ-01B-05-BS5.D6D3A471-DD4B-4138-8395-9E40A8DB3EF3_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1312,
+    "svs_file": "TCGA-A2-A04T-01A-02-BSB.3bc8f196-5f7b-4207-bf6d-6430bac94fe2.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cef7e32a-32c6-4934-98fb-c5887f4fc500/TCGA-A2-A04T-01A-02-BSB.3bc8f196-5f7b-4207-bf6d-6430bac94fe2_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1313,
+    "svs_file": "TCGA-AO-A03M-01B-01-BSA.027f29c9-e640-476a-8638-95613f1319a0.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cf0922fb-94e8-4b02-8fc5-d51159fb6602/TCGA-AO-A03M-01B-01-BSA.027f29c9-e640-476a-8638-95613f1319a0_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1314,
+    "svs_file": "TCGA-BH-A0BW-01A-01-BSA.e6e7f7cd-a931-4d02-acf6-87b0bbf21fba.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cf0a5a4b-af02-42b0-b170-a9546588c9a1/TCGA-BH-A0BW-01A-01-BSA.e6e7f7cd-a931-4d02-acf6-87b0bbf21fba_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1315,
+    "svs_file": "TCGA-B6-A0I6-01A-01-BSA.396e5da4-a3b2-4e76-8866-1d78438eaf1c.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cf230bf5-e609-4d55-bdfb-ef11400b7014/TCGA-B6-A0I6-01A-01-BSA.396e5da4-a3b2-4e76-8866-1d78438eaf1c_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1316,
+    "svs_file": "TCGA-BH-A0C1-01B-01-BS1.2fa43733-dfce-4806-99d1-ef0834132ff6.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cf41ea9d-b7ed-498d-b54d-d8bc7d26f581/TCGA-BH-A0C1-01B-01-BS1.2fa43733-dfce-4806-99d1-ef0834132ff6_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1317,
+    "svs_file": "TCGA-EW-A1PA-01A-01-TSA.b6516a72-91fb-4dd8-8da0-2a9989a48e14.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cf541104-161b-4e2b-9f22-03748c765920/TCGA-EW-A1PA-01A-01-TSA.b6516a72-91fb-4dd8-8da0-2a9989a48e14_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1318,
+    "svs_file": "TCGA-E2-A1LS-01A-01-TSA.ab745fbc-dd5a-47f7-b60e-9533e52465e6.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cf5b3ecf-1215-4984-8dbe-1798153ff249/TCGA-E2-A1LS-01A-01-TSA.ab745fbc-dd5a-47f7-b60e-9533e52465e6_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1319,
+    "svs_file": "TCGA-AO-A03R-01A-02-BS2.70825602-abda-4ac3-b050-800743213b54.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cf6c3fe6-5200-4943-8582-bd26ebc38c76/TCGA-AO-A03R-01A-02-BS2.70825602-abda-4ac3-b050-800743213b54_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1320,
+    "svs_file": "TCGA-A7-A5ZX-01A-01-TS1.34A6187F-702F-49C0-BF87-4C496FB5DD43.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/cfd47e0c-c3a9-4ca3-ad62-83c0b1385b0e/TCGA-A7-A5ZX-01A-01-TS1.34A6187F-702F-49C0-BF87-4C496FB5DD43_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1321,
+    "svs_file": "TCGA-A1-A0SF-01A-01-MSA.d0f9a7bb-14fb-45a6-aedc-eddaa95ad41f.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d01aede4-a986-4f8a-94dd-733bedcaf8a5/TCGA-A1-A0SF-01A-01-MSA.d0f9a7bb-14fb-45a6-aedc-eddaa95ad41f_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1322,
+    "svs_file": "TCGA-BH-A0BD-01A-01-TSA.b92fbb4e-3f22-48d5-9b1e-af972a45232e.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d0794329-4e06-4021-bde2-3620fa6091f0/TCGA-BH-A0BD-01A-01-TSA.b92fbb4e-3f22-48d5-9b1e-af972a45232e_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1323,
+    "svs_file": "TCGA-GM-A2DB-01A-03-TSC.C17D5A0E-AF3D-49D8-8604-C0E1DA70926D.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d0884bae-1d03-42f6-94eb-f5bf858bb79e/TCGA-GM-A2DB-01A-03-TSC.C17D5A0E-AF3D-49D8-8604-C0E1DA70926D_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1324,
+    "svs_file": "TCGA-A2-A0CU-01A-01-TS1.332cdd40-deca-4fad-8cf6-03fb91b121c3.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d0aa8fbf-a7a9-4290-b34a-6a0dd00af47d/TCGA-A2-A0CU-01A-01-TS1.332cdd40-deca-4fad-8cf6-03fb91b121c3_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1325,
+    "svs_file": "TCGA-A7-A13E-01A-01-TSA.4f107ed6-13b7-4685-9baf-d7ba5a4adeff.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d0c39b98-9162-4216-a0c8-ee43bd3351e5/TCGA-A7-A13E-01A-01-TSA.4f107ed6-13b7-4685-9baf-d7ba5a4adeff_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1326,
+    "svs_file": "TCGA-AC-A2B8-01A-01-TS1.3DCB9F29-3858-4881-B8F7-3A1E95286C8F.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d0c7c72b-5136-4a0e-a293-1646eda162d6/TCGA-AC-A2B8-01A-01-TS1.3DCB9F29-3858-4881-B8F7-3A1E95286C8F_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1327,
+    "svs_file": "TCGA-AR-A0U2-01A-01-BSA.1bd5ddeb-f22c-4147-b905-0f1316e5903a.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d0f39dd1-c0de-47e8-b6a4-0e8ed50c9ccf/TCGA-AR-A0U2-01A-01-BSA.1bd5ddeb-f22c-4147-b905-0f1316e5903a_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1328,
+    "svs_file": "TCGA-B6-A0X0-01A-02-TSB.4a0d7401-a55b-4073-8bae-9ced32245447.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d1138631-5e19-41cd-93ea-4652573f9bea/TCGA-B6-A0X0-01A-02-TSB.4a0d7401-a55b-4073-8bae-9ced32245447_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1329,
+    "svs_file": "TCGA-AN-A0FJ-01A-01-BSA.cef21074-da54-4b5d-859f-1ad06b1b7c7e.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d13bd3f5-7513-482d-affb-1d241d562300/TCGA-AN-A0FJ-01A-01-BSA.cef21074-da54-4b5d-859f-1ad06b1b7c7e_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1330,
+    "svs_file": "TCGA-OL-A5RU-01A-01-TSA.EADD3E6A-8614-4BE9-B061-66E57EDD1781.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d16a53db-6987-4502-8dff-b62aec9ba0b2/TCGA-OL-A5RU-01A-01-TSA.EADD3E6A-8614-4BE9-B061-66E57EDD1781_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1331,
+    "svs_file": "TCGA-AQ-A0Y5-01A-01-BSA.0402a8fd-a121-4a86-927e-073a2e4a7e7e.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d19cbf2b-1b0e-4ef8-8b12-0899f823048f/TCGA-AQ-A0Y5-01A-01-BSA.0402a8fd-a121-4a86-927e-073a2e4a7e7e_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1332,
+    "svs_file": "TCGA-EW-A6S9-01A-02-TS2.C421885C-98C3-45B9-B01B-49779B87922C.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d1a4ea57-6b15-46ba-a771-939cec136296/TCGA-EW-A6S9-01A-02-TS2.C421885C-98C3-45B9-B01B-49779B87922C_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1333,
+    "svs_file": "TCGA-BH-A0HB-01A-01-MSA.4111470f-6088-4244-9788-d1f4d7643a71.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d21ef8d1-4f43-419b-9d92-efbf78907374/TCGA-BH-A0HB-01A-01-MSA.4111470f-6088-4244-9788-d1f4d7643a71_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1334,
+    "svs_file": "TCGA-AN-A0G0-01A-01-TS1.35437324-f765-4522-aea3-c564491b948f.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d265c7df-fd46-4491-aa87-92282428a907/TCGA-AN-A0G0-01A-01-TS1.35437324-f765-4522-aea3-c564491b948f_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1335,
+    "svs_file": "TCGA-4H-AAAK-01A-01-TS1.E2C90DAA-EEAF-4F0B-9495-B100AA4DC26C.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d2a7083e-d5d8-4c26-a250-5f245243659a/TCGA-4H-AAAK-01A-01-TS1.E2C90DAA-EEAF-4F0B-9495-B100AA4DC26C_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1336,
+    "svs_file": "TCGA-B6-A0IP-01A-01-BSA.a052ef3d-7640-4a8a-8060-5f88d7ce9e94.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d2a708ea-f9cd-485f-8917-060f7389f436/TCGA-B6-A0IP-01A-01-BSA.a052ef3d-7640-4a8a-8060-5f88d7ce9e94_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1337,
+    "svs_file": "TCGA-A2-A0EX-01A-02-TSB.8880934b-a491-492b-b6bc-32b50276ba99.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d2b83c2f-9bff-4f08-9665-9c0298d87ab8/TCGA-A2-A0EX-01A-02-TSB.8880934b-a491-492b-b6bc-32b50276ba99_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1338,
+    "svs_file": "TCGA-BH-A18L-01A-03-TSC.6bf9df68-0928-475d-89d6-2d92223306f7.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d2ee2ec6-aafa-4d25-aa8b-9e9f4c7df6a7/TCGA-BH-A18L-01A-03-TSC.6bf9df68-0928-475d-89d6-2d92223306f7_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1339,
+    "svs_file": "TCGA-A8-A085-01A-01-TS1.fa2aa0e5-c6fb-44fa-b407-9fa5b2912a81.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d302485d-cfd4-44c8-8987-ccc0d515cd40/TCGA-A8-A085-01A-01-TS1.fa2aa0e5-c6fb-44fa-b407-9fa5b2912a81_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1340,
+    "svs_file": "TCGA-A2-A1G1-01A-02-TSB.084536c6-00fe-428c-b744-47d391f0a0ef.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d338eb73-71fc-4391-b288-14d6032b93ac/TCGA-A2-A1G1-01A-02-TSB.084536c6-00fe-428c-b744-47d391f0a0ef_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1341,
+    "svs_file": "TCGA-AO-A03O-01A-01-TS1.dbeaa688-64e0-48ce-bd9a-cfba3407bca6.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d363e3fe-c1e6-4dc9-b5fe-34ec5571b1d7/TCGA-AO-A03O-01A-01-TS1.dbeaa688-64e0-48ce-bd9a-cfba3407bca6_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1342,
+    "svs_file": "TCGA-C8-A26X-01A-03-TSC.d9c6926f-687a-47a1-9427-a00b7040d661.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d3f45517-a4e5-48b0-854a-b72f1734ee00/TCGA-C8-A26X-01A-03-TSC.d9c6926f-687a-47a1-9427-a00b7040d661_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1343,
+    "svs_file": "TCGA-A7-A4SB-01A-02-TSB.C5F241F1-8E0C-46A9-96CF-17AC925C51AC.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d429018b-1a5a-4843-8b53-2d421a7d5e3e/TCGA-A7-A4SB-01A-02-TSB.C5F241F1-8E0C-46A9-96CF-17AC925C51AC_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1344,
+    "svs_file": "TCGA-A8-A07U-01A-01-MS1.92764161-0edd-431b-a770-259c8e240364.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d43abb9b-1a41-45a1-9d1c-c7ad2d67fbc5/TCGA-A8-A07U-01A-01-MS1.92764161-0edd-431b-a770-259c8e240364_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1345,
+    "svs_file": "TCGA-A8-A08X-01A-01-BS1.e4d6c832-f42b-4a1d-8a98-4fbdb3ce0e2a.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d43c09fd-d042-45e2-b608-57f1aa07318b/TCGA-A8-A08X-01A-01-BS1.e4d6c832-f42b-4a1d-8a98-4fbdb3ce0e2a_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1346,
+    "svs_file": "TCGA-A7-A0CH-01A-01-BS1.73ec327b-b515-483f-a8e0-acf503dbb16a.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d4737ff1-a1ea-49ac-8ffd-8c85f17e007a/TCGA-A7-A0CH-01A-01-BS1.73ec327b-b515-483f-a8e0-acf503dbb16a_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1347,
+    "svs_file": "TCGA-BH-A0BJ-01A-01-BSA.979caa76-44d5-4c81-ac78-08908ce542d2.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d48ecdba-8170-4981-9907-14264e07cd76/TCGA-BH-A0BJ-01A-01-BSA.979caa76-44d5-4c81-ac78-08908ce542d2_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1348,
+    "svs_file": "TCGA-E9-A1RB-01A-01-TSA.a64d4330-5a0f-4cbe-bd5b-e761af3234dd.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d4c06d06-c421-47da-b9d5-ab301ced41e2/TCGA-E9-A1RB-01A-01-TSA.a64d4330-5a0f-4cbe-bd5b-e761af3234dd_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1349,
+    "svs_file": "TCGA-AN-A0XN-01A-02-TSB.9df84504-2154-4f54-96f8-273ad703f0f0.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d4ccbe99-6998-4832-9cb1-75e3c1358ff9/TCGA-AN-A0XN-01A-02-TSB.9df84504-2154-4f54-96f8-273ad703f0f0_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1350,
+    "svs_file": "TCGA-AO-A0J3-01A-01-TSA.86832b75-652d-40a9-a29a-1638bcce1aef.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d4dffc42-0a67-4ee2-ac7e-b2944ec52d76/TCGA-AO-A0J3-01A-01-TSA.86832b75-652d-40a9-a29a-1638bcce1aef_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1351,
+    "svs_file": "TCGA-A7-A13E-01B-04-BS4.31B2B06B-FAB3-4166-A933-C36A78FEB259.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d4e19de6-6b6c-4019-ac2e-5d093f80a69c/TCGA-A7-A13E-01B-04-BS4.31B2B06B-FAB3-4166-A933-C36A78FEB259_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1352,
+    "svs_file": "TCGA-E9-A1RE-01A-01-TSA.a7672cd5-758c-4580-9390-26607eb98d7b.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d4ebd51f-78b7-4621-882d-53bd1a93f32a/TCGA-E9-A1RE-01A-01-TSA.a7672cd5-758c-4580-9390-26607eb98d7b_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1353,
+    "svs_file": "TCGA-E2-A155-01A-01-TSA.555fff50-3656-4fe1-bd55-867efffc6ae0.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d5077222-c048-4694-b7aa-7d5a47d13dc3/TCGA-E2-A155-01A-01-TSA.555fff50-3656-4fe1-bd55-867efffc6ae0_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1354,
+    "svs_file": "TCGA-B6-A0IA-01A-01-TSA.77975eac-fd36-4fd6-915f-279f8ede5437.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d52ee081-9a2f-4c0f-b504-90a860b8ed4c/TCGA-B6-A0IA-01A-01-TSA.77975eac-fd36-4fd6-915f-279f8ede5437_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1355,
+    "svs_file": "TCGA-A8-A08O-01A-01-BS1.4d78f0ab-bbcc-469e-a381-a4e9b763fd03.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d535bc5c-b246-4127-978f-8d3b6d4402e1/TCGA-A8-A08O-01A-01-BS1.4d78f0ab-bbcc-469e-a381-a4e9b763fd03_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1356,
+    "svs_file": "TCGA-BH-A0E9-01B-01-BSA.a92a2910-0c73-4abb-9c85-b1d1f7d19618.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d5474e86-afd3-4c9d-84ab-8de60eafff20/TCGA-BH-A0E9-01B-01-BSA.a92a2910-0c73-4abb-9c85-b1d1f7d19618_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1357,
+    "svs_file": "TCGA-E9-A22B-01A-01-TSA.c56b2348-5c2c-4212-98f9-fbdcc444963b.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d5ab0a82-f773-4df7-ae46-a6e151d1c568/TCGA-E9-A22B-01A-01-TSA.c56b2348-5c2c-4212-98f9-fbdcc444963b_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1358,
+    "svs_file": "TCGA-GM-A5PX-01A-01-TS1.B6353D86-B0CD-464C-B976-752100D5CAE8.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d5ac4040-2bd4-4326-b403-e70910e0dd8e/TCGA-GM-A5PX-01A-01-TS1.B6353D86-B0CD-464C-B976-752100D5CAE8_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1359,
+    "svs_file": "TCGA-BH-A0DE-01A-01-TSA.2a52bf9e-45aa-4e5b-8ee7-12476f5f9329.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d5bc491c-1805-4a69-95cd-9d44e3823439/TCGA-BH-A0DE-01A-01-TSA.2a52bf9e-45aa-4e5b-8ee7-12476f5f9329_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1360,
+    "svs_file": "TCGA-E2-A14X-01A-01-TSA.8d861810-a681-4877-bccd-aa0f83074a2a.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d5d9114e-e22d-4eea-bf80-6d2201f38822/TCGA-E2-A14X-01A-01-TSA.8d861810-a681-4877-bccd-aa0f83074a2a_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1361,
+    "svs_file": "TCGA-E2-A1IH-01A-01-TSA.99bfdaa7-707e-408e-b285-d5bc61291557.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d5e5c2f4-68d9-4e88-9390-3df2bb637dfc/TCGA-E2-A1IH-01A-01-TSA.99bfdaa7-707e-408e-b285-d5bc61291557_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1362,
+    "svs_file": "TCGA-GM-A4E0-01A-01-TS1.43B57619-CB29-46C6-BAEA-5064872B4EE7.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d6587cd1-9d5a-4215-834a-c401b4bfaf0c/TCGA-GM-A4E0-01A-01-TS1.43B57619-CB29-46C6-BAEA-5064872B4EE7_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1363,
+    "svs_file": "TCGA-E9-A22D-01A-01-TSA.1d806ebb-4c31-45ae-898e-139903e04c43.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d659317a-ad1f-4c00-97e9-aab7092717d4/TCGA-E9-A22D-01A-01-TSA.1d806ebb-4c31-45ae-898e-139903e04c43_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1364,
+    "svs_file": "TCGA-A8-A09B-01A-01-BS1.57e0c9cd-4447-483c-9102-01ce22d30235.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d693a4e4-1d8f-4951-8d39-64c0726c2c4f/TCGA-A8-A09B-01A-01-BS1.57e0c9cd-4447-483c-9102-01ce22d30235_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1365,
+    "svs_file": "TCGA-BH-A0HL-01A-01-TSA.2807c8d7-6e2a-421d-91dc-4ce76a1445a3.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d6d15266-0417-4b58-b17e-adcae9869c3a/TCGA-BH-A0HL-01A-01-TSA.2807c8d7-6e2a-421d-91dc-4ce76a1445a3_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1366,
+    "svs_file": "TCGA-BH-A0BS-01A-01-TSA.2de86c0c-c9f9-41fc-8f82-966b48b6af7b.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d6e99a70-822c-4f61-bcf2-5630b406802b/TCGA-BH-A0BS-01A-01-TSA.2de86c0c-c9f9-41fc-8f82-966b48b6af7b_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1367,
+    "svs_file": "TCGA-B6-A0IQ-01A-01-BSA.cef99d47-96e6-4c8c-bb01-9b94425206af.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d785a695-0a0e-43b4-9cc3-e8515079411d/TCGA-B6-A0IQ-01A-01-BSA.cef99d47-96e6-4c8c-bb01-9b94425206af_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1368,
+    "svs_file": "TCGA-BH-A0B0-01A-02-BSB.f982be37-f191-4a96-a1a4-3cfefdfc9a19.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d7b1aef5-9958-46a4-bece-e9b42d95d726/TCGA-BH-A0B0-01A-02-BSB.f982be37-f191-4a96-a1a4-3cfefdfc9a19_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1369,
+    "svs_file": "TCGA-D8-A1JH-01A-01-TS1.8d0ed250-b310-4fa4-9ae2-23677c281393.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d7d52c3b-11ed-4458-bd68-d00d98c82fac/TCGA-D8-A1JH-01A-01-TS1.8d0ed250-b310-4fa4-9ae2-23677c281393_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  },
+  {
+    "entry_number": 1370,
+    "svs_file": "TCGA-A8-A08R-01A-01-MS1.cb32d356-ca60-4eab-b186-b63ed3b941d1.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/tissue_slides/primary_tumor/d7d9160c-e082-4b1a-a02b-0d607b12d921/TCGA-A8-A08R-01A-01-MS1.cb32d356-ca60-4eab-b186-b63ed3b941d1_files",
+    "collection_name": "TCGA-Tissue_Slides-PT"
+  }
+]

@@ -1,0 +1,1646 @@
+[
+  {
+    "entry_number": 1645,
+    "svs_file": "BRACS_1003670.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1003670_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1646,
+    "svs_file": "BRACS_1003673.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1003673_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1647,
+    "svs_file": "BRACS_1003677.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1003677_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1648,
+    "svs_file": "BRACS_1003678.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1003678_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1649,
+    "svs_file": "BRACS_1003684.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1003684_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1650,
+    "svs_file": "BRACS_1003692.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1003692_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1651,
+    "svs_file": "BRACS_1003698.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1003698_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1652,
+    "svs_file": "BRACS_1003699.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1003699_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1653,
+    "svs_file": "BRACS_1003703.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1003703_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1654,
+    "svs_file": "BRACS_1003708.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1003708_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1655,
+    "svs_file": "BRACS_1003709.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1003709_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1656,
+    "svs_file": "BRACS_1003721.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1003721_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1657,
+    "svs_file": "BRACS_1003722.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1003722_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1658,
+    "svs_file": "BRACS_1003723.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1003723_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1659,
+    "svs_file": "BRACS_1003727.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1003727_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1660,
+    "svs_file": "BRACS_1003731.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1003731_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1661,
+    "svs_file": "BRACS_1003732.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1003732_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1662,
+    "svs_file": "BRACS_1231.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1231_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1663,
+    "svs_file": "BRACS_1232.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1232_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1664,
+    "svs_file": "BRACS_1233.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1233_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1665,
+    "svs_file": "BRACS_1235.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1235_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1666,
+    "svs_file": "BRACS_1263.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1263_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1667,
+    "svs_file": "BRACS_1265.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1265_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1668,
+    "svs_file": "BRACS_1272.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1272_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1669,
+    "svs_file": "BRACS_1277.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1277_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1670,
+    "svs_file": "BRACS_1279.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1279_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1671,
+    "svs_file": "BRACS_1287.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1287_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1672,
+    "svs_file": "BRACS_1288.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1288_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1673,
+    "svs_file": "BRACS_1289.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1289_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1674,
+    "svs_file": "BRACS_1292.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1292_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1675,
+    "svs_file": "BRACS_1293.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1293_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1676,
+    "svs_file": "BRACS_1356.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1356_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1677,
+    "svs_file": "BRACS_1357.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1357_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1678,
+    "svs_file": "BRACS_1358.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1358_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1679,
+    "svs_file": "BRACS_1360.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1360_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1680,
+    "svs_file": "BRACS_1374.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1374_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1681,
+    "svs_file": "BRACS_1406.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1406_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1682,
+    "svs_file": "BRACS_1407.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1407_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1683,
+    "svs_file": "BRACS_1477.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1477_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1684,
+    "svs_file": "BRACS_1478.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1478_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1685,
+    "svs_file": "BRACS_1484.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1484_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1686,
+    "svs_file": "BRACS_1487.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1487_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1687,
+    "svs_file": "BRACS_1516.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1516_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1688,
+    "svs_file": "BRACS_1635.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1635_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1689,
+    "svs_file": "BRACS_1636.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1636_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1690,
+    "svs_file": "BRACS_1637.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1637_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1691,
+    "svs_file": "BRACS_1638.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1638_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1692,
+    "svs_file": "BRACS_1639.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1639_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1693,
+    "svs_file": "BRACS_1643.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1643_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1694,
+    "svs_file": "BRACS_1646.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1646_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1695,
+    "svs_file": "BRACS_1647.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1647_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1696,
+    "svs_file": "BRACS_1648.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1648_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1697,
+    "svs_file": "BRACS_1649.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1649_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1698,
+    "svs_file": "BRACS_1650.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1650_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1699,
+    "svs_file": "BRACS_1652.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1652_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1700,
+    "svs_file": "BRACS_1654.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1654_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1701,
+    "svs_file": "BRACS_1810.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1810_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1702,
+    "svs_file": "BRACS_1812.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1812_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1703,
+    "svs_file": "BRACS_1827.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1827_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1704,
+    "svs_file": "BRACS_1828.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1828_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1705,
+    "svs_file": "BRACS_1829.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1829_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1706,
+    "svs_file": "BRACS_1830.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1830_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1707,
+    "svs_file": "BRACS_1831.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1831_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1708,
+    "svs_file": "BRACS_1875.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1875_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1709,
+    "svs_file": "BRACS_1984.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_1984_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1710,
+    "svs_file": "BRACS_280.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_280_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1711,
+    "svs_file": "BRACS_281.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_281_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1712,
+    "svs_file": "BRACS_283.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_283_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1713,
+    "svs_file": "BRACS_288.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_288_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1714,
+    "svs_file": "BRACS_291.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_291_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1715,
+    "svs_file": "BRACS_295.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_295_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1716,
+    "svs_file": "BRACS_297.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_297_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1717,
+    "svs_file": "BRACS_298.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_298_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1718,
+    "svs_file": "BRACS_311.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_311_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1719,
+    "svs_file": "BRACS_3289.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_3289_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1720,
+    "svs_file": "BRACS_3290.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_3290_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1721,
+    "svs_file": "BRACS_3291.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_3291_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1722,
+    "svs_file": "BRACS_3293.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_3293_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1723,
+    "svs_file": "BRACS_3294.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_3294_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1724,
+    "svs_file": "BRACS_3305.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_3305_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1725,
+    "svs_file": "BRACS_3308.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_3308_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1726,
+    "svs_file": "BRACS_3314.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_3314_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1727,
+    "svs_file": "BRACS_3315.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_3315_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1728,
+    "svs_file": "BRACS_3316.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_3316_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1729,
+    "svs_file": "BRACS_3319.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_3319_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1730,
+    "svs_file": "BRACS_3320.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_3320_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1731,
+    "svs_file": "BRACS_3321.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_3321_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1732,
+    "svs_file": "BRACS_734.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_734_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1733,
+    "svs_file": "BRACS_747.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_747_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1734,
+    "svs_file": "BRACS_748.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_748_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1735,
+    "svs_file": "BRACS_749.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_749_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1736,
+    "svs_file": "BRACS_750.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_750_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1737,
+    "svs_file": "BRACS_752.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_752_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1738,
+    "svs_file": "BRACS_753.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_753_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1739,
+    "svs_file": "BRACS_754.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_754_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1740,
+    "svs_file": "BRACS_756.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_756_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1741,
+    "svs_file": "BRACS_757.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_757_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1742,
+    "svs_file": "BRACS_759.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_759_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1743,
+    "svs_file": "BRACS_773.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_IC/BRACS_773_files",
+    "collection_name": "BRACS-Train-MT-IC"
+  },
+  {
+    "entry_number": 1744,
+    "svs_file": "BRACS_1366.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_MT/Type_DCIS/BRACS_1366_files",
+    "collection_name": "BRACS-Val-MT-DCIS"
+  },
+  {
+    "entry_number": 1745,
+    "svs_file": "BRACS_1367.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_MT/Type_DCIS/BRACS_1367_files",
+    "collection_name": "BRACS-Val-MT-DCIS"
+  },
+  {
+    "entry_number": 1746,
+    "svs_file": "BRACS_1607.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_MT/Type_DCIS/BRACS_1607_files",
+    "collection_name": "BRACS-Val-MT-DCIS"
+  },
+  {
+    "entry_number": 1747,
+    "svs_file": "BRACS_1883.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_MT/Type_DCIS/BRACS_1883_files",
+    "collection_name": "BRACS-Val-MT-DCIS"
+  },
+  {
+    "entry_number": 1748,
+    "svs_file": "BRACS_1935.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_MT/Type_DCIS/BRACS_1935_files",
+    "collection_name": "BRACS-Val-MT-DCIS"
+  },
+  {
+    "entry_number": 1749,
+    "svs_file": "BRACS_3302.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_MT/Type_DCIS/BRACS_3302_files",
+    "collection_name": "BRACS-Val-MT-DCIS"
+  },
+  {
+    "entry_number": 1750,
+    "svs_file": "BRACS_735.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_MT/Type_DCIS/BRACS_735_files",
+    "collection_name": "BRACS-Val-MT-DCIS"
+  },
+  {
+    "entry_number": 1751,
+    "svs_file": "BRACS_736.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_MT/Type_DCIS/BRACS_736_files",
+    "collection_name": "BRACS-Val-MT-DCIS"
+  },
+  {
+    "entry_number": 1752,
+    "svs_file": "BRACS_737.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_MT/Type_DCIS/BRACS_737_files",
+    "collection_name": "BRACS-Val-MT-DCIS"
+  },
+  {
+    "entry_number": 1753,
+    "svs_file": "BRACS_1003658.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1003658_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1754,
+    "svs_file": "BRACS_1003659.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1003659_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1755,
+    "svs_file": "BRACS_1003668.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1003668_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1756,
+    "svs_file": "BRACS_1003669.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1003669_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1757,
+    "svs_file": "BRACS_1003671.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1003671_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1758,
+    "svs_file": "BRACS_1003672.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1003672_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1759,
+    "svs_file": "BRACS_1003686.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1003686_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1760,
+    "svs_file": "BRACS_1003700.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1003700_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1761,
+    "svs_file": "BRACS_1003706.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1003706_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1762,
+    "svs_file": "BRACS_1003710.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1003710_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1763,
+    "svs_file": "BRACS_1003724.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1003724_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1764,
+    "svs_file": "BRACS_1003725.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1003725_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1765,
+    "svs_file": "BRACS_1003730.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1003730_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1766,
+    "svs_file": "BRACS_1003734.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1003734_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1767,
+    "svs_file": "BRACS_1240.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1240_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1768,
+    "svs_file": "BRACS_1241.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1241_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1769,
+    "svs_file": "BRACS_1242.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1242_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1770,
+    "svs_file": "BRACS_1248.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1248_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1771,
+    "svs_file": "BRACS_1249.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1249_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1772,
+    "svs_file": "BRACS_1251.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1251_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1773,
+    "svs_file": "BRACS_1253.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1253_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1774,
+    "svs_file": "BRACS_1255.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1255_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1775,
+    "svs_file": "BRACS_1259.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1259_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1776,
+    "svs_file": "BRACS_1273.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1273_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1777,
+    "svs_file": "BRACS_1274.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1274_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1778,
+    "svs_file": "BRACS_1318.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1318_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1779,
+    "svs_file": "BRACS_1320.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1320_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1780,
+    "svs_file": "BRACS_1321.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1321_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1781,
+    "svs_file": "BRACS_1322.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1322_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1782,
+    "svs_file": "BRACS_1324.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1324_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1783,
+    "svs_file": "BRACS_1325.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1325_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1784,
+    "svs_file": "BRACS_1327.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1327_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1785,
+    "svs_file": "BRACS_1329.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1329_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1786,
+    "svs_file": "BRACS_1336.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1336_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1787,
+    "svs_file": "BRACS_1338.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1338_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1788,
+    "svs_file": "BRACS_1370.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1370_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1789,
+    "svs_file": "BRACS_1408.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1408_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1790,
+    "svs_file": "BRACS_1480.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1480_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1791,
+    "svs_file": "BRACS_1483.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1483_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1792,
+    "svs_file": "BRACS_1485.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1485_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1793,
+    "svs_file": "BRACS_1493.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1493_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1794,
+    "svs_file": "BRACS_1508.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1508_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1795,
+    "svs_file": "BRACS_1511.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1511_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1796,
+    "svs_file": "BRACS_1582.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1582_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1797,
+    "svs_file": "BRACS_1583.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1583_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1798,
+    "svs_file": "BRACS_1593.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1593_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1799,
+    "svs_file": "BRACS_1603.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1603_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1800,
+    "svs_file": "BRACS_1605.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1605_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1801,
+    "svs_file": "BRACS_1612.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1612_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1802,
+    "svs_file": "BRACS_1620.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1620_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1803,
+    "svs_file": "BRACS_1631.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1631_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1804,
+    "svs_file": "BRACS_1633.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1633_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1805,
+    "svs_file": "BRACS_1634.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1634_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1806,
+    "svs_file": "BRACS_1640.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1640_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1807,
+    "svs_file": "BRACS_1655.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1655_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1808,
+    "svs_file": "BRACS_1656.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1656_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1809,
+    "svs_file": "BRACS_1659.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1659_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1810,
+    "svs_file": "BRACS_1660.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1660_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1811,
+    "svs_file": "BRACS_1661.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1661_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1812,
+    "svs_file": "BRACS_1664.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1664_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1813,
+    "svs_file": "BRACS_1665.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1665_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1814,
+    "svs_file": "BRACS_1666.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1666_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1815,
+    "svs_file": "BRACS_1668.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1668_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1816,
+    "svs_file": "BRACS_1669.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1669_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1817,
+    "svs_file": "BRACS_1772.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1772_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1818,
+    "svs_file": "BRACS_1779.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1779_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1819,
+    "svs_file": "BRACS_1784.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1784_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1820,
+    "svs_file": "BRACS_1796.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1796_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1821,
+    "svs_file": "BRACS_1832.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1832_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1822,
+    "svs_file": "BRACS_1833.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1833_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1823,
+    "svs_file": "BRACS_1839.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1839_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1824,
+    "svs_file": "BRACS_1841.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1841_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1825,
+    "svs_file": "BRACS_1866.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1866_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1826,
+    "svs_file": "BRACS_1869.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1869_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1827,
+    "svs_file": "BRACS_1879.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1879_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1828,
+    "svs_file": "BRACS_1880.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1880_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1829,
+    "svs_file": "BRACS_1890.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1890_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1830,
+    "svs_file": "BRACS_1893.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1893_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1831,
+    "svs_file": "BRACS_1900.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1900_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1832,
+    "svs_file": "BRACS_1901.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1901_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1833,
+    "svs_file": "BRACS_1902.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1902_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1834,
+    "svs_file": "BRACS_1904.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1904_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1835,
+    "svs_file": "BRACS_1905.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1905_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1836,
+    "svs_file": "BRACS_1924.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1924_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1837,
+    "svs_file": "BRACS_1948.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1948_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1838,
+    "svs_file": "BRACS_1960.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1960_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1839,
+    "svs_file": "BRACS_1961.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1961_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1840,
+    "svs_file": "BRACS_1962.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1962_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1841,
+    "svs_file": "BRACS_1964.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1964_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1842,
+    "svs_file": "BRACS_1965.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1965_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1843,
+    "svs_file": "BRACS_1966.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1966_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1844,
+    "svs_file": "BRACS_1967.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1967_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1845,
+    "svs_file": "BRACS_1972.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1972_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1846,
+    "svs_file": "BRACS_1986.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1986_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1847,
+    "svs_file": "BRACS_1988.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1988_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1848,
+    "svs_file": "BRACS_1989.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1989_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1849,
+    "svs_file": "BRACS_1994.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_1994_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1850,
+    "svs_file": "BRACS_2000.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_2000_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1851,
+    "svs_file": "BRACS_2002.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_2002_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1852,
+    "svs_file": "BRACS_2004.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_2004_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1853,
+    "svs_file": "BRACS_3268.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_3268_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1854,
+    "svs_file": "BRACS_3269.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_3269_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1855,
+    "svs_file": "BRACS_3270.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_3270_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1856,
+    "svs_file": "BRACS_3271.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_3271_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1857,
+    "svs_file": "BRACS_3272.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_3272_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1858,
+    "svs_file": "BRACS_3274.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_3274_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1859,
+    "svs_file": "BRACS_3276.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_3276_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1860,
+    "svs_file": "BRACS_3279.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_3279_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1861,
+    "svs_file": "BRACS_3281.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_3281_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1862,
+    "svs_file": "BRACS_3283.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_3283_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1863,
+    "svs_file": "BRACS_3309.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_3309_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1864,
+    "svs_file": "BRACS_3311.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_3311_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1865,
+    "svs_file": "BRACS_3312.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_3312_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1866,
+    "svs_file": "BRACS_3334.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_3334_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1867,
+    "svs_file": "BRACS_3335.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_3335_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1868,
+    "svs_file": "BRACS_3336.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_3336_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1869,
+    "svs_file": "BRACS_745.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_745_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1870,
+    "svs_file": "BRACS_758.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_758_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1871,
+    "svs_file": "BRACS_760.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_760_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1872,
+    "svs_file": "BRACS_761.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_PB/BRACS_761_files",
+    "collection_name": "BRACS-Train-BT-PB"
+  },
+  {
+    "entry_number": 1873,
+    "svs_file": "BRACS_1003693.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_FEA/BRACS_1003693_files",
+    "collection_name": "BRACS-Train-AT-FEA"
+  },
+  {
+    "entry_number": 1874,
+    "svs_file": "BRACS_1239.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_FEA/BRACS_1239_files",
+    "collection_name": "BRACS-Train-AT-FEA"
+  },
+  {
+    "entry_number": 1875,
+    "svs_file": "BRACS_1250.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_FEA/BRACS_1250_files",
+    "collection_name": "BRACS-Train-AT-FEA"
+  },
+  {
+    "entry_number": 1876,
+    "svs_file": "BRACS_1257.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_FEA/BRACS_1257_files",
+    "collection_name": "BRACS-Train-AT-FEA"
+  },
+  {
+    "entry_number": 1877,
+    "svs_file": "BRACS_1319.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_FEA/BRACS_1319_files",
+    "collection_name": "BRACS-Train-AT-FEA"
+  },
+  {
+    "entry_number": 1878,
+    "svs_file": "BRACS_1506.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_FEA/BRACS_1506_files",
+    "collection_name": "BRACS-Train-AT-FEA"
+  },
+  {
+    "entry_number": 1879,
+    "svs_file": "BRACS_1510.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_FEA/BRACS_1510_files",
+    "collection_name": "BRACS-Train-AT-FEA"
+  },
+  {
+    "entry_number": 1880,
+    "svs_file": "BRACS_1773.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_FEA/BRACS_1773_files",
+    "collection_name": "BRACS-Train-AT-FEA"
+  },
+  {
+    "entry_number": 1881,
+    "svs_file": "BRACS_1774.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_FEA/BRACS_1774_files",
+    "collection_name": "BRACS-Train-AT-FEA"
+  },
+  {
+    "entry_number": 1882,
+    "svs_file": "BRACS_1775.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_FEA/BRACS_1775_files",
+    "collection_name": "BRACS-Train-AT-FEA"
+  },
+  {
+    "entry_number": 1883,
+    "svs_file": "BRACS_1777.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_FEA/BRACS_1777_files",
+    "collection_name": "BRACS-Train-AT-FEA"
+  },
+  {
+    "entry_number": 1884,
+    "svs_file": "BRACS_1778.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_FEA/BRACS_1778_files",
+    "collection_name": "BRACS-Train-AT-FEA"
+  },
+  {
+    "entry_number": 1885,
+    "svs_file": "BRACS_1788.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_FEA/BRACS_1788_files",
+    "collection_name": "BRACS-Train-AT-FEA"
+  },
+  {
+    "entry_number": 1886,
+    "svs_file": "BRACS_1815.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_FEA/BRACS_1815_files",
+    "collection_name": "BRACS-Train-AT-FEA"
+  },
+  {
+    "entry_number": 1887,
+    "svs_file": "BRACS_1838.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_FEA/BRACS_1838_files",
+    "collection_name": "BRACS-Train-AT-FEA"
+  },
+  {
+    "entry_number": 1888,
+    "svs_file": "BRACS_1857.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_FEA/BRACS_1857_files",
+    "collection_name": "BRACS-Train-AT-FEA"
+  },
+  {
+    "entry_number": 1889,
+    "svs_file": "BRACS_1858.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_FEA/BRACS_1858_files",
+    "collection_name": "BRACS-Train-AT-FEA"
+  },
+  {
+    "entry_number": 1890,
+    "svs_file": "BRACS_1865.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_FEA/BRACS_1865_files",
+    "collection_name": "BRACS-Train-AT-FEA"
+  },
+  {
+    "entry_number": 1891,
+    "svs_file": "BRACS_1871.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_FEA/BRACS_1871_files",
+    "collection_name": "BRACS-Train-AT-FEA"
+  },
+  {
+    "entry_number": 1892,
+    "svs_file": "BRACS_1916.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_FEA/BRACS_1916_files",
+    "collection_name": "BRACS-Train-AT-FEA"
+  },
+  {
+    "entry_number": 1893,
+    "svs_file": "BRACS_1926.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_FEA/BRACS_1926_files",
+    "collection_name": "BRACS-Train-AT-FEA"
+  },
+  {
+    "entry_number": 1894,
+    "svs_file": "BRACS_1968.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_FEA/BRACS_1968_files",
+    "collection_name": "BRACS-Train-AT-FEA"
+  },
+  {
+    "entry_number": 1895,
+    "svs_file": "BRACS_1971.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_FEA/BRACS_1971_files",
+    "collection_name": "BRACS-Train-AT-FEA"
+  },
+  {
+    "entry_number": 1896,
+    "svs_file": "BRACS_743.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_FEA/BRACS_743_files",
+    "collection_name": "BRACS-Train-AT-FEA"
+  },
+  {
+    "entry_number": 1897,
+    "svs_file": "BRACS_1003728.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_ADH/BRACS_1003728_files",
+    "collection_name": "BRACS-Train-AT-ADH"
+  },
+  {
+    "entry_number": 1898,
+    "svs_file": "BRACS_1379.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_ADH/BRACS_1379_files",
+    "collection_name": "BRACS-Train-AT-ADH"
+  },
+  {
+    "entry_number": 1899,
+    "svs_file": "BRACS_1486.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_ADH/BRACS_1486_files",
+    "collection_name": "BRACS-Train-AT-ADH"
+  },
+  {
+    "entry_number": 1900,
+    "svs_file": "BRACS_1494.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_ADH/BRACS_1494_files",
+    "collection_name": "BRACS-Train-AT-ADH"
+  },
+  {
+    "entry_number": 1901,
+    "svs_file": "BRACS_1499.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_ADH/BRACS_1499_files",
+    "collection_name": "BRACS-Train-AT-ADH"
+  },
+  {
+    "entry_number": 1902,
+    "svs_file": "BRACS_1616.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_ADH/BRACS_1616_files",
+    "collection_name": "BRACS-Train-AT-ADH"
+  },
+  {
+    "entry_number": 1903,
+    "svs_file": "BRACS_1622.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_ADH/BRACS_1622_files",
+    "collection_name": "BRACS-Train-AT-ADH"
+  },
+  {
+    "entry_number": 1904,
+    "svs_file": "BRACS_1794.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_ADH/BRACS_1794_files",
+    "collection_name": "BRACS-Train-AT-ADH"
+  },
+  {
+    "entry_number": 1905,
+    "svs_file": "BRACS_1795.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_ADH/BRACS_1795_files",
+    "collection_name": "BRACS-Train-AT-ADH"
+  },
+  {
+    "entry_number": 1906,
+    "svs_file": "BRACS_1808.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_ADH/BRACS_1808_files",
+    "collection_name": "BRACS-Train-AT-ADH"
+  },
+  {
+    "entry_number": 1907,
+    "svs_file": "BRACS_1860.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_ADH/BRACS_1860_files",
+    "collection_name": "BRACS-Train-AT-ADH"
+  },
+  {
+    "entry_number": 1908,
+    "svs_file": "BRACS_1861.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_ADH/BRACS_1861_files",
+    "collection_name": "BRACS-Train-AT-ADH"
+  },
+  {
+    "entry_number": 1909,
+    "svs_file": "BRACS_1863.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_ADH/BRACS_1863_files",
+    "collection_name": "BRACS-Train-AT-ADH"
+  },
+  {
+    "entry_number": 1910,
+    "svs_file": "BRACS_1877.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_ADH/BRACS_1877_files",
+    "collection_name": "BRACS-Train-AT-ADH"
+  },
+  {
+    "entry_number": 1911,
+    "svs_file": "BRACS_1882.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_ADH/BRACS_1882_files",
+    "collection_name": "BRACS-Train-AT-ADH"
+  },
+  {
+    "entry_number": 1912,
+    "svs_file": "BRACS_1899.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_ADH/BRACS_1899_files",
+    "collection_name": "BRACS-Train-AT-ADH"
+  },
+  {
+    "entry_number": 1913,
+    "svs_file": "BRACS_1911.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_ADH/BRACS_1911_files",
+    "collection_name": "BRACS-Train-AT-ADH"
+  },
+  {
+    "entry_number": 1914,
+    "svs_file": "BRACS_1912.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_ADH/BRACS_1912_files",
+    "collection_name": "BRACS-Train-AT-ADH"
+  },
+  {
+    "entry_number": 1915,
+    "svs_file": "BRACS_1913.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_ADH/BRACS_1913_files",
+    "collection_name": "BRACS-Train-AT-ADH"
+  },
+  {
+    "entry_number": 1916,
+    "svs_file": "BRACS_1915.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_ADH/BRACS_1915_files",
+    "collection_name": "BRACS-Train-AT-ADH"
+  },
+  {
+    "entry_number": 1917,
+    "svs_file": "BRACS_1922.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_ADH/BRACS_1922_files",
+    "collection_name": "BRACS-Train-AT-ADH"
+  },
+  {
+    "entry_number": 1918,
+    "svs_file": "BRACS_1925.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_AT/Type_ADH/BRACS_1925_files",
+    "collection_name": "BRACS-Train-AT-ADH"
+  }
+]

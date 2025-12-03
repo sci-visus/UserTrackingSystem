@@ -1,0 +1,47 @@
+services:
+  annotation-tool:
+    build:
+      context: ..
+      dockerfile: Docker/Dockerfile
+    container_name: ink_annotation_tool
+    # user: "50157:1000"  # Temporarily commented out to allow root access for cleanup
+    ports:
+      - "${PANEL_APP_PORT:-10565}:${PANEL_APP_PORT:-10565}"
+      - "${DZI_SERVER_PORT:-10566}:${DZI_SERVER_PORT:-10566}"
+    volumes:
+      # Mount parent directories containing all the datasets
+      - /local/data/magicscan/dzi_ink_datasets/HnE/BRACS:/data/dzi_datasets/BRACS:ro
+      - /local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA:/data/dzi_datasets/TCGA:ro
+      - /local/data/magicscan/dzi_ink_datasets/HnE/BACH:/data/dzi_datasets/BACH:ro
+      - /local/data/magicscan:/data/detect:ro
+      
+      # Annotations directory
+      - /local/data/magicscan/ink_annotations:/data/anno
+      
+      # Ink status
+      - /local/data/magicscan/ink_annotations/ink_status:/data/ink_status
+      
+      
+      # Mount the JSON mapping file
+      - ./tiles_directory_list_part_1.json:/data/tiles_directory_list.json:ro
+    environment:
+      - PYTHONUNBUFFERED=1
+      - PANEL_APP_PORT=${PANEL_APP_PORT:-10565}
+      - DZI_SERVER_PORT=${DZI_SERVER_PORT:-10566}
+      - UMASK=0000
+    env_file:
+      - ../app/.env
+    restart: unless-stopped
+
+  redis:
+    image: redis:7-alpine
+    container_name: ink_annotation_redis
+    ports:
+      - "10379:6379"
+    volumes:
+      - redis_data:/data
+    command: redis-server --appendonly yes --maxmemory 2gb --maxmemory-policy allkeys-lru
+    restart: unless-stopped
+
+volumes:
+  redis_data:

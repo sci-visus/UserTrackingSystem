@@ -1,0 +1,1646 @@
+[
+  {
+    "entry_number": 2467,
+    "svs_file": "TCGA-B6-A0I8-01Z-00-DX1.E576652B-C3F6-4A01-83BC-6DD154C75605.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0I8-01Z-00-DX1.E576652B-C3F6-4A01-83BC-6DD154C75605_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2468,
+    "svs_file": "TCGA-B6-A0I9-01Z-00-DX1.78E1D43A-507E-482E-B988-AF13B12B4497.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0I9-01Z-00-DX1.78E1D43A-507E-482E-B988-AF13B12B4497_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2469,
+    "svs_file": "TCGA-B6-A0IA-01Z-00-DX1.8A868F0A-6CE2-46A7-AF0C-C5FC5D657D86.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0IA-01Z-00-DX1.8A868F0A-6CE2-46A7-AF0C-C5FC5D657D86_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2470,
+    "svs_file": "TCGA-B6-A0IB-01Z-00-DX1.BAA1D655-1B80-49E2-B1EB-2ECC83DED989.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0IB-01Z-00-DX1.BAA1D655-1B80-49E2-B1EB-2ECC83DED989_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2471,
+    "svs_file": "TCGA-B6-A0IC-01Z-00-DX1.60ED7BBF-A448-4E4E-80F9-91527A697588.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0IC-01Z-00-DX1.60ED7BBF-A448-4E4E-80F9-91527A697588_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2472,
+    "svs_file": "TCGA-B6-A0IE-01Z-00-DX1.E6C4E5C0-338C-481D-B691-0385E8D090B1.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0IE-01Z-00-DX1.E6C4E5C0-338C-481D-B691-0385E8D090B1_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2473,
+    "svs_file": "TCGA-B6-A0IG-01Z-00-DX1.4238CB6E-0561-49FD-9C49-9B8AEAFC4618.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0IG-01Z-00-DX1.4238CB6E-0561-49FD-9C49-9B8AEAFC4618_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2474,
+    "svs_file": "TCGA-B6-A0IH-01Z-00-DX1.3463B12E-D1B0-4FB2-B257-BFD63BA2B6BF.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0IH-01Z-00-DX1.3463B12E-D1B0-4FB2-B257-BFD63BA2B6BF_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2475,
+    "svs_file": "TCGA-B6-A0IJ-01Z-00-DX1.BF2E062F-06DA-4CA8-86C4-36674C035CAA.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0IJ-01Z-00-DX1.BF2E062F-06DA-4CA8-86C4-36674C035CAA_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2476,
+    "svs_file": "TCGA-B6-A0IK-01Z-00-DX1.1640DB44-4AC0-4A34-9E21-4673C4289A99.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0IK-01Z-00-DX1.1640DB44-4AC0-4A34-9E21-4673C4289A99_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2477,
+    "svs_file": "TCGA-B6-A0IM-01Z-00-DX1.E2CBD42F-D933-4446-BE7C-C2F8B5AFB976.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0IM-01Z-00-DX1.E2CBD42F-D933-4446-BE7C-C2F8B5AFB976_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2478,
+    "svs_file": "TCGA-B6-A0IN-01Z-00-DX1.5C1CBEF7-0C4A-4B22-A85B-6F6FD9435573.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0IN-01Z-00-DX1.5C1CBEF7-0C4A-4B22-A85B-6F6FD9435573_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2479,
+    "svs_file": "TCGA-B6-A0IO-01Z-00-DX1.D8898C30-4016-4983-9359-5C1507C01715.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0IO-01Z-00-DX1.D8898C30-4016-4983-9359-5C1507C01715_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2480,
+    "svs_file": "TCGA-B6-A0IP-01Z-00-DX1.3723A250-AA4B-4AFE-A692-C1311E9BA268.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0IP-01Z-00-DX1.3723A250-AA4B-4AFE-A692-C1311E9BA268_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2481,
+    "svs_file": "TCGA-B6-A0IQ-01Z-00-DX1.662EA039-825E-41FF-91D6-021EB0E099BD.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0IQ-01Z-00-DX1.662EA039-825E-41FF-91D6-021EB0E099BD_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2482,
+    "svs_file": "TCGA-B6-A0RE-01Z-00-DX1.8933BDB4-EF8D-41FA-9A50-05BB3AB976E5.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0RE-01Z-00-DX1.8933BDB4-EF8D-41FA-9A50-05BB3AB976E5_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2483,
+    "svs_file": "TCGA-B6-A0RG-01Z-00-DX1.C83D21A0-EC61-459C-9776-EA3D91469E72.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0RG-01Z-00-DX1.C83D21A0-EC61-459C-9776-EA3D91469E72_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2484,
+    "svs_file": "TCGA-B6-A0RH-01Z-00-DX1.33DB5CF9-AC87-435B-A8AF-C4F84BEF15F1.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0RH-01Z-00-DX1.33DB5CF9-AC87-435B-A8AF-C4F84BEF15F1_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2485,
+    "svs_file": "TCGA-B6-A0RI-01Z-00-DX1.E39951A4-AC6A-4B07-851B-F35CB86D79AA.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0RI-01Z-00-DX1.E39951A4-AC6A-4B07-851B-F35CB86D79AA_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2486,
+    "svs_file": "TCGA-B6-A0RL-01Z-00-DX1.B5B6709B-5F38-4561-A0E7-C78F97B33F22.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0RL-01Z-00-DX1.B5B6709B-5F38-4561-A0E7-C78F97B33F22_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2487,
+    "svs_file": "TCGA-B6-A0RM-01Z-00-DX1.31DE3E32-7996-4D30-BB5F-72C94409C940.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0RM-01Z-00-DX1.31DE3E32-7996-4D30-BB5F-72C94409C940_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2488,
+    "svs_file": "TCGA-B6-A0RN-01Z-00-DX1.0D02A3FB-D694-4A5B-80C1-CF1469E29BFD.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0RN-01Z-00-DX1.0D02A3FB-D694-4A5B-80C1-CF1469E29BFD_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2489,
+    "svs_file": "TCGA-B6-A0RO-01Z-00-DX1.3ADBFF05-92CE-41B5-BD49-CB3CE5B74CC9.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0RO-01Z-00-DX1.3ADBFF05-92CE-41B5-BD49-CB3CE5B74CC9_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2490,
+    "svs_file": "TCGA-B6-A0RP-01Z-00-DX1.02A55E9D-2AA9-497A-B481-85724EA813AD.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0RP-01Z-00-DX1.02A55E9D-2AA9-497A-B481-85724EA813AD_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2491,
+    "svs_file": "TCGA-B6-A0RQ-01Z-00-DX1.68B4F49D-9F81-4501-BC66-0349012077C8.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0RQ-01Z-00-DX1.68B4F49D-9F81-4501-BC66-0349012077C8_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2492,
+    "svs_file": "TCGA-B6-A0RS-01Z-00-DX1.F72B766D-FC49-4876-A93D-D88B05702267.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0RS-01Z-00-DX1.F72B766D-FC49-4876-A93D-D88B05702267_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2493,
+    "svs_file": "TCGA-B6-A0RT-01Z-00-DX1.6C2BA663-D61B-404B-B62C-B81747B6A3AC.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0RT-01Z-00-DX1.6C2BA663-D61B-404B-B62C-B81747B6A3AC_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2494,
+    "svs_file": "TCGA-B6-A0RU-01Z-00-DX1.4977531C-6003-4DA6-9925-30E2DA62C076.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0RU-01Z-00-DX1.4977531C-6003-4DA6-9925-30E2DA62C076_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2495,
+    "svs_file": "TCGA-B6-A0RV-01Z-00-DX1.C46C2937-868D-47B7-B9B9-E51F5433BE97.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0RV-01Z-00-DX1.C46C2937-868D-47B7-B9B9-E51F5433BE97_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2496,
+    "svs_file": "TCGA-B6-A0WS-01Z-00-DX1.020ED7BF-9497-4F13-AA07-FE0E839F9A06.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0WS-01Z-00-DX1.020ED7BF-9497-4F13-AA07-FE0E839F9A06_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2497,
+    "svs_file": "TCGA-B6-A0WT-01Z-00-DX1.7ED21DA2-A3D8-4DCA-9742-963879A658D8.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0WT-01Z-00-DX1.7ED21DA2-A3D8-4DCA-9742-963879A658D8_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2498,
+    "svs_file": "TCGA-B6-A0WV-01Z-00-DX1.A8B9E114-A8CF-4389-B47C-2E1B842F7FF9.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0WV-01Z-00-DX1.A8B9E114-A8CF-4389-B47C-2E1B842F7FF9_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2499,
+    "svs_file": "TCGA-B6-A0WW-01Z-00-DX1.64048633-1D1A-4074-8C50-7641159355DB.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0WW-01Z-00-DX1.64048633-1D1A-4074-8C50-7641159355DB_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2500,
+    "svs_file": "TCGA-B6-A0WX-01Z-00-DX1.1C4F7BCC-8423-4941-9490-0F35038E1878.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0WX-01Z-00-DX1.1C4F7BCC-8423-4941-9490-0F35038E1878_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2501,
+    "svs_file": "TCGA-B6-A0WY-01Z-00-DX1.FA103E02-3BDC-47DC-BA6E-59FCC58866D1.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0WY-01Z-00-DX1.FA103E02-3BDC-47DC-BA6E-59FCC58866D1_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2502,
+    "svs_file": "TCGA-B6-A0WZ-01Z-00-DX1.6CFB236E-36F5-43D6-8DE3-C4ECBD3C14C6.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0WZ-01Z-00-DX1.6CFB236E-36F5-43D6-8DE3-C4ECBD3C14C6_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2503,
+    "svs_file": "TCGA-B6-A0X0-01Z-00-DX1.5D67D9D5-C2F0-40BE-A661-E25B6A6287A2.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0X0-01Z-00-DX1.5D67D9D5-C2F0-40BE-A661-E25B6A6287A2_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2504,
+    "svs_file": "TCGA-B6-A0X1-01Z-00-DX1.2A41630E-A8BF-4966-99F5-D5D8036B1759.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0X1-01Z-00-DX1.2A41630E-A8BF-4966-99F5-D5D8036B1759_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2505,
+    "svs_file": "TCGA-B6-A0X4-01Z-00-DX1.4B7914DE-3436-4D69-9BC6-F6419D3CC518.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0X4-01Z-00-DX1.4B7914DE-3436-4D69-9BC6-F6419D3CC518_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2506,
+    "svs_file": "TCGA-B6-A0X5-01Z-00-DX1.02A9FF1E-EA20-4F2D-A2BB-427A287DE3FD.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0X5-01Z-00-DX1.02A9FF1E-EA20-4F2D-A2BB-427A287DE3FD_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2507,
+    "svs_file": "TCGA-B6-A0X7-01Z-00-DX1.A2AA8FE9-CF43-434A-AE72-7277D124BD0A.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A0X7-01Z-00-DX1.A2AA8FE9-CF43-434A-AE72-7277D124BD0A_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2508,
+    "svs_file": "TCGA-B6-A1KC-01Z-00-DX1.4DD3E48B-F434-499F-9FF1-0FFD2883A375.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A1KC-01Z-00-DX1.4DD3E48B-F434-499F-9FF1-0FFD2883A375_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2509,
+    "svs_file": "TCGA-B6-A1KF-01Z-00-DX1.2E08E830-4216-4CD0-9646-1F489300E11D.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A1KF-01Z-00-DX1.2E08E830-4216-4CD0-9646-1F489300E11D_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2510,
+    "svs_file": "TCGA-B6-A1KI-01Z-00-DX1.EFAA08A8-02EC-4A9B-AC6B-79BF2DC5A2AA.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A1KI-01Z-00-DX1.EFAA08A8-02EC-4A9B-AC6B-79BF2DC5A2AA_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2511,
+    "svs_file": "TCGA-B6-A1KN-01Z-00-DX1.E769FD65-E5CE-4CA4-8BBE-6FC54A2ED870.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A1KN-01Z-00-DX1.E769FD65-E5CE-4CA4-8BBE-6FC54A2ED870_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2512,
+    "svs_file": "TCGA-B6-A2IU-01Z-00-DX1.3C7DF701-4ED9-4989-AA63-A6B7B105F6EE.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-B6-A2IU-01Z-00-DX1.3C7DF701-4ED9-4989-AA63-A6B7B105F6EE_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2513,
+    "svs_file": "TCGA-BH-A0AU-01Z-00-DX1.E852F218-B15C-4CF8-8FD0-F284043834C4.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0AU-01Z-00-DX1.E852F218-B15C-4CF8-8FD0-F284043834C4_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2514,
+    "svs_file": "TCGA-BH-A0AV-01Z-00-DX1.5A686DA4-A29D-4BA7-9BCA-B707F8755E83.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0AV-01Z-00-DX1.5A686DA4-A29D-4BA7-9BCA-B707F8755E83_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2515,
+    "svs_file": "TCGA-BH-A0AW-01Z-00-DX1.9D50A0D2-B103-411C-831E-8520C3D50173.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0AW-01Z-00-DX1.9D50A0D2-B103-411C-831E-8520C3D50173_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2516,
+    "svs_file": "TCGA-BH-A0AY-01Z-00-DX1.A1153465-D9B3-4D83-BE85-F2524B071EE5.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0AY-01Z-00-DX1.A1153465-D9B3-4D83-BE85-F2524B071EE5_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2517,
+    "svs_file": "TCGA-BH-A0AZ-01Z-00-DX1.E20051E8-DEEF-48E5-B519-40777DDBC96B.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0AZ-01Z-00-DX1.E20051E8-DEEF-48E5-B519-40777DDBC96B_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2518,
+    "svs_file": "TCGA-BH-A0B0-01Z-00-DX1.316D35DB-7F13-4AE5-82A7-5716D2519669.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0B0-01Z-00-DX1.316D35DB-7F13-4AE5-82A7-5716D2519669_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2519,
+    "svs_file": "TCGA-BH-A0B1-01Z-00-DX1.CC60D284-04FB-4B73-90AA-FCE9185DADB6.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0B1-01Z-00-DX1.CC60D284-04FB-4B73-90AA-FCE9185DADB6_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2520,
+    "svs_file": "TCGA-BH-A0B3-01Z-00-DX1.90CB0ED5-FBB7-4ABF-93A0-DD88D60D3D55.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0B3-01Z-00-DX1.90CB0ED5-FBB7-4ABF-93A0-DD88D60D3D55_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2521,
+    "svs_file": "TCGA-BH-A0B4-01Z-00-DX1.A2CB0BF4-32F9-48FD-9B96-A744013BADDB.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0B4-01Z-00-DX1.A2CB0BF4-32F9-48FD-9B96-A744013BADDB_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2522,
+    "svs_file": "TCGA-BH-A0B5-01Z-00-DX1.742DB0E8-8EB1-47C8-B698-8E2438FB6299.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0B5-01Z-00-DX1.742DB0E8-8EB1-47C8-B698-8E2438FB6299_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2523,
+    "svs_file": "TCGA-BH-A0B6-01Z-00-DX1.4D982935-F600-4F37-ABB5-13AF74F4FDC4.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0B6-01Z-00-DX1.4D982935-F600-4F37-ABB5-13AF74F4FDC4_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2524,
+    "svs_file": "TCGA-BH-A0B7-01Z-00-DX1.6950CDDF-8A81-4B10-BFFF-BE0E33A2C6CC.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0B7-01Z-00-DX1.6950CDDF-8A81-4B10-BFFF-BE0E33A2C6CC_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2525,
+    "svs_file": "TCGA-BH-A0B8-01Z-00-DX1.380ABAE9-EA83-4E9B-BFB2-6476A86C1ADD.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0B8-01Z-00-DX1.380ABAE9-EA83-4E9B-BFB2-6476A86C1ADD_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2526,
+    "svs_file": "TCGA-BH-A0B9-01Z-00-DX1.C23ADB4C-52D4-4DFD-B8E3-156E43F0E645.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0B9-01Z-00-DX1.C23ADB4C-52D4-4DFD-B8E3-156E43F0E645_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2527,
+    "svs_file": "TCGA-BH-A0BA-01Z-00-DX1.579E11C9-437C-4D49-8811-DD94D8454712.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0BA-01Z-00-DX1.579E11C9-437C-4D49-8811-DD94D8454712_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2528,
+    "svs_file": "TCGA-BH-A0BC-01Z-00-DX1.7A91831D-9625-49FC-B783-C633F80F898C.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0BC-01Z-00-DX1.7A91831D-9625-49FC-B783-C633F80F898C_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2529,
+    "svs_file": "TCGA-BH-A0BD-01Z-00-DX1.CD4A6FC2-BA8C-4E30-972A-E6CD1BEAD8AD.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0BD-01Z-00-DX1.CD4A6FC2-BA8C-4E30-972A-E6CD1BEAD8AD_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2530,
+    "svs_file": "TCGA-BH-A0BF-01Z-00-DX1.934DF984-9054-4B20-B85B-9CF94B8DC3D4.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0BF-01Z-00-DX1.934DF984-9054-4B20-B85B-9CF94B8DC3D4_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2531,
+    "svs_file": "TCGA-BH-A0BG-01Z-00-DX1.0838FB7F-8C85-4687-9F70-D136A1063383.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0BG-01Z-00-DX1.0838FB7F-8C85-4687-9F70-D136A1063383_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2532,
+    "svs_file": "TCGA-BH-A0BJ-01Z-00-DX1.77BE9A20-3D23-4650-843A-0483BF9DD07B.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0BJ-01Z-00-DX1.77BE9A20-3D23-4650-843A-0483BF9DD07B_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2533,
+    "svs_file": "TCGA-BH-A0BL-01Z-00-DX1.D5A413B0-2141-4A6F-A671-6C5EA8641D25.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0BL-01Z-00-DX1.D5A413B0-2141-4A6F-A671-6C5EA8641D25_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2534,
+    "svs_file": "TCGA-BH-A0BM-01Z-00-DX1.8BD324F2-60F5-4F59-AF2D-533A5FB230BF.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0BM-01Z-00-DX1.8BD324F2-60F5-4F59-AF2D-533A5FB230BF_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2535,
+    "svs_file": "TCGA-BH-A0BO-01Z-00-DX1.1A704471-FEB3-40F9-9838-3E347A18285F.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0BO-01Z-00-DX1.1A704471-FEB3-40F9-9838-3E347A18285F_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2536,
+    "svs_file": "TCGA-BH-A0BP-01Z-00-DX1.63A87C1D-87FA-494D-9836-74290B5DC30D.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0BP-01Z-00-DX1.63A87C1D-87FA-494D-9836-74290B5DC30D_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2537,
+    "svs_file": "TCGA-BH-A0BQ-01Z-00-DX1.F5C6386B-BB2C-49DF-B3B8-6C4B80D060D4.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0BQ-01Z-00-DX1.F5C6386B-BB2C-49DF-B3B8-6C4B80D060D4_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2538,
+    "svs_file": "TCGA-BH-A0BR-01Z-00-DX1.F7912887-8AE9-4391-9B83-9AC7B4FF38EF.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0BR-01Z-00-DX1.F7912887-8AE9-4391-9B83-9AC7B4FF38EF_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2539,
+    "svs_file": "TCGA-BH-A0BS-01Z-00-DX1.FEE32127-4D0B-4560-A39C-4EAA5B189B70.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0BS-01Z-00-DX1.FEE32127-4D0B-4560-A39C-4EAA5B189B70_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2540,
+    "svs_file": "TCGA-BH-A0BT-01Z-00-DX1.9087B9E7-C0CD-4179-AF57-AD9255785169.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0BT-01Z-00-DX1.9087B9E7-C0CD-4179-AF57-AD9255785169_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2541,
+    "svs_file": "TCGA-BH-A0BV-01Z-00-DX1.3C9CD4F7-A001-430D-AA8D-80CAD61C344E.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0BV-01Z-00-DX1.3C9CD4F7-A001-430D-AA8D-80CAD61C344E_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2542,
+    "svs_file": "TCGA-BH-A0BW-01Z-00-DX1.39B0C363-46A2-4FFB-B1C5-C054A86F4A25.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0BW-01Z-00-DX1.39B0C363-46A2-4FFB-B1C5-C054A86F4A25_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2543,
+    "svs_file": "TCGA-BH-A0BZ-01Z-00-DX1.45EB3E93-A871-49C6-9EAE-90D98AE01913.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0BZ-01Z-00-DX1.45EB3E93-A871-49C6-9EAE-90D98AE01913_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2544,
+    "svs_file": "TCGA-BH-A0C0-01Z-00-DX1.2D32D35A-EB7E-4D0E-BE5F-E56F7B930463.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0C0-01Z-00-DX1.2D32D35A-EB7E-4D0E-BE5F-E56F7B930463_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2545,
+    "svs_file": "TCGA-BH-A0C1-01Z-00-DX1.21FE357E-B182-4397-BFEF-7E96E994236A.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0C1-01Z-00-DX1.21FE357E-B182-4397-BFEF-7E96E994236A_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2546,
+    "svs_file": "TCGA-BH-A0C3-01Z-00-DX1.14D3210D-0CBE-4DCA-A986-A26AE5382502.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0C3-01Z-00-DX1.14D3210D-0CBE-4DCA-A986-A26AE5382502_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2547,
+    "svs_file": "TCGA-BH-A0C7-01Z-00-DX1.C70D358E-C48F-4F69-86CE-3218E9C95837.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0C7-01Z-00-DX1.C70D358E-C48F-4F69-86CE-3218E9C95837_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2548,
+    "svs_file": "TCGA-BH-A0DD-01Z-00-DX1.2242DD1F-0B7C-4B43-A7A9-8130D2BDEE78.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0DD-01Z-00-DX1.2242DD1F-0B7C-4B43-A7A9-8130D2BDEE78_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2549,
+    "svs_file": "TCGA-BH-A0DE-01Z-00-DX1.64A0340A-8146-48E8-AAF7-4035988B9152.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0DE-01Z-00-DX1.64A0340A-8146-48E8-AAF7-4035988B9152_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2550,
+    "svs_file": "TCGA-BH-A0DG-01Z-00-DX1.D3C4F57F-608F-46AA-A978-B558117C9DFB.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0DG-01Z-00-DX1.D3C4F57F-608F-46AA-A978-B558117C9DFB_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2551,
+    "svs_file": "TCGA-BH-A0DH-01Z-00-DX1.968AA1FD-068C-4B90-8C95-85BF2EFC3E3F.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0DH-01Z-00-DX1.968AA1FD-068C-4B90-8C95-85BF2EFC3E3F_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2552,
+    "svs_file": "TCGA-BH-A0DI-01Z-00-DX1.6A42D535-8842-4C36-8299-A40E9E56759D.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0DI-01Z-00-DX1.6A42D535-8842-4C36-8299-A40E9E56759D_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2553,
+    "svs_file": "TCGA-BH-A0DK-01Z-00-DX1.0CFED53C-BAD9-4E35-B12F-57E64F3FEF1C.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0DK-01Z-00-DX1.0CFED53C-BAD9-4E35-B12F-57E64F3FEF1C_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2554,
+    "svs_file": "TCGA-BH-A0DL-01Z-00-DX1.553F0021-1FC2-4675-810D-BBD9785D065E.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0DL-01Z-00-DX1.553F0021-1FC2-4675-810D-BBD9785D065E_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2555,
+    "svs_file": "TCGA-BH-A0DO-01Z-00-DX1.1684557E-A5D4-4828-B2D5-FA899993A019.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0DO-01Z-00-DX1.1684557E-A5D4-4828-B2D5-FA899993A019_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2556,
+    "svs_file": "TCGA-BH-A0DP-01Z-00-DX1.5550557D-4E5B-4B57-8C1E-9290A7AA32A9.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0DP-01Z-00-DX1.5550557D-4E5B-4B57-8C1E-9290A7AA32A9_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2557,
+    "svs_file": "TCGA-BH-A0DQ-01Z-00-DX1.5A98747C-52D9-45AD-BC84-934A96F069EB.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0DQ-01Z-00-DX1.5A98747C-52D9-45AD-BC84-934A96F069EB_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2558,
+    "svs_file": "TCGA-BH-A0DS-01Z-00-DX1.38E82A1F-21B9-4B97-A304-15B886EA68A0.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0DS-01Z-00-DX1.38E82A1F-21B9-4B97-A304-15B886EA68A0_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2559,
+    "svs_file": "TCGA-BH-A0DT-01Z-00-DX1.73AFCEBB-06B1-4870-ADA2-881511B1BE2D.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0DT-01Z-00-DX1.73AFCEBB-06B1-4870-ADA2-881511B1BE2D_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2560,
+    "svs_file": "TCGA-BH-A0DV-01Z-00-DX1.2F0B5FB3-40F0-4D27-BFAC-390FB9A42B39.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0DV-01Z-00-DX1.2F0B5FB3-40F0-4D27-BFAC-390FB9A42B39_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2561,
+    "svs_file": "TCGA-BH-A0DX-01Z-00-DX1.45C27E71-9A0A-400E-93A9-5CE7780F3C5E.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0DX-01Z-00-DX1.45C27E71-9A0A-400E-93A9-5CE7780F3C5E_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2562,
+    "svs_file": "TCGA-BH-A0DZ-01Z-00-DX1.138BAEC2-589E-4960-B94E-DF48DDAA5490.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0DZ-01Z-00-DX1.138BAEC2-589E-4960-B94E-DF48DDAA5490_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2563,
+    "svs_file": "TCGA-BH-A0E0-01Z-00-DX1.01E88024-83DF-4282-ABAF-F4E35807DA06.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0E0-01Z-00-DX1.01E88024-83DF-4282-ABAF-F4E35807DA06_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2564,
+    "svs_file": "TCGA-BH-A0E1-01Z-00-DX1.257EB36A-1008-4890-927B-204EF05DBE90.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0E1-01Z-00-DX1.257EB36A-1008-4890-927B-204EF05DBE90_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2565,
+    "svs_file": "TCGA-BH-A0E2-01Z-00-DX1.5F6FA19C-D59F-45BE-80CE-F738CAB1EF0B.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0E2-01Z-00-DX1.5F6FA19C-D59F-45BE-80CE-F738CAB1EF0B_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2566,
+    "svs_file": "TCGA-BH-A0E6-01Z-00-DX1.44DFEFB4-FA05-4246-8D6B-55BA8C3275DB.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0E6-01Z-00-DX1.44DFEFB4-FA05-4246-8D6B-55BA8C3275DB_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2567,
+    "svs_file": "TCGA-BH-A0E7-01Z-00-DX1.7FEE54C4-3795-403C-85B9-FF932BE56788.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0E7-01Z-00-DX1.7FEE54C4-3795-403C-85B9-FF932BE56788_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2568,
+    "svs_file": "TCGA-BH-A0E9-01Z-00-DX1.5FC4A5E1-3984-4869-9FFB-C0C7F9EAF5FE.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0E9-01Z-00-DX1.5FC4A5E1-3984-4869-9FFB-C0C7F9EAF5FE_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2569,
+    "svs_file": "TCGA-BH-A0EA-01Z-00-DX1.85FF2B48-2AF7-4C15-A7E6-FCA68CAB76C7.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0EA-01Z-00-DX1.85FF2B48-2AF7-4C15-A7E6-FCA68CAB76C7_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2570,
+    "svs_file": "TCGA-BH-A0EB-01Z-00-DX1.70D7BBA0-214D-4D1A-933C-7CFCDA5416A3.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0EB-01Z-00-DX1.70D7BBA0-214D-4D1A-933C-7CFCDA5416A3_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2571,
+    "svs_file": "TCGA-BH-A0EE-01Z-00-DX1.872EA586-25C8-4835-A138-152DFA1EBF30.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0EE-01Z-00-DX1.872EA586-25C8-4835-A138-152DFA1EBF30_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2572,
+    "svs_file": "TCGA-BH-A0EI-01Z-00-DX1.929E126A-C9F8-4240-BF00-B6C4A57B7FF6.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0EI-01Z-00-DX1.929E126A-C9F8-4240-BF00-B6C4A57B7FF6_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2573,
+    "svs_file": "TCGA-BH-A0GY-01Z-00-DX1.E1AEAA36-94FA-41ED-851F-7BB11DD3C06D.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0GY-01Z-00-DX1.E1AEAA36-94FA-41ED-851F-7BB11DD3C06D_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2574,
+    "svs_file": "TCGA-BH-A0GZ-01Z-00-DX1.9AD4F493-A0A9-499D-B667-B33333FC1A51.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0GZ-01Z-00-DX1.9AD4F493-A0A9-499D-B667-B33333FC1A51_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2575,
+    "svs_file": "TCGA-BH-A0H0-01Z-00-DX1.B3B394DD-1F4E-42CA-BB51-C002E423B3D0.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0H0-01Z-00-DX1.B3B394DD-1F4E-42CA-BB51-C002E423B3D0_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2576,
+    "svs_file": "TCGA-BH-A0H3-01Z-00-DX1.C6D4DFB9-A4FA-40B2-90EF-75294CBC4523.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0H3-01Z-00-DX1.C6D4DFB9-A4FA-40B2-90EF-75294CBC4523_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2577,
+    "svs_file": "TCGA-BH-A0H5-01Z-00-DX1.28F24D4D-EE80-4EDA-BC30-A194E22FD61C.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0H5-01Z-00-DX1.28F24D4D-EE80-4EDA-BC30-A194E22FD61C_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2578,
+    "svs_file": "TCGA-BH-A0H6-01Z-00-DX1.0CF7253A-B42C-4778-B1C6-17EC78A039ED.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0H6-01Z-00-DX1.0CF7253A-B42C-4778-B1C6-17EC78A039ED_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2579,
+    "svs_file": "TCGA-BH-A0H7-01Z-00-DX1.21502FEA-DB37-4630-BA42-778DDF3A6D17.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0H7-01Z-00-DX1.21502FEA-DB37-4630-BA42-778DDF3A6D17_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2580,
+    "svs_file": "TCGA-BH-A0H9-01Z-00-DX1.8AE869C6-5C78-4D52-AC8B-5B6FD5FD91AA.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0H9-01Z-00-DX1.8AE869C6-5C78-4D52-AC8B-5B6FD5FD91AA_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2581,
+    "svs_file": "TCGA-BH-A0HA-01Z-00-DX1.5A2F5C86-E1E7-445D-A4E3-29980FA37708.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0HA-01Z-00-DX1.5A2F5C86-E1E7-445D-A4E3-29980FA37708_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2582,
+    "svs_file": "TCGA-BH-A0HB-01Z-00-DX1.F90F7139-B804-4548-9FAF-9B475BF225EB.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0HB-01Z-00-DX1.F90F7139-B804-4548-9FAF-9B475BF225EB_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2583,
+    "svs_file": "TCGA-BH-A0HF-01Z-00-DX1.1EB2F7CE-54F4-4E41-A3CF-78209770B7CE.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0HF-01Z-00-DX1.1EB2F7CE-54F4-4E41-A3CF-78209770B7CE_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2584,
+    "svs_file": "TCGA-BH-A0HI-01Z-00-DX1.89DB9F79-0DCC-4C65-831E-96AE026C2C4E.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0HI-01Z-00-DX1.89DB9F79-0DCC-4C65-831E-96AE026C2C4E_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2585,
+    "svs_file": "TCGA-BH-A0HK-01Z-00-DX1.019036F5-647A-4EC4-8479-F2C100291AEF.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0HK-01Z-00-DX1.019036F5-647A-4EC4-8479-F2C100291AEF_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2586,
+    "svs_file": "TCGA-BH-A0HL-01Z-00-DX1.972DE96D-51F4-4A2D-B074-8D965023DC01.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0HL-01Z-00-DX1.972DE96D-51F4-4A2D-B074-8D965023DC01_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2587,
+    "svs_file": "TCGA-BH-A0HN-01Z-00-DX1.4997F641-C593-41F6-82ED-6A0E4EFA55F3.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0HN-01Z-00-DX1.4997F641-C593-41F6-82ED-6A0E4EFA55F3_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2588,
+    "svs_file": "TCGA-BH-A0HO-01Z-00-DX1.D3D66547-F5D4-40F5-B737-2FECEEB35ACB.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0HO-01Z-00-DX1.D3D66547-F5D4-40F5-B737-2FECEEB35ACB_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2589,
+    "svs_file": "TCGA-BH-A0HP-01Z-00-DX1.F1FF6E88-B2D1-40AA-8373-1714D82E666F.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0HP-01Z-00-DX1.F1FF6E88-B2D1-40AA-8373-1714D82E666F_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2590,
+    "svs_file": "TCGA-BH-A0HQ-01Z-00-DX1.0921FCEF-20A2-4D4B-A198-91AF9F6C814C.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0HQ-01Z-00-DX1.0921FCEF-20A2-4D4B-A198-91AF9F6C814C_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2591,
+    "svs_file": "TCGA-BH-A0HU-01Z-00-DX1.73B38904-E4F8-4F45-BD75-A27EC833B6DE.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0HU-01Z-00-DX1.73B38904-E4F8-4F45-BD75-A27EC833B6DE_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2592,
+    "svs_file": "TCGA-BH-A0HW-01Z-00-DX1.44DCCE00-133F-4469-A4DA-5057C011B4AC.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0HW-01Z-00-DX1.44DCCE00-133F-4469-A4DA-5057C011B4AC_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2593,
+    "svs_file": "TCGA-BH-A0HX-01Z-00-DX1.44EBA39E-383D-4820-915E-4E5FDA1D43DA.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0HX-01Z-00-DX1.44EBA39E-383D-4820-915E-4E5FDA1D43DA_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2594,
+    "svs_file": "TCGA-BH-A0HY-01Z-00-DX1.D7A1BF42-F268-4220-B71B-354CE2AF32D8.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0HY-01Z-00-DX1.D7A1BF42-F268-4220-B71B-354CE2AF32D8_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2595,
+    "svs_file": "TCGA-BH-A0RX-01Z-00-DX1.B4ABAFB9-6696-4F22-9468-DA56E1AD32D3.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0RX-01Z-00-DX1.B4ABAFB9-6696-4F22-9468-DA56E1AD32D3_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2596,
+    "svs_file": "TCGA-BH-A0W3-01Z-00-DX1.38DCA2B7-1A54-4FFA-BABA-29F80974BB17.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0W3-01Z-00-DX1.38DCA2B7-1A54-4FFA-BABA-29F80974BB17_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2597,
+    "svs_file": "TCGA-BH-A0W4-01Z-00-DX1.23E017DC-15CB-4838-AC91-CFB11B932AB0.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0W4-01Z-00-DX1.23E017DC-15CB-4838-AC91-CFB11B932AB0_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2598,
+    "svs_file": "TCGA-BH-A0W5-01Z-00-DX1.84EA3913-667B-4694-A0F0-E629CAC615C8.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0W5-01Z-00-DX1.84EA3913-667B-4694-A0F0-E629CAC615C8_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2599,
+    "svs_file": "TCGA-BH-A0W7-01Z-00-DX1.93F11232-A1FB-4682-B744-3531D4DF11AF.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0W7-01Z-00-DX1.93F11232-A1FB-4682-B744-3531D4DF11AF_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2600,
+    "svs_file": "TCGA-BH-A0WA-01Z-00-DX1.C0EB7B73-5529-49EC-B660-3F849B041963.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A0WA-01Z-00-DX1.C0EB7B73-5529-49EC-B660-3F849B041963_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2601,
+    "svs_file": "TCGA-BH-A18F-01Z-00-DX1.81A81589-2D77-4CD6-BD34-76E292AA031D.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A18F-01Z-00-DX1.81A81589-2D77-4CD6-BD34-76E292AA031D_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2602,
+    "svs_file": "TCGA-BH-A18G-01Z-00-DX1.DB2B5819-CE83-4E07-BD03-2CD9CF2E246C.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A18G-01Z-00-DX1.DB2B5819-CE83-4E07-BD03-2CD9CF2E246C_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2603,
+    "svs_file": "TCGA-BH-A18H-01Z-00-DX1.4EC9108F-04C2-4B28-BD74-97A414C9A536.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A18H-01Z-00-DX1.4EC9108F-04C2-4B28-BD74-97A414C9A536_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2604,
+    "svs_file": "TCGA-BH-A18I-01Z-00-DX1.EE699DE3-EBF4-4AB4-8319-9911F027FA18.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A18I-01Z-00-DX1.EE699DE3-EBF4-4AB4-8319-9911F027FA18_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2605,
+    "svs_file": "TCGA-BH-A18J-01Z-00-DX1.AE20ADB6-050C-405D-BF17-1EE4A1A4979A.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A18J-01Z-00-DX1.AE20ADB6-050C-405D-BF17-1EE4A1A4979A_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2606,
+    "svs_file": "TCGA-BH-A18L-01Z-00-DX1.01D6E3EF-6857-4CC6-BEA1-0BBC1A0B728F.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A18L-01Z-00-DX1.01D6E3EF-6857-4CC6-BEA1-0BBC1A0B728F_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2607,
+    "svs_file": "TCGA-BH-A18M-01Z-00-DX1.56E6935A-62CB-4CBE-BDCA-60DA56422CE0.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A18M-01Z-00-DX1.56E6935A-62CB-4CBE-BDCA-60DA56422CE0_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2608,
+    "svs_file": "TCGA-BH-A18N-01Z-00-DX1.FE0E24A1-8AE9-4021-B9C7-B408EE0DE329.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A18N-01Z-00-DX1.FE0E24A1-8AE9-4021-B9C7-B408EE0DE329_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2609,
+    "svs_file": "TCGA-BH-A18P-01Z-00-DX1.C66642D3-BE44-4D65-B4AE-C1C3D959D22C.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A18P-01Z-00-DX1.C66642D3-BE44-4D65-B4AE-C1C3D959D22C_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2610,
+    "svs_file": "TCGA-BH-A18Q-01Z-00-DX1.E89E49C7-D62A-4408-A3D9-19E79FCB249E.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A18Q-01Z-00-DX1.E89E49C7-D62A-4408-A3D9-19E79FCB249E_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2611,
+    "svs_file": "TCGA-BH-A18R-01Z-00-DX1.07E6FA7F-5072-4327-9982-A40F010B7532.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A18R-01Z-00-DX1.07E6FA7F-5072-4327-9982-A40F010B7532_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2612,
+    "svs_file": "TCGA-BH-A18S-01Z-00-DX1.B36FC684-0010-4ABB-9E25-303C8DF1C4E2.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A18S-01Z-00-DX1.B36FC684-0010-4ABB-9E25-303C8DF1C4E2_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2613,
+    "svs_file": "TCGA-BH-A18T-01Z-00-DX1.90123A74-F631-4538-AB2E-4076486ADF88.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A18T-01Z-00-DX1.90123A74-F631-4538-AB2E-4076486ADF88_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2614,
+    "svs_file": "TCGA-BH-A18U-01Z-00-DX1.63940315-59BC-462B-87A8-2BBB33C9503E.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A18U-01Z-00-DX1.63940315-59BC-462B-87A8-2BBB33C9503E_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2615,
+    "svs_file": "TCGA-BH-A18V-01Z-00-DX1.7797760A-05CD-436E-97DA-31D6201F943B.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A18V-01Z-00-DX1.7797760A-05CD-436E-97DA-31D6201F943B_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2616,
+    "svs_file": "TCGA-BH-A1EN-01Z-00-DX1.F535657F-E2FA-4283-87AE-7DAB663B196B.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1EN-01Z-00-DX1.F535657F-E2FA-4283-87AE-7DAB663B196B_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2617,
+    "svs_file": "TCGA-BH-A1EO-01Z-00-DX1.0E624888-D7E4-48DF-B51A-9AD8F75A66B7.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1EO-01Z-00-DX1.0E624888-D7E4-48DF-B51A-9AD8F75A66B7_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2618,
+    "svs_file": "TCGA-BH-A1ES-01Z-00-DX1.C54C809F-748F-4BB0-B018-A8A83A4134C0.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1ES-01Z-00-DX1.C54C809F-748F-4BB0-B018-A8A83A4134C0_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2619,
+    "svs_file": "TCGA-BH-A1ET-01Z-00-DX1.05C126CD-CC10-44BF-9A68-6CDDE97272B2.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1ET-01Z-00-DX1.05C126CD-CC10-44BF-9A68-6CDDE97272B2_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2620,
+    "svs_file": "TCGA-BH-A1EU-01Z-00-DX1.5A0956EF-0100-47FD-9026-1994CF22D0F1.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1EU-01Z-00-DX1.5A0956EF-0100-47FD-9026-1994CF22D0F1_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2621,
+    "svs_file": "TCGA-BH-A1EV-01Z-00-DX1.106CF220-1D7D-40DD-88B2-A7F00B758F8F.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1EV-01Z-00-DX1.106CF220-1D7D-40DD-88B2-A7F00B758F8F_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2622,
+    "svs_file": "TCGA-BH-A1EW-01Z-00-DX1.A6A5F9C5-FB97-4DA3-A1EA-1F84BC006681.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1EW-01Z-00-DX1.A6A5F9C5-FB97-4DA3-A1EA-1F84BC006681_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2623,
+    "svs_file": "TCGA-BH-A1EX-01Z-00-DX1.16B6A817-6729-446E-9FCF-A4A333C5295D.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1EX-01Z-00-DX1.16B6A817-6729-446E-9FCF-A4A333C5295D_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2624,
+    "svs_file": "TCGA-BH-A1EY-01Z-00-DX1.25C3DE1F-C702-4959-8DFA-69EF78AD9307.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1EY-01Z-00-DX1.25C3DE1F-C702-4959-8DFA-69EF78AD9307_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2625,
+    "svs_file": "TCGA-BH-A1F0-01Z-00-DX1.E1557A67-230A-4337-AEC8-158258A917FF.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1F0-01Z-00-DX1.E1557A67-230A-4337-AEC8-158258A917FF_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2626,
+    "svs_file": "TCGA-BH-A1F2-01Z-00-DX1.17E2FD6F-0DCF-425B-864B-21ADCDAE734B.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1F2-01Z-00-DX1.17E2FD6F-0DCF-425B-864B-21ADCDAE734B_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2627,
+    "svs_file": "TCGA-BH-A1F5-01Z-00-DX1.9A1AA3BB-80B1-473D-B075-8D65A94C4E0B.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1F5-01Z-00-DX1.9A1AA3BB-80B1-473D-B075-8D65A94C4E0B_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2628,
+    "svs_file": "TCGA-BH-A1F6-01Z-00-DX1.E83F0DC0-EA2C-4641-81B0-8702B9C5D579.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1F6-01Z-00-DX1.E83F0DC0-EA2C-4641-81B0-8702B9C5D579_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2629,
+    "svs_file": "TCGA-BH-A1F8-01Z-00-DX1.8BB026F7-35CB-483F-B665-4C3A3EF47E1B.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1F8-01Z-00-DX1.8BB026F7-35CB-483F-B665-4C3A3EF47E1B_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2630,
+    "svs_file": "TCGA-BH-A1FB-01Z-00-DX1.9D778D1A-07F6-450D-B7AA-0E17B4D0A88C.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1FB-01Z-00-DX1.9D778D1A-07F6-450D-B7AA-0E17B4D0A88C_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2631,
+    "svs_file": "TCGA-BH-A1FC-01Z-00-DX1.B816A21B-1559-42F5-902A-A1532E59C015.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1FC-01Z-00-DX1.B816A21B-1559-42F5-902A-A1532E59C015_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2632,
+    "svs_file": "TCGA-BH-A1FE-01Z-00-DX1.8FB57ECF-350B-44E4-8612-63E8374D3C4B.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1FE-01Z-00-DX1.8FB57ECF-350B-44E4-8612-63E8374D3C4B_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2633,
+    "svs_file": "TCGA-BH-A1FG-01Z-00-DX1.DA665FB6-9DD9-4B18-A925-2EFD9BC4C43B.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1FG-01Z-00-DX1.DA665FB6-9DD9-4B18-A925-2EFD9BC4C43B_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2634,
+    "svs_file": "TCGA-BH-A1FH-01Z-00-DX1.F90A691F-B6DB-4C4A-9975-9A2CB01F29E2.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1FH-01Z-00-DX1.F90A691F-B6DB-4C4A-9975-9A2CB01F29E2_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2635,
+    "svs_file": "TCGA-BH-A1FJ-01Z-00-DX1.BCED4CEF-2B33-45BA-ABC7-29BEE818F4A3.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1FJ-01Z-00-DX1.BCED4CEF-2B33-45BA-ABC7-29BEE818F4A3_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2636,
+    "svs_file": "TCGA-BH-A1FL-01Z-00-DX1.D3E9F46E-9A28-4AAE-8C87-D6F1851227A3.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1FL-01Z-00-DX1.D3E9F46E-9A28-4AAE-8C87-D6F1851227A3_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2637,
+    "svs_file": "TCGA-BH-A1FM-01Z-00-DX1.860C5169-FE2B-43A6-A13D-E736374303DD.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1FM-01Z-00-DX1.860C5169-FE2B-43A6-A13D-E736374303DD_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2638,
+    "svs_file": "TCGA-BH-A1FN-01Z-00-DX1.CEE3C59B-6CF0-4D41-8334-6067BB5A8BF7.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1FN-01Z-00-DX1.CEE3C59B-6CF0-4D41-8334-6067BB5A8BF7_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2639,
+    "svs_file": "TCGA-BH-A1FR-01Z-00-DX1.03E51FCD-DDF2-4924-827D-85A02280C9C7.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1FR-01Z-00-DX1.03E51FCD-DDF2-4924-827D-85A02280C9C7_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2640,
+    "svs_file": "TCGA-BH-A1FU-01Z-00-DX1.3D195750-8C9E-48C6-92EC-44AC6AB56267.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A1FU-01Z-00-DX1.3D195750-8C9E-48C6-92EC-44AC6AB56267_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2641,
+    "svs_file": "TCGA-BH-A201-01Z-00-DX1.6D6E3224-50A0-45A2-B231-EEF27CA7EFD2.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A201-01Z-00-DX1.6D6E3224-50A0-45A2-B231-EEF27CA7EFD2_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2642,
+    "svs_file": "TCGA-BH-A202-01Z-00-DX1.8CECDB74-5E6F-4CE8-B52C-A89E574F38FB.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A202-01Z-00-DX1.8CECDB74-5E6F-4CE8-B52C-A89E574F38FB_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2643,
+    "svs_file": "TCGA-BH-A203-01Z-00-DX1.FAE40A13-0C4A-415F-9396-01041FF6B855.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A203-01Z-00-DX1.FAE40A13-0C4A-415F-9396-01041FF6B855_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2644,
+    "svs_file": "TCGA-BH-A204-01Z-00-DX1.9DCE8242-E862-45AB-9452-D7299110973F.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A204-01Z-00-DX1.9DCE8242-E862-45AB-9452-D7299110973F_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2645,
+    "svs_file": "TCGA-BH-A208-01Z-00-DX1.C7A2885D-0535-4506-B06E-82BC62D6DFE9.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A208-01Z-00-DX1.C7A2885D-0535-4506-B06E-82BC62D6DFE9_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2646,
+    "svs_file": "TCGA-BH-A209-01Z-00-DX1.88B11AEB-11FA-4D23-BC21-378EF177E04B.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A209-01Z-00-DX1.88B11AEB-11FA-4D23-BC21-378EF177E04B_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2647,
+    "svs_file": "TCGA-BH-A28O-01Z-00-DX1.B37603E3-BC80-4DDA-B44D-B5F794E3398E.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A28O-01Z-00-DX1.B37603E3-BC80-4DDA-B44D-B5F794E3398E_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2648,
+    "svs_file": "TCGA-BH-A28Q-01Z-00-DX1.C6D1CA93-6B2A-4722-9270-5D56592D833D.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A28Q-01Z-00-DX1.C6D1CA93-6B2A-4722-9270-5D56592D833D_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2649,
+    "svs_file": "TCGA-BH-A2L8-01Z-00-DX1.ACA51CA9-3C38-48A6-B4A9-C12FFAB9AB56.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A2L8-01Z-00-DX1.ACA51CA9-3C38-48A6-B4A9-C12FFAB9AB56_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2650,
+    "svs_file": "TCGA-BH-A42T-01Z-00-DX1.6E4609B9-BE7E-4CA9-A1C0-A77A7DEFBB2B.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A42T-01Z-00-DX1.6E4609B9-BE7E-4CA9-A1C0-A77A7DEFBB2B_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2651,
+    "svs_file": "TCGA-BH-A42U-01Z-00-DX1.130D060A-3DD8-407E-B8B0-EBBF743491AE.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A42U-01Z-00-DX1.130D060A-3DD8-407E-B8B0-EBBF743491AE_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2652,
+    "svs_file": "TCGA-BH-A42V-01Z-00-DX1.B6D78256-05D1-45FA-826A-1B8554D60B7D.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A42V-01Z-00-DX1.B6D78256-05D1-45FA-826A-1B8554D60B7D_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2653,
+    "svs_file": "TCGA-BH-A5IZ-01Z-00-DX1.6C871030-82E1-463E-A67B-976A5F3DCDB2.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A5IZ-01Z-00-DX1.6C871030-82E1-463E-A67B-976A5F3DCDB2_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2654,
+    "svs_file": "TCGA-BH-A5J0-01Z-00-DX1.73CFBC85-8449-48FF-86F8-D4D49A90498B.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-BH-A5J0-01Z-00-DX1.73CFBC85-8449-48FF-86F8-D4D49A90498B_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2655,
+    "svs_file": "TCGA-C8-A12K-01Z-00-DX1.D71C7974-65F7-4EF0-8FFB-9F27CEC85242.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A12K-01Z-00-DX1.D71C7974-65F7-4EF0-8FFB-9F27CEC85242_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2656,
+    "svs_file": "TCGA-C8-A12L-01Z-00-DX1.01863BE4-F4AB-45DE-894A-46544777C519.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A12L-01Z-00-DX1.01863BE4-F4AB-45DE-894A-46544777C519_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2657,
+    "svs_file": "TCGA-C8-A12M-01Z-00-DX1.0C5F2DED-873F-4C86-97A2-2AA76A6236DF.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A12M-01Z-00-DX1.0C5F2DED-873F-4C86-97A2-2AA76A6236DF_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2658,
+    "svs_file": "TCGA-C8-A12N-01Z-00-DX1.8E50110E-A6C0-496F-B44E-7190096C113E.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A12N-01Z-00-DX1.8E50110E-A6C0-496F-B44E-7190096C113E_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2659,
+    "svs_file": "TCGA-C8-A12O-01Z-00-DX1.A77E552B-7B69-45B7-B341-A03571F2A06C.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A12O-01Z-00-DX1.A77E552B-7B69-45B7-B341-A03571F2A06C_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2660,
+    "svs_file": "TCGA-C8-A12P-01Z-00-DX1.670B5DE8-07B0-4E4C-93FA-FA3DFFCCE50D.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A12P-01Z-00-DX1.670B5DE8-07B0-4E4C-93FA-FA3DFFCCE50D_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2661,
+    "svs_file": "TCGA-C8-A12Q-01Z-00-DX1.CE74E5B7-FD30-4CBE-8716-ECCF2213AAC3.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A12Q-01Z-00-DX1.CE74E5B7-FD30-4CBE-8716-ECCF2213AAC3_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2662,
+    "svs_file": "TCGA-C8-A12T-01Z-00-DX1.EF628C26-C570-4D15-A0C0-58B2CC40ABFC.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A12T-01Z-00-DX1.EF628C26-C570-4D15-A0C0-58B2CC40ABFC_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2663,
+    "svs_file": "TCGA-C8-A12U-01Z-00-DX1.8E90FC9F-630E-4611-A5D2-D6F11DBE81EF.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A12U-01Z-00-DX1.8E90FC9F-630E-4611-A5D2-D6F11DBE81EF_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2664,
+    "svs_file": "TCGA-C8-A12V-01Z-00-DX1.84B29360-B87B-4648-A697-B6610336C2BB.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A12V-01Z-00-DX1.84B29360-B87B-4648-A697-B6610336C2BB_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2665,
+    "svs_file": "TCGA-C8-A12W-01Z-00-DX1.3727E7BB-831E-42DB-B5CB-F2D7C649290F.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A12W-01Z-00-DX1.3727E7BB-831E-42DB-B5CB-F2D7C649290F_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2666,
+    "svs_file": "TCGA-C8-A12X-01Z-00-DX1.2967579D-40AE-4425-BE81-5109713C16B4.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A12X-01Z-00-DX1.2967579D-40AE-4425-BE81-5109713C16B4_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2667,
+    "svs_file": "TCGA-C8-A12Y-01Z-00-DX1.A15CB3E2-E145-4C75-8FEA-1DD503CD7C20.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A12Y-01Z-00-DX1.A15CB3E2-E145-4C75-8FEA-1DD503CD7C20_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2668,
+    "svs_file": "TCGA-C8-A12Z-01Z-00-DX1.22616420-7C80-42DE-9C44-0F00327681C6.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A12Z-01Z-00-DX1.22616420-7C80-42DE-9C44-0F00327681C6_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2669,
+    "svs_file": "TCGA-C8-A130-01Z-00-DX1.F6810204-C35A-4461-A18A-0A117739B988.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A130-01Z-00-DX1.F6810204-C35A-4461-A18A-0A117739B988_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2670,
+    "svs_file": "TCGA-C8-A131-01Z-00-DX1.5CB27A29-9951-40B9-B4DB-26A4D2EA89B8.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A131-01Z-00-DX1.5CB27A29-9951-40B9-B4DB-26A4D2EA89B8_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2671,
+    "svs_file": "TCGA-C8-A132-01Z-00-DX1.6CCE1FE0-BB4B-4046-BAF0-43AA110B2EBE.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A132-01Z-00-DX1.6CCE1FE0-BB4B-4046-BAF0-43AA110B2EBE_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2672,
+    "svs_file": "TCGA-C8-A133-01Z-00-DX1.AFEE2057-2793-49E4-A477-E0DE3F6C67F9.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A133-01Z-00-DX1.AFEE2057-2793-49E4-A477-E0DE3F6C67F9_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2673,
+    "svs_file": "TCGA-C8-A134-01Z-00-DX1.78D10BCC-98B3-4587-897D-3E27DA28D2EB.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A134-01Z-00-DX1.78D10BCC-98B3-4587-897D-3E27DA28D2EB_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2674,
+    "svs_file": "TCGA-C8-A135-01Z-00-DX1.B69A605E-B577-4F43-9471-2C95312B05D9.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A135-01Z-00-DX1.B69A605E-B577-4F43-9471-2C95312B05D9_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2675,
+    "svs_file": "TCGA-C8-A137-01Z-00-DX1.87F3775D-A401-4D5E-843F-8FB1D4BE97F8.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A137-01Z-00-DX1.87F3775D-A401-4D5E-843F-8FB1D4BE97F8_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2676,
+    "svs_file": "TCGA-C8-A138-01Z-00-DX1.845A0680-23A4-4A58-A9C4-2EE17BDBD371.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A138-01Z-00-DX1.845A0680-23A4-4A58-A9C4-2EE17BDBD371_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2677,
+    "svs_file": "TCGA-C8-A1HE-01Z-00-DX1.83A5D816-E3A6-46B8-B1B8-B31486EB686E.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A1HE-01Z-00-DX1.83A5D816-E3A6-46B8-B1B8-B31486EB686E_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2678,
+    "svs_file": "TCGA-C8-A1HF-01Z-00-DX1.81EF9A57-54E1-4750-9816-5571FD18A297.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A1HF-01Z-00-DX1.81EF9A57-54E1-4750-9816-5571FD18A297_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2679,
+    "svs_file": "TCGA-C8-A1HG-01Z-00-DX1.F2AB6D0F-4D6B-491F-915B-92E838E79D67.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A1HG-01Z-00-DX1.F2AB6D0F-4D6B-491F-915B-92E838E79D67_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2680,
+    "svs_file": "TCGA-C8-A1HI-01Z-00-DX1.C6D0F8B8-55ED-477F-BAF7-AA05D0449CC8.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A1HI-01Z-00-DX1.C6D0F8B8-55ED-477F-BAF7-AA05D0449CC8_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2681,
+    "svs_file": "TCGA-C8-A1HJ-01Z-00-DX1.745159F1-85E7-4CC0-B088-E1CA91916FB8.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A1HJ-01Z-00-DX1.745159F1-85E7-4CC0-B088-E1CA91916FB8_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2682,
+    "svs_file": "TCGA-C8-A1HK-01Z-00-DX1.A15F452B-1260-4106-86D1-05F00082F0CE.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A1HK-01Z-00-DX1.A15F452B-1260-4106-86D1-05F00082F0CE_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2683,
+    "svs_file": "TCGA-C8-A1HL-01Z-00-DX1.CC21CAE9-DE48-4ADE-A959-5A99010AAFAC.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A1HL-01Z-00-DX1.CC21CAE9-DE48-4ADE-A959-5A99010AAFAC_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2684,
+    "svs_file": "TCGA-C8-A1HM-01Z-00-DX1.F93C3F56-3AA6-4D38-B51E-4694CBEA3830.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A1HM-01Z-00-DX1.F93C3F56-3AA6-4D38-B51E-4694CBEA3830_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2685,
+    "svs_file": "TCGA-C8-A1HN-01Z-00-DX1.7EBBEAB1-EBB7-456F-8848-AFE2263242B7.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A1HN-01Z-00-DX1.7EBBEAB1-EBB7-456F-8848-AFE2263242B7_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2686,
+    "svs_file": "TCGA-C8-A1HO-01Z-00-DX1.0C702CEE-C373-4D00-A706-32206D41AC17.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A1HO-01Z-00-DX1.0C702CEE-C373-4D00-A706-32206D41AC17_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2687,
+    "svs_file": "TCGA-C8-A26V-01Z-00-DX1.6E86DF74-D575-4969-8142-963D9DF5208F.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A26V-01Z-00-DX1.6E86DF74-D575-4969-8142-963D9DF5208F_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2688,
+    "svs_file": "TCGA-C8-A26W-01Z-00-DX1.CFF07941-6CD1-4CF9-BE5F-387DA67B66CC.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A26W-01Z-00-DX1.CFF07941-6CD1-4CF9-BE5F-387DA67B66CC_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2689,
+    "svs_file": "TCGA-C8-A26X-01Z-00-DX1.FBD86F91-BAD7-4484-8D50-202340FBF242.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A26X-01Z-00-DX1.FBD86F91-BAD7-4484-8D50-202340FBF242_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2690,
+    "svs_file": "TCGA-C8-A26Y-01Z-00-DX1.166EE604-4EF3-401D-99E9-3A9711316CC4.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A26Y-01Z-00-DX1.166EE604-4EF3-401D-99E9-3A9711316CC4_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2691,
+    "svs_file": "TCGA-C8-A26Z-01Z-00-DX1.1A15D951-F3BD-4024-91DD-E7633C09A837.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A26Z-01Z-00-DX1.1A15D951-F3BD-4024-91DD-E7633C09A837_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2692,
+    "svs_file": "TCGA-C8-A273-01Z-00-DX1.6E5D581F-DF80-478D-82D1-6D6525EED1B5.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A273-01Z-00-DX1.6E5D581F-DF80-478D-82D1-6D6525EED1B5_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2693,
+    "svs_file": "TCGA-C8-A274-01Z-00-DX1.B667DAB1-C944-4285-A312-5E4DDAE0EE78.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A274-01Z-00-DX1.B667DAB1-C944-4285-A312-5E4DDAE0EE78_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2694,
+    "svs_file": "TCGA-C8-A275-01Z-00-DX1.44D27E67-4DD6-4893-B38A-01E48F5A358A.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A275-01Z-00-DX1.44D27E67-4DD6-4893-B38A-01E48F5A358A_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2695,
+    "svs_file": "TCGA-C8-A278-01Z-00-DX1.188B3FE0-7B20-401A-A6B7-8F1798018162.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A278-01Z-00-DX1.188B3FE0-7B20-401A-A6B7-8F1798018162_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2696,
+    "svs_file": "TCGA-C8-A27A-01Z-00-DX1.0E26C46D-CD65-40F3-8976-EB4415582934.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A27A-01Z-00-DX1.0E26C46D-CD65-40F3-8976-EB4415582934_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2697,
+    "svs_file": "TCGA-C8-A27B-01Z-00-DX1.5A8A14E8-6430-4147-9C71-805024E098CB.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A27B-01Z-00-DX1.5A8A14E8-6430-4147-9C71-805024E098CB_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2698,
+    "svs_file": "TCGA-C8-A3M7-01Z-00-DX1.846C75F1-2E7E-44F7-B21F-C246141558FA.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A3M7-01Z-00-DX1.846C75F1-2E7E-44F7-B21F-C246141558FA_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2699,
+    "svs_file": "TCGA-C8-A3M8-01Z-00-DX1.97AC85E0-6281-4F2E-8034-24AD5F52D5A6.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A3M8-01Z-00-DX1.97AC85E0-6281-4F2E-8034-24AD5F52D5A6_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2700,
+    "svs_file": "TCGA-C8-A8HP-01Z-00-DX1.B6EE8271-2E51-4184-9B0C-2ADA69B4A714.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A8HP-01Z-00-DX1.B6EE8271-2E51-4184-9B0C-2ADA69B4A714_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2701,
+    "svs_file": "TCGA-C8-A8HQ-01Z-00-DX1.A08190B5-F17E-4057-9DBD-B2F34CAEAFDC.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A8HQ-01Z-00-DX1.A08190B5-F17E-4057-9DBD-B2F34CAEAFDC_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2702,
+    "svs_file": "TCGA-C8-A8HR-01Z-00-DX1.8E841CA8-1CE2-4242-AC5A-3247075CF8F4.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A8HR-01Z-00-DX1.8E841CA8-1CE2-4242-AC5A-3247075CF8F4_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2703,
+    "svs_file": "TCGA-C8-A9FZ-01Z-00-DX1.FA6B5909-3024-44B9-9CC5-71F8AB133A45.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-C8-A9FZ-01Z-00-DX1.FA6B5909-3024-44B9-9CC5-71F8AB133A45_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2704,
+    "svs_file": "TCGA-D8-A13Y-01Z-00-DX1.02321E77-A11E-41A5-95FE-BB897EA5CE58.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A13Y-01Z-00-DX1.02321E77-A11E-41A5-95FE-BB897EA5CE58_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2705,
+    "svs_file": "TCGA-D8-A13Y-01Z-00-DX2.0043D2BB-B04D-4A44-AAB1-1CAAD97AC246.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A13Y-01Z-00-DX2.0043D2BB-B04D-4A44-AAB1-1CAAD97AC246_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2706,
+    "svs_file": "TCGA-D8-A13Z-01Z-00-DX1.517140BB-D34C-42F8-952C-340EF16D382F.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A13Z-01Z-00-DX1.517140BB-D34C-42F8-952C-340EF16D382F_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2707,
+    "svs_file": "TCGA-D8-A140-01Z-00-DX1.5B9382C0-332C-4FBF-82CD-B9453D02B815.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A140-01Z-00-DX1.5B9382C0-332C-4FBF-82CD-B9453D02B815_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2708,
+    "svs_file": "TCGA-D8-A140-01Z-00-DX2.0C0A62BB-1FB8-47D8-8FAF-112D221F18BE.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A140-01Z-00-DX2.0C0A62BB-1FB8-47D8-8FAF-112D221F18BE_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2709,
+    "svs_file": "TCGA-D8-A141-01Z-00-DX1.10F6EEB2-C920-43FF-B5A7-B5A651CBDBE3.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A141-01Z-00-DX1.10F6EEB2-C920-43FF-B5A7-B5A651CBDBE3_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2710,
+    "svs_file": "TCGA-D8-A141-01Z-00-DX2.DBD0D81E-28FC-4466-BDE3-94753BD6CBEB.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A141-01Z-00-DX2.DBD0D81E-28FC-4466-BDE3-94753BD6CBEB_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2711,
+    "svs_file": "TCGA-D8-A142-01Z-00-DX1.F6D58989-9120-40C9-918D-6B1650C1A8E8.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A142-01Z-00-DX1.F6D58989-9120-40C9-918D-6B1650C1A8E8_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2712,
+    "svs_file": "TCGA-D8-A143-01Z-00-DX1.4697FB2F-91D5-4506-AF23-7DE304D44A3F.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A143-01Z-00-DX1.4697FB2F-91D5-4506-AF23-7DE304D44A3F_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2713,
+    "svs_file": "TCGA-D8-A145-01Z-00-DX1.34D4EC27-7FD7-4BE2-95A4-CA521CB5590E.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A145-01Z-00-DX1.34D4EC27-7FD7-4BE2-95A4-CA521CB5590E_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2714,
+    "svs_file": "TCGA-D8-A145-01Z-00-DX2.B834BF47-1CD6-45EA-BB88-D8ECE1FDDC6A.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A145-01Z-00-DX2.B834BF47-1CD6-45EA-BB88-D8ECE1FDDC6A_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2715,
+    "svs_file": "TCGA-D8-A146-01Z-00-DX1.D93FB315-E5D7-49BA-8380-38B16B70361B.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A146-01Z-00-DX1.D93FB315-E5D7-49BA-8380-38B16B70361B_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2716,
+    "svs_file": "TCGA-D8-A147-01Z-00-DX1.159094F2-BB78-4910-B7AE-3D7CAAB1DAD9.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A147-01Z-00-DX1.159094F2-BB78-4910-B7AE-3D7CAAB1DAD9_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2717,
+    "svs_file": "TCGA-D8-A1J8-01Z-00-DX1.EADAB43A-87C6-47FA-9120-25B69E23366D.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A1J8-01Z-00-DX1.EADAB43A-87C6-47FA-9120-25B69E23366D_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2718,
+    "svs_file": "TCGA-D8-A1J8-01Z-00-DX2.5DCB3447-548D-442C-86B1-CEF79B8689DF.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A1J8-01Z-00-DX2.5DCB3447-548D-442C-86B1-CEF79B8689DF_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2719,
+    "svs_file": "TCGA-D8-A1J9-01Z-00-DX1.F81FA9EF-8129-4E17-A9AD-2B850782CC18.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A1J9-01Z-00-DX1.F81FA9EF-8129-4E17-A9AD-2B850782CC18_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2720,
+    "svs_file": "TCGA-D8-A1J9-01Z-00-DX2.E1C59487-9563-4501-845F-2067A0C5C59B.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A1J9-01Z-00-DX2.E1C59487-9563-4501-845F-2067A0C5C59B_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2721,
+    "svs_file": "TCGA-D8-A1JA-01Z-00-DX1.BD43F94A-D5A8-490E-AED4-5F3AB24080FA.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A1JA-01Z-00-DX1.BD43F94A-D5A8-490E-AED4-5F3AB24080FA_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2722,
+    "svs_file": "TCGA-D8-A1JB-01Z-00-DX1.6CF48257-066C-4B8C-91AA-30A6B4AD4307.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A1JB-01Z-00-DX1.6CF48257-066C-4B8C-91AA-30A6B4AD4307_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2723,
+    "svs_file": "TCGA-D8-A1JC-01Z-00-DX1.16D32FE8-4D76-4EEC-9739-D394087605BC.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A1JC-01Z-00-DX1.16D32FE8-4D76-4EEC-9739-D394087605BC_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2724,
+    "svs_file": "TCGA-D8-A1JC-01Z-00-DX2.854ABF5D-40F1-48AE-802F-97D75497F1FD.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A1JC-01Z-00-DX2.854ABF5D-40F1-48AE-802F-97D75497F1FD_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2725,
+    "svs_file": "TCGA-D8-A1JD-01Z-00-DX1.6D215B14-DD90-4635-8645-AF06EBD9BA3F.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A1JD-01Z-00-DX1.6D215B14-DD90-4635-8645-AF06EBD9BA3F_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2726,
+    "svs_file": "TCGA-D8-A1JD-01Z-00-DX2.C6A7667E-25C9-48BD-A4E7-F4BB740FE589.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A1JD-01Z-00-DX2.C6A7667E-25C9-48BD-A4E7-F4BB740FE589_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2727,
+    "svs_file": "TCGA-D8-A1JE-01Z-00-DX1.714805A1-E337-46DA-88D9-6CE4B4E3C2D0.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A1JE-01Z-00-DX1.714805A1-E337-46DA-88D9-6CE4B4E3C2D0_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2728,
+    "svs_file": "TCGA-D8-A1JE-01Z-00-DX2.CCF3DFEF-E851-425A-BCD0-0F7B377A00BC.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A1JE-01Z-00-DX2.CCF3DFEF-E851-425A-BCD0-0F7B377A00BC_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2729,
+    "svs_file": "TCGA-D8-A1JF-01Z-00-DX1.224EDA43-F822-4A88-814A-BA7D4C60F8CC.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A1JF-01Z-00-DX1.224EDA43-F822-4A88-814A-BA7D4C60F8CC_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2730,
+    "svs_file": "TCGA-D8-A1JG-01Z-00-DX1.BA6D5CC7-3A9B-4D17-A86A-B159D345A216.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A1JG-01Z-00-DX1.BA6D5CC7-3A9B-4D17-A86A-B159D345A216_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2731,
+    "svs_file": "TCGA-D8-A1JH-01Z-00-DX1.4A4F2502-612C-421D-9F64-444BF2C85620.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A1JH-01Z-00-DX1.4A4F2502-612C-421D-9F64-444BF2C85620_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2732,
+    "svs_file": "TCGA-D8-A1JI-01Z-00-DX1.9BDB647F-EEAB-4235-BE44-A3815A48CCE0.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A1JI-01Z-00-DX1.9BDB647F-EEAB-4235-BE44-A3815A48CCE0_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2733,
+    "svs_file": "TCGA-D8-A1JI-01Z-00-DX2.E688E270-26C9-43EC-BC26-86BF8B74A31D.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A1JI-01Z-00-DX2.E688E270-26C9-43EC-BC26-86BF8B74A31D_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2734,
+    "svs_file": "TCGA-D8-A1JJ-01Z-00-DX1.a986b48f-b295-4d7a-b778-ce829cdf9c38.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A1JJ-01Z-00-DX1.a986b48f-b295-4d7a-b778-ce829cdf9c38_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2735,
+    "svs_file": "TCGA-D8-A1JJ-01Z-00-DX2.7D20F308-7DC6-4367-9459-3AC4C654E7F7.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A1JJ-01Z-00-DX2.7D20F308-7DC6-4367-9459-3AC4C654E7F7_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2736,
+    "svs_file": "TCGA-D8-A1JK-01Z-00-DX1.3190C919-A403-460D-9F6C-D2AB5FD3FD05.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A1JK-01Z-00-DX1.3190C919-A403-460D-9F6C-D2AB5FD3FD05_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2737,
+    "svs_file": "TCGA-D8-A1JL-01Z-00-DX1.FE3F0C6B-F98A-4036-BF9A-25A8CC66B1FD.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A1JL-01Z-00-DX1.FE3F0C6B-F98A-4036-BF9A-25A8CC66B1FD_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2738,
+    "svs_file": "TCGA-D8-A1JM-01Z-00-DX1.3CD15BC8-08B3-4BEE-9FD7-A8BEED33268E.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A1JM-01Z-00-DX1.3CD15BC8-08B3-4BEE-9FD7-A8BEED33268E_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2739,
+    "svs_file": "TCGA-D8-A1JN-01Z-00-DX1.3B02989C-CEA0-4EDD-A6DC-21C3A957C640.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A1JN-01Z-00-DX1.3B02989C-CEA0-4EDD-A6DC-21C3A957C640_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 2740,
+    "svs_file": "TCGA-D8-A1JP-01Z-00-DX1.B02959C4-6AAD-4ACA-9838-61D224D838E4.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-D8-A1JP-01Z-00-DX1.B02959C4-6AAD-4ACA-9838-61D224D838E4_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  }
+]

@@ -1,0 +1,9 @@
+panel
+openslide-python
+numpy
+pillow
+bokeh
+param
+flask
+python-dotenv
+redis==5.0.1

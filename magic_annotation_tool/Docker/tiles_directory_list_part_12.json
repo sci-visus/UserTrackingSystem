@@ -1,0 +1,1646 @@
+[
+  {
+    "entry_number": 3015,
+    "svs_file": "TCGA-EW-A6SB-01Z-00-DX1.D56E1922-01A9-4AEE-AB95-D69447DD13EE.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-EW-A6SB-01Z-00-DX1.D56E1922-01A9-4AEE-AB95-D69447DD13EE_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3016,
+    "svs_file": "TCGA-EW-A6SC-01Z-00-DX1.C2D50E7C-3AD0-4038-9A1C-CAE54A3FBE2F.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-EW-A6SC-01Z-00-DX1.C2D50E7C-3AD0-4038-9A1C-CAE54A3FBE2F_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3017,
+    "svs_file": "TCGA-EW-A6SD-01Z-00-DX1.32D8240E-2076-492B-BB95-300A9FCA96E7.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-EW-A6SD-01Z-00-DX1.32D8240E-2076-492B-BB95-300A9FCA96E7_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3018,
+    "svs_file": "TCGA-GI-A2C8-01Z-00-DX1.09BD8AC9-645A-4C8B-9B36-77D833BDBA09.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-GI-A2C8-01Z-00-DX1.09BD8AC9-645A-4C8B-9B36-77D833BDBA09_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3019,
+    "svs_file": "TCGA-GI-A2C9-01Z-00-DX1.90181423-51ED-41FE-9B8F-973A67793D4F.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-GI-A2C9-01Z-00-DX1.90181423-51ED-41FE-9B8F-973A67793D4F_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3020,
+    "svs_file": "TCGA-GM-A2D9-01Z-00-DX1.AF4BF2DD-05FB-400B-A1BC-6E7C9B9DDF05.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-GM-A2D9-01Z-00-DX1.AF4BF2DD-05FB-400B-A1BC-6E7C9B9DDF05_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3021,
+    "svs_file": "TCGA-GM-A2DA-01Z-00-DX1.6E409F88-F654-48C8-A753-BB054037BE16.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-GM-A2DA-01Z-00-DX1.6E409F88-F654-48C8-A753-BB054037BE16_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3022,
+    "svs_file": "TCGA-GM-A2DB-01Z-00-DX1.9EE36AA6-2594-44C7-B05C-91A0AEC7E511.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-GM-A2DB-01Z-00-DX1.9EE36AA6-2594-44C7-B05C-91A0AEC7E511_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3023,
+    "svs_file": "TCGA-GM-A2DC-01Z-00-DX1.39F956BB-52D0-4385-9923-4D7D36D78862.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-GM-A2DC-01Z-00-DX1.39F956BB-52D0-4385-9923-4D7D36D78862_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3024,
+    "svs_file": "TCGA-GM-A2DD-01Z-00-DX1.01332FF3-7488-41B7-A515-7841715DE92B.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-GM-A2DD-01Z-00-DX1.01332FF3-7488-41B7-A515-7841715DE92B_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3025,
+    "svs_file": "TCGA-GM-A2DF-01Z-00-DX1.CD0BE6D7-2DB3-4193-84CC-F9BE7BF18CC2.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-GM-A2DF-01Z-00-DX1.CD0BE6D7-2DB3-4193-84CC-F9BE7BF18CC2_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3026,
+    "svs_file": "TCGA-GM-A2DH-01Z-00-DX1.5790F15F-2A0F-4929-8FE4-18A557007989.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-GM-A2DH-01Z-00-DX1.5790F15F-2A0F-4929-8FE4-18A557007989_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3027,
+    "svs_file": "TCGA-GM-A2DI-01Z-00-DX1.5E9715EA-9D2B-49D0-8F1D-972CF24B1960.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-GM-A2DI-01Z-00-DX1.5E9715EA-9D2B-49D0-8F1D-972CF24B1960_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3028,
+    "svs_file": "TCGA-GM-A2DK-01Z-00-DX1.4F81A585-9549-454C-8E15-2E4545795460.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-GM-A2DK-01Z-00-DX1.4F81A585-9549-454C-8E15-2E4545795460_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3029,
+    "svs_file": "TCGA-GM-A2DL-01Z-00-DX1.1CE6992E-B1CE-45AB-B2EB-75338B6FEE9D.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-GM-A2DL-01Z-00-DX1.1CE6992E-B1CE-45AB-B2EB-75338B6FEE9D_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3030,
+    "svs_file": "TCGA-GM-A2DM-01Z-00-DX1.652038F4-C370-40EB-A545-51062783C74C.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-GM-A2DM-01Z-00-DX1.652038F4-C370-40EB-A545-51062783C74C_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3031,
+    "svs_file": "TCGA-GM-A2DN-01Z-00-DX1.593003B0-BA87-486B-B472-D6B85867D54D.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-GM-A2DN-01Z-00-DX1.593003B0-BA87-486B-B472-D6B85867D54D_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3032,
+    "svs_file": "TCGA-GM-A2DO-01Z-00-DX1.60817A51-93B7-483D-ABC9-8ED6341C6660.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-GM-A2DO-01Z-00-DX1.60817A51-93B7-483D-ABC9-8ED6341C6660_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3033,
+    "svs_file": "TCGA-GM-A3NW-01Z-00-DX1.3B0324F0-4007-4390-AF26-3789A50684E5.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-GM-A3NW-01Z-00-DX1.3B0324F0-4007-4390-AF26-3789A50684E5_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3034,
+    "svs_file": "TCGA-GM-A3NY-01Z-00-DX1.BEED8B8F-5A1B-4CE2-BB5D-A7ED40551AE4.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-GM-A3NY-01Z-00-DX1.BEED8B8F-5A1B-4CE2-BB5D-A7ED40551AE4_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3035,
+    "svs_file": "TCGA-GM-A3XG-01Z-00-DX1.68FFB600-8573-451F-8100-D11DB091F457.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-GM-A3XG-01Z-00-DX1.68FFB600-8573-451F-8100-D11DB091F457_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3036,
+    "svs_file": "TCGA-GM-A3XL-01Z-00-DX1.CCE8AA1D-9194-4E49-9546-DBF25A35847C.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-GM-A3XL-01Z-00-DX1.CCE8AA1D-9194-4E49-9546-DBF25A35847C_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3037,
+    "svs_file": "TCGA-GM-A3XN-01Z-00-DX1.49F5C8AC-0328-4BC2-9FE2-E7150B7A42E2.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-GM-A3XN-01Z-00-DX1.49F5C8AC-0328-4BC2-9FE2-E7150B7A42E2_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3038,
+    "svs_file": "TCGA-GM-A4E0-01Z-00-DX1.55A5D765-AA35-4052-9185-6872B580F0F6.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-GM-A4E0-01Z-00-DX1.55A5D765-AA35-4052-9185-6872B580F0F6_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3039,
+    "svs_file": "TCGA-HN-A2NL-01Z-00-DX1.C2EAF378-4B37-4C1C-BB0F-18FAC62EEC13.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-HN-A2NL-01Z-00-DX1.C2EAF378-4B37-4C1C-BB0F-18FAC62EEC13_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3040,
+    "svs_file": "TCGA-HN-A2OB-01Z-00-DX1.14F1FBFB-4540-43CE-9D79-5BC628640424.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-HN-A2OB-01Z-00-DX1.14F1FBFB-4540-43CE-9D79-5BC628640424_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3041,
+    "svs_file": "TCGA-JL-A3YW-01Z-00-DX1.827C5C53-9C30-4307-802A-5A7896828A7F.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-JL-A3YW-01Z-00-DX1.827C5C53-9C30-4307-802A-5A7896828A7F_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3042,
+    "svs_file": "TCGA-JL-A3YX-01Z-00-DX1.0FE8F389-F79A-4CF8-A83C-420380A02552.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-JL-A3YX-01Z-00-DX1.0FE8F389-F79A-4CF8-A83C-420380A02552_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3043,
+    "svs_file": "TCGA-LD-A66U-01Z-00-DX1.AEC25C62-0519-47ED-A85B-2A964BA2BA87.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LD-A66U-01Z-00-DX1.AEC25C62-0519-47ED-A85B-2A964BA2BA87_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3044,
+    "svs_file": "TCGA-LD-A74U-01Z-00-DX1.F3C1EBBB-4AED-49A9-A8D2-B6145E162BE4.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LD-A74U-01Z-00-DX1.F3C1EBBB-4AED-49A9-A8D2-B6145E162BE4_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3045,
+    "svs_file": "TCGA-LD-A7W5-01Z-00-DX1.C9920081-C2FE-461E-AEF8-625D4A95BE2F.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LD-A7W5-01Z-00-DX1.C9920081-C2FE-461E-AEF8-625D4A95BE2F_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3046,
+    "svs_file": "TCGA-LD-A7W6-01Z-00-DX1.3E125146-B447-4973-AE09-6D374970B46C.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LD-A7W6-01Z-00-DX1.3E125146-B447-4973-AE09-6D374970B46C_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3047,
+    "svs_file": "TCGA-LD-A9QF-01Z-00-DX1.092108DF-1A60-459E-ACE6-5A71826A98D1.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LD-A9QF-01Z-00-DX1.092108DF-1A60-459E-ACE6-5A71826A98D1_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3048,
+    "svs_file": "TCGA-LL-A440-01Z-00-DX1.6E031FD6-236C-49FA-B920-4CB120C59037.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LL-A440-01Z-00-DX1.6E031FD6-236C-49FA-B920-4CB120C59037_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3049,
+    "svs_file": "TCGA-LL-A441-01Z-00-DX1.33B13078-BB14-4C42-88A6-7460AD2BCD00.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LL-A441-01Z-00-DX1.33B13078-BB14-4C42-88A6-7460AD2BCD00_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3050,
+    "svs_file": "TCGA-LL-A442-01Z-00-DX1.9275EDBD-1C89-4AF3-B02B-19F613A4E083.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LL-A442-01Z-00-DX1.9275EDBD-1C89-4AF3-B02B-19F613A4E083_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3051,
+    "svs_file": "TCGA-LL-A50Y-01Z-00-DX1.7F08413F-2C59-4322-9296-84F8CD3DF619.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LL-A50Y-01Z-00-DX1.7F08413F-2C59-4322-9296-84F8CD3DF619_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3052,
+    "svs_file": "TCGA-LL-A5YL-01Z-00-DX1.164C74AB-87D5-46CC-9D96-33FE1F88DC80.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LL-A5YL-01Z-00-DX1.164C74AB-87D5-46CC-9D96-33FE1F88DC80_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3053,
+    "svs_file": "TCGA-LL-A5YM-01Z-00-DX1.2B8904A9-6A45-4FFD-AF15-EB81773E5B79.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LL-A5YM-01Z-00-DX1.2B8904A9-6A45-4FFD-AF15-EB81773E5B79_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3054,
+    "svs_file": "TCGA-LL-A5YN-01Z-00-DX1.F221939B-3680-4B95-93A9-BE8599550E87.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LL-A5YN-01Z-00-DX1.F221939B-3680-4B95-93A9-BE8599550E87_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3055,
+    "svs_file": "TCGA-LL-A5YO-01Z-00-DX1.B5B6DFDB-1020-41FF-AA50-9C633E17DE5F.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LL-A5YO-01Z-00-DX1.B5B6DFDB-1020-41FF-AA50-9C633E17DE5F_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3056,
+    "svs_file": "TCGA-LL-A5YP-01Z-00-DX1.ADA978DF-6625-4C4D-AE0C-F589B2BA4897.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LL-A5YP-01Z-00-DX1.ADA978DF-6625-4C4D-AE0C-F589B2BA4897_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3057,
+    "svs_file": "TCGA-LL-A6FP-01Z-00-DX1.6261398A-7288-4924-BBE2-FC1949256E40.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LL-A6FP-01Z-00-DX1.6261398A-7288-4924-BBE2-FC1949256E40_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3058,
+    "svs_file": "TCGA-LL-A6FQ-01Z-00-DX1.D4FEEC16-FC67-4C4A-A4B1-F8BA34ECBCBD.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LL-A6FQ-01Z-00-DX1.D4FEEC16-FC67-4C4A-A4B1-F8BA34ECBCBD_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3059,
+    "svs_file": "TCGA-LL-A6FR-01Z-00-DX1.107010FD-8EDD-406D-B4DE-DEC9E85576FF.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LL-A6FR-01Z-00-DX1.107010FD-8EDD-406D-B4DE-DEC9E85576FF_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3060,
+    "svs_file": "TCGA-LL-A73Y-01Z-00-DX1.50C20931-3AA9-40B4-8A73-56B1976423A8.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LL-A73Y-01Z-00-DX1.50C20931-3AA9-40B4-8A73-56B1976423A8_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3061,
+    "svs_file": "TCGA-LL-A73Z-01Z-00-DX1.C010142E-29C0-411D-9E0E-4B7D8A4C09BF.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LL-A73Z-01Z-00-DX1.C010142E-29C0-411D-9E0E-4B7D8A4C09BF_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3062,
+    "svs_file": "TCGA-LL-A740-01Z-00-DX1.757D94A5-EF0F-4A0E-99A9-8809B66438DA.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LL-A740-01Z-00-DX1.757D94A5-EF0F-4A0E-99A9-8809B66438DA_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3063,
+    "svs_file": "TCGA-LL-A7SZ-01Z-00-DX1.4DAF6421-6A1D-41C8-BFD6-859FE10CB8CC.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LL-A7SZ-01Z-00-DX1.4DAF6421-6A1D-41C8-BFD6-859FE10CB8CC_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3064,
+    "svs_file": "TCGA-LL-A7T0-01Z-00-DX1.B03BBA63-ACF4-4BCA-9F2B-F631F0C6A25C.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LL-A7T0-01Z-00-DX1.B03BBA63-ACF4-4BCA-9F2B-F631F0C6A25C_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3065,
+    "svs_file": "TCGA-LL-A8F5-01Z-00-DX1.7579425E-1425-4160-A9DD-3D50F4C5428D.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LL-A8F5-01Z-00-DX1.7579425E-1425-4160-A9DD-3D50F4C5428D_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3066,
+    "svs_file": "TCGA-LL-A9Q3-01Z-00-DX1.94FA76F5-008A-401B-BFDC-817804BAE5F6.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LL-A9Q3-01Z-00-DX1.94FA76F5-008A-401B-BFDC-817804BAE5F6_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3067,
+    "svs_file": "TCGA-LQ-A4E4-01Z-00-DX1.CF422C39-614F-4F14-813B-95BB7B171977.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-LQ-A4E4-01Z-00-DX1.CF422C39-614F-4F14-813B-95BB7B171977_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3068,
+    "svs_file": "TCGA-MS-A51U-01Z-00-DX1.490DE85A-ECE5-4E2A-9657-841BE6FFCCA0.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-MS-A51U-01Z-00-DX1.490DE85A-ECE5-4E2A-9657-841BE6FFCCA0_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3069,
+    "svs_file": "TCGA-OK-A5Q2-01Z-00-DX1.0D169898-37C6-44CA-AC87-27887123AA6F.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-OK-A5Q2-01Z-00-DX1.0D169898-37C6-44CA-AC87-27887123AA6F_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3070,
+    "svs_file": "TCGA-OK-A5Q2-01Z-00-DX2.C828A160-87DF-4625-A8C5-2057F61D54F4.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-OK-A5Q2-01Z-00-DX2.C828A160-87DF-4625-A8C5-2057F61D54F4_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3071,
+    "svs_file": "TCGA-OK-A5Q2-01Z-00-DX3.5F9215C3-E407-46F8-968E-503D7D14605C.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-OK-A5Q2-01Z-00-DX3.5F9215C3-E407-46F8-968E-503D7D14605C_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3072,
+    "svs_file": "TCGA-OK-A5Q2-01Z-00-DX4.83B45D6C-E350-4436-812F-4155D9F7D331.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-OK-A5Q2-01Z-00-DX4.83B45D6C-E350-4436-812F-4155D9F7D331_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3073,
+    "svs_file": "TCGA-OL-A5D6-01Z-00-DX1.6B11331B-4A0D-4E13-B054-A5C7A6FC3AAC.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-OL-A5D6-01Z-00-DX1.6B11331B-4A0D-4E13-B054-A5C7A6FC3AAC_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3074,
+    "svs_file": "TCGA-OL-A5D7-01Z-00-DX1.A4A45393-9AE1-4370-8B92-CB85CDB04934.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-OL-A5D7-01Z-00-DX1.A4A45393-9AE1-4370-8B92-CB85CDB04934_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3075,
+    "svs_file": "TCGA-OL-A5D8-01Z-00-DX1.C0A75731-1DDC-4FAF-A2C5-2E2ECB23DC13.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-OL-A5D8-01Z-00-DX1.C0A75731-1DDC-4FAF-A2C5-2E2ECB23DC13_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3076,
+    "svs_file": "TCGA-OL-A5DA-01Z-00-DX1.1B1E9CC4-7B42-43BB-A1D7-A26F1D1F8557.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-OL-A5DA-01Z-00-DX1.1B1E9CC4-7B42-43BB-A1D7-A26F1D1F8557_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3077,
+    "svs_file": "TCGA-OL-A5RY-01Z-00-DX1.AE4E9D74-FC1C-4C1E-AE6D-5DF38899BBA6.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-OL-A5RY-01Z-00-DX1.AE4E9D74-FC1C-4C1E-AE6D-5DF38899BBA6_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3078,
+    "svs_file": "TCGA-OL-A5RZ-01Z-00-DX1.6394C05E-1C34-4F4B-8859-F5E961E7EFF9.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-OL-A5RZ-01Z-00-DX1.6394C05E-1C34-4F4B-8859-F5E961E7EFF9_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3079,
+    "svs_file": "TCGA-OL-A5S0-01Z-00-DX1.49A7AC9D-C186-406C-BA67-2D73DE82E13B.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-OL-A5S0-01Z-00-DX1.49A7AC9D-C186-406C-BA67-2D73DE82E13B_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3080,
+    "svs_file": "TCGA-OL-A66H-01Z-00-DX1.E54AF3FA-E59E-404C-BB83-A6FC6FC9B312.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-OL-A66H-01Z-00-DX1.E54AF3FA-E59E-404C-BB83-A6FC6FC9B312_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3081,
+    "svs_file": "TCGA-OL-A66I-01Z-00-DX1.8CE9DCAB-98D3-4163-94AC-1557D86C1E25.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-OL-A66I-01Z-00-DX1.8CE9DCAB-98D3-4163-94AC-1557D86C1E25_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3082,
+    "svs_file": "TCGA-OL-A66J-01Z-00-DX1.661F7F70-E4D4-4875-B8C4-556F7927F3BA.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-OL-A66J-01Z-00-DX1.661F7F70-E4D4-4875-B8C4-556F7927F3BA_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3083,
+    "svs_file": "TCGA-OL-A66K-01Z-00-DX1.C1DC85F1-4FAE-4411-9886-11DCB5E70CC3.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-OL-A66K-01Z-00-DX1.C1DC85F1-4FAE-4411-9886-11DCB5E70CC3_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3084,
+    "svs_file": "TCGA-OL-A66L-01Z-00-DX1.E01BA275-57A5-49DF-9376-1AD0BDFFF7E2.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-OL-A66L-01Z-00-DX1.E01BA275-57A5-49DF-9376-1AD0BDFFF7E2_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3085,
+    "svs_file": "TCGA-OL-A66N-01Z-00-DX1.ABDA3014-7B3A-4D48-A415-CB9608491ECB.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-OL-A66N-01Z-00-DX1.ABDA3014-7B3A-4D48-A415-CB9608491ECB_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3086,
+    "svs_file": "TCGA-OL-A66O-01Z-00-DX1.5F1E4C60-5CE8-41B4-A94D-4AA80D9253F9.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-OL-A66O-01Z-00-DX1.5F1E4C60-5CE8-41B4-A94D-4AA80D9253F9_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3087,
+    "svs_file": "TCGA-OL-A66P-01Z-00-DX1.5ADD0D6D-37C6-4BC9-8C2B-64DB18BE99B3.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-OL-A66P-01Z-00-DX1.5ADD0D6D-37C6-4BC9-8C2B-64DB18BE99B3_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3088,
+    "svs_file": "TCGA-OL-A6VO-01Z-00-DX1.291D54D6-EBAF-4622-BD42-97AA5997F014.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-OL-A6VO-01Z-00-DX1.291D54D6-EBAF-4622-BD42-97AA5997F014_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3089,
+    "svs_file": "TCGA-OL-A6VQ-01Z-00-DX1.E3B81163-0239-47C3-B53F-064405B58685.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-OL-A6VQ-01Z-00-DX1.E3B81163-0239-47C3-B53F-064405B58685_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3090,
+    "svs_file": "TCGA-OL-A97C-01Z-00-DX1.BDEEDEE2-6D07-4046-A8A9-D6FF8F337393.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-OL-A97C-01Z-00-DX1.BDEEDEE2-6D07-4046-A8A9-D6FF8F337393_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3091,
+    "svs_file": "TCGA-PE-A5DC-01Z-00-DX1.8E6953AD-C14A-43F5-B062-E31AB13C7BDF.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-PE-A5DC-01Z-00-DX1.8E6953AD-C14A-43F5-B062-E31AB13C7BDF_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3092,
+    "svs_file": "TCGA-PE-A5DD-01Z-00-DX1.E1EF11EC-B87B-49DE-A544-2E162F9AE789.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-PE-A5DD-01Z-00-DX1.E1EF11EC-B87B-49DE-A544-2E162F9AE789_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3093,
+    "svs_file": "TCGA-PE-A5DE-01Z-00-DX1.88B354F2-5485-44AA-A057-89E40B988F69.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-PE-A5DE-01Z-00-DX1.88B354F2-5485-44AA-A057-89E40B988F69_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3094,
+    "svs_file": "TCGA-PL-A8LV-01A-01-DX1.88F3D934-96C2-4652-9450-90F2E302FF6D.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-PL-A8LV-01A-01-DX1.88F3D934-96C2-4652-9450-90F2E302FF6D_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3095,
+    "svs_file": "TCGA-PL-A8LV-01A-02-DX2.346FF42B-2363-4B37-8884-12D5F841842C.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-PL-A8LV-01A-02-DX2.346FF42B-2363-4B37-8884-12D5F841842C_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3096,
+    "svs_file": "TCGA-PL-A8LX-01A-01-DX1.9646D69F-A764-4246-9243-67A63006DE96.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-PL-A8LX-01A-01-DX1.9646D69F-A764-4246-9243-67A63006DE96_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3097,
+    "svs_file": "TCGA-PL-A8LX-01A-02-DX2.84DA8B75-1196-4704-B6B2-C5E7BF645E95.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-PL-A8LX-01A-02-DX2.84DA8B75-1196-4704-B6B2-C5E7BF645E95_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3098,
+    "svs_file": "TCGA-PL-A8LY-01A-01-DX1.32047D5E-8A42-480A-B2B8-A56B47B949FD.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-PL-A8LY-01A-01-DX1.32047D5E-8A42-480A-B2B8-A56B47B949FD_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3099,
+    "svs_file": "TCGA-PL-A8LY-01A-02-DX2.6F9520F1-3210-4A96-81C2-A14424F650D1.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-PL-A8LY-01A-02-DX2.6F9520F1-3210-4A96-81C2-A14424F650D1_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3100,
+    "svs_file": "TCGA-PL-A8LZ-01A-01-DX1.B9F233EE-06DD-4C14-A392-D2937C7C0868.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-PL-A8LZ-01A-01-DX1.B9F233EE-06DD-4C14-A392-D2937C7C0868_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3101,
+    "svs_file": "TCGA-PL-A8LZ-01A-02-DX2.E2697718-12E1-4D7C-9ED8-0A71C6D855B8.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-PL-A8LZ-01A-02-DX2.E2697718-12E1-4D7C-9ED8-0A71C6D855B8_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3102,
+    "svs_file": "TCGA-PL-A8LZ-01A-03-DX3.E5D16DBF-CABD-4C96-A794-5F27BC305055.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-PL-A8LZ-01A-03-DX3.E5D16DBF-CABD-4C96-A794-5F27BC305055_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3103,
+    "svs_file": "TCGA-S3-A6ZF-01Z-00-DX1.E50205A0-63CA-49DE-8831-2A8916DEF403.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-S3-A6ZF-01Z-00-DX1.E50205A0-63CA-49DE-8831-2A8916DEF403_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3104,
+    "svs_file": "TCGA-S3-A6ZG-01Z-00-DX1.659A0BFB-D99B-474F-B4C2-6590C9161BD1.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-S3-A6ZG-01Z-00-DX1.659A0BFB-D99B-474F-B4C2-6590C9161BD1_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3105,
+    "svs_file": "TCGA-S3-A6ZH-01Z-00-DX1.E728FF79-4921-436F-BFF5-5B782C0EEB9A.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-S3-A6ZH-01Z-00-DX1.E728FF79-4921-436F-BFF5-5B782C0EEB9A_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3106,
+    "svs_file": "TCGA-S3-AA0Z-01Z-00-DX1.4D96156A-4067-41F2-90B8-41EF7ED794CF.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-S3-AA0Z-01Z-00-DX1.4D96156A-4067-41F2-90B8-41EF7ED794CF_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3107,
+    "svs_file": "TCGA-S3-AA10-01Z-00-DX1.C0468882-0DD8-4FC5-8C2F-E18BE8000F69.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-S3-AA10-01Z-00-DX1.C0468882-0DD8-4FC5-8C2F-E18BE8000F69_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3108,
+    "svs_file": "TCGA-S3-AA11-01Z-00-DX1.36B83B37-2928-4DB7-A04A-8D511F1183FD.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-S3-AA11-01Z-00-DX1.36B83B37-2928-4DB7-A04A-8D511F1183FD_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3109,
+    "svs_file": "TCGA-S3-AA12-01Z-00-DX1.2A991B9F-E7E6-410B-B0BF-635E3CC40C7E.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-S3-AA12-01Z-00-DX1.2A991B9F-E7E6-410B-B0BF-635E3CC40C7E_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3110,
+    "svs_file": "TCGA-S3-AA12-01Z-00-DX2.4F0A4F18-41C7-4497-A7B8-5DCE610E08AD.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-S3-AA12-01Z-00-DX2.4F0A4F18-41C7-4497-A7B8-5DCE610E08AD_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3111,
+    "svs_file": "TCGA-S3-AA14-01Z-00-DX1.000A865F-19E6-4018-9352-BFA54EF0CE31.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-S3-AA14-01Z-00-DX1.000A865F-19E6-4018-9352-BFA54EF0CE31_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3112,
+    "svs_file": "TCGA-S3-AA15-01Z-00-DX1.A2456A4A-E6E8-4429-8F09-B997AA497BB0.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-S3-AA15-01Z-00-DX1.A2456A4A-E6E8-4429-8F09-B997AA497BB0_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3113,
+    "svs_file": "TCGA-S3-AA15-01Z-00-DX2.915A4F90-25CB-4535-99C7-D0D0CFC90412.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-S3-AA15-01Z-00-DX2.915A4F90-25CB-4535-99C7-D0D0CFC90412_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3114,
+    "svs_file": "TCGA-S3-AA17-01Z-00-DX1.9B7DC02E-ECB2-4403-A894-F418AD452E49.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-S3-AA17-01Z-00-DX1.9B7DC02E-ECB2-4403-A894-F418AD452E49_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3115,
+    "svs_file": "TCGA-UL-AAZ6-01Z-00-DX1.0488628B-C06B-4A1D-9198-EC29D0BACF6E.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-UL-AAZ6-01Z-00-DX1.0488628B-C06B-4A1D-9198-EC29D0BACF6E_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3116,
+    "svs_file": "TCGA-UU-A93S-01Z-00-DX1.C4809779-DF5F-4F5D-A78C-B7F95F2D050F.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-UU-A93S-01Z-00-DX1.C4809779-DF5F-4F5D-A78C-B7F95F2D050F_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3117,
+    "svs_file": "TCGA-W8-A86G-01Z-00-DX2.DEC2CC1C-3662-43C6-A5CB-EC94B343FA3D.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-W8-A86G-01Z-00-DX2.DEC2CC1C-3662-43C6-A5CB-EC94B343FA3D_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3118,
+    "svs_file": "TCGA-WT-AB41-01Z-00-DX1.75BDFDF2-CD87-46D1-B32C-725741CB02BE.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-WT-AB41-01Z-00-DX1.75BDFDF2-CD87-46D1-B32C-725741CB02BE_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3119,
+    "svs_file": "TCGA-WT-AB44-01Z-00-DX1.B6ECEA7C-DA26-4B34-88CE-6834631DFA35.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-WT-AB44-01Z-00-DX1.B6ECEA7C-DA26-4B34-88CE-6834631DFA35_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3120,
+    "svs_file": "TCGA-XX-A899-01Z-00-DX1.08FE27B7-73B8-4CE3-ACF4-0689C81C140B.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-XX-A899-01Z-00-DX1.08FE27B7-73B8-4CE3-ACF4-0689C81C140B_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3121,
+    "svs_file": "TCGA-XX-A89A-01Z-00-DX1.671E2AD6-4D1A-4579-88C1-5B0B15818126.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-XX-A89A-01Z-00-DX1.671E2AD6-4D1A-4579-88C1-5B0B15818126_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3122,
+    "svs_file": "TCGA-Z7-A8R5-01Z-00-DX1.3BDB407F-514C-4131-B058-FA1E69154276.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-Z7-A8R5-01Z-00-DX1.3BDB407F-514C-4131-B058-FA1E69154276_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3123,
+    "svs_file": "TCGA-Z7-A8R6-01Z-00-DX1.CE4ED818-D762-4324-9DEA-2ACB38B9B0B9.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA/diagnostic_slides/primary_tumor_svs/TCGA-Z7-A8R6-01Z-00-DX1.CE4ED818-D762-4324-9DEA-2ACB38B9B0B9_files",
+    "collection_name": "TCGA-Diagnostic_Slides-PT"
+  },
+  {
+    "entry_number": 3124,
+    "svs_file": "BRACS_1334.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_UDH/BRACS_1334_files",
+    "collection_name": "BRACS-Test-BT-UDH"
+  },
+  {
+    "entry_number": 3125,
+    "svs_file": "BRACS_1416.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_UDH/BRACS_1416_files",
+    "collection_name": "BRACS-Test-BT-UDH"
+  },
+  {
+    "entry_number": 3126,
+    "svs_file": "BRACS_1619.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_UDH/BRACS_1619_files",
+    "collection_name": "BRACS-Test-BT-UDH"
+  },
+  {
+    "entry_number": 3127,
+    "svs_file": "BRACS_1821.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_UDH/BRACS_1821_files",
+    "collection_name": "BRACS-Test-BT-UDH"
+  },
+  {
+    "entry_number": 3128,
+    "svs_file": "BRACS_1824.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_UDH/BRACS_1824_files",
+    "collection_name": "BRACS-Test-BT-UDH"
+  },
+  {
+    "entry_number": 3129,
+    "svs_file": "BRACS_1848.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_UDH/BRACS_1848_files",
+    "collection_name": "BRACS-Test-BT-UDH"
+  },
+  {
+    "entry_number": 3130,
+    "svs_file": "BRACS_1853.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_UDH/BRACS_1853_files",
+    "collection_name": "BRACS-Test-BT-UDH"
+  },
+  {
+    "entry_number": 3131,
+    "svs_file": "BRACS_1896.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_UDH/BRACS_1896_files",
+    "collection_name": "BRACS-Test-BT-UDH"
+  },
+  {
+    "entry_number": 3132,
+    "svs_file": "BRACS_1952.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_UDH/BRACS_1952_files",
+    "collection_name": "BRACS-Test-BT-UDH"
+  },
+  {
+    "entry_number": 3133,
+    "svs_file": "BRACS_1610.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_AT/Type_FEA/BRACS_1610_files",
+    "collection_name": "BRACS-Val-AT-FEA"
+  },
+  {
+    "entry_number": 3134,
+    "svs_file": "BRACS_1799.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_AT/Type_FEA/BRACS_1799_files",
+    "collection_name": "BRACS-Val-AT-FEA"
+  },
+  {
+    "entry_number": 3135,
+    "svs_file": "BRACS_1886.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_AT/Type_FEA/BRACS_1886_files",
+    "collection_name": "BRACS-Val-AT-FEA"
+  },
+  {
+    "entry_number": 3136,
+    "svs_file": "BRACS_1975.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_AT/Type_FEA/BRACS_1975_files",
+    "collection_name": "BRACS-Val-AT-FEA"
+  },
+  {
+    "entry_number": 3137,
+    "svs_file": "BRACS_3266.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_AT/Type_FEA/BRACS_3266_files",
+    "collection_name": "BRACS-Val-AT-FEA"
+  },
+  {
+    "entry_number": 3138,
+    "svs_file": "BRACS_3285.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_AT/Type_FEA/BRACS_3285_files",
+    "collection_name": "BRACS-Val-AT-FEA"
+  },
+  {
+    "entry_number": 3139,
+    "svs_file": "BRACS_1003685.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1003685_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3140,
+    "svs_file": "BRACS_1003705.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1003705_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3141,
+    "svs_file": "BRACS_1003707.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1003707_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3142,
+    "svs_file": "BRACS_1244.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1244_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3143,
+    "svs_file": "BRACS_1270.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1270_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3144,
+    "svs_file": "BRACS_1326.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1326_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3145,
+    "svs_file": "BRACS_1335.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1335_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3146,
+    "svs_file": "BRACS_1337.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1337_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3147,
+    "svs_file": "BRACS_1409.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1409_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3148,
+    "svs_file": "BRACS_1495.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1495_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3149,
+    "svs_file": "BRACS_1498.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1498_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3150,
+    "svs_file": "BRACS_1581.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1581_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3151,
+    "svs_file": "BRACS_1594.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1594_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3152,
+    "svs_file": "BRACS_1596.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1596_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3153,
+    "svs_file": "BRACS_1604.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1604_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3154,
+    "svs_file": "BRACS_1606.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1606_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3155,
+    "svs_file": "BRACS_1617.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1617_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3156,
+    "svs_file": "BRACS_1618.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1618_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3157,
+    "svs_file": "BRACS_1621.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1621_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3158,
+    "svs_file": "BRACS_1642.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1642_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3159,
+    "svs_file": "BRACS_1667.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1667_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3160,
+    "svs_file": "BRACS_1780.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1780_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3161,
+    "svs_file": "BRACS_1782.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1782_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3162,
+    "svs_file": "BRACS_1783.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1783_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3163,
+    "svs_file": "BRACS_1785.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1785_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3164,
+    "svs_file": "BRACS_1786.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1786_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3165,
+    "svs_file": "BRACS_1787.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1787_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3166,
+    "svs_file": "BRACS_1789.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1789_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3167,
+    "svs_file": "BRACS_1791.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1791_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3168,
+    "svs_file": "BRACS_1792.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1792_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3169,
+    "svs_file": "BRACS_1793.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1793_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3170,
+    "svs_file": "BRACS_1834.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1834_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3171,
+    "svs_file": "BRACS_1836.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1836_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3172,
+    "svs_file": "BRACS_1837.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1837_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3173,
+    "svs_file": "BRACS_1873.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1873_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3174,
+    "svs_file": "BRACS_1881.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1881_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3175,
+    "svs_file": "BRACS_1914.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1914_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3176,
+    "svs_file": "BRACS_1917.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1917_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3177,
+    "svs_file": "BRACS_1918.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1918_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3178,
+    "svs_file": "BRACS_1946.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1946_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3179,
+    "svs_file": "BRACS_1949.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1949_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3180,
+    "svs_file": "BRACS_1957.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1957_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3181,
+    "svs_file": "BRACS_1958.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1958_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3182,
+    "svs_file": "BRACS_1959.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1959_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3183,
+    "svs_file": "BRACS_1963.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1963_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3184,
+    "svs_file": "BRACS_1993.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1993_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3185,
+    "svs_file": "BRACS_1995.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1995_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3186,
+    "svs_file": "BRACS_1996.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1996_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3187,
+    "svs_file": "BRACS_1997.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_1997_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3188,
+    "svs_file": "BRACS_2001.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_2001_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3189,
+    "svs_file": "BRACS_2005.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_2005_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3190,
+    "svs_file": "BRACS_3273.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_3273_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3191,
+    "svs_file": "BRACS_3278.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_3278_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3192,
+    "svs_file": "BRACS_3310.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_3310_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3193,
+    "svs_file": "BRACS_3313.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_3313_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3194,
+    "svs_file": "BRACS_3317.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_BT/Type_UDH/BRACS_3317_files",
+    "collection_name": "BRACS-Train-BT-UDH"
+  },
+  {
+    "entry_number": 3195,
+    "svs_file": "BRACS_1579.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_N/BRACS_1579_files",
+    "collection_name": "BRACS-Test-BT-N"
+  },
+  {
+    "entry_number": 3196,
+    "svs_file": "BRACS_1598.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_N/BRACS_1598_files",
+    "collection_name": "BRACS-Test-BT-N"
+  },
+  {
+    "entry_number": 3197,
+    "svs_file": "BRACS_1599.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_N/BRACS_1599_files",
+    "collection_name": "BRACS-Test-BT-N"
+  },
+  {
+    "entry_number": 3198,
+    "svs_file": "BRACS_1601.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_N/BRACS_1601_files",
+    "collection_name": "BRACS-Test-BT-N"
+  },
+  {
+    "entry_number": 3199,
+    "svs_file": "BRACS_1820.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_N/BRACS_1820_files",
+    "collection_name": "BRACS-Test-BT-N"
+  },
+  {
+    "entry_number": 3200,
+    "svs_file": "BRACS_1855.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_N/BRACS_1855_files",
+    "collection_name": "BRACS-Test-BT-N"
+  },
+  {
+    "entry_number": 3201,
+    "svs_file": "BRACS_3322.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_N/BRACS_3322_files",
+    "collection_name": "BRACS-Test-BT-N"
+  },
+  {
+    "entry_number": 3202,
+    "svs_file": "BRACS_1275.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_BT/Type_PB/BRACS_1275_files",
+    "collection_name": "BRACS-Val-BT-PB"
+  },
+  {
+    "entry_number": 3203,
+    "svs_file": "BRACS_1276.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_BT/Type_PB/BRACS_1276_files",
+    "collection_name": "BRACS-Val-BT-PB"
+  },
+  {
+    "entry_number": 3204,
+    "svs_file": "BRACS_1423.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_BT/Type_PB/BRACS_1423_files",
+    "collection_name": "BRACS-Val-BT-PB"
+  },
+  {
+    "entry_number": 3205,
+    "svs_file": "BRACS_1424.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_BT/Type_PB/BRACS_1424_files",
+    "collection_name": "BRACS-Val-BT-PB"
+  },
+  {
+    "entry_number": 3206,
+    "svs_file": "BRACS_1608.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_BT/Type_PB/BRACS_1608_files",
+    "collection_name": "BRACS-Val-BT-PB"
+  },
+  {
+    "entry_number": 3207,
+    "svs_file": "BRACS_1980.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_BT/Type_PB/BRACS_1980_files",
+    "collection_name": "BRACS-Val-BT-PB"
+  },
+  {
+    "entry_number": 3208,
+    "svs_file": "BRACS_3295.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_BT/Type_PB/BRACS_3295_files",
+    "collection_name": "BRACS-Val-BT-PB"
+  },
+  {
+    "entry_number": 3209,
+    "svs_file": "BRACS_3296.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_BT/Type_PB/BRACS_3296_files",
+    "collection_name": "BRACS-Val-BT-PB"
+  },
+  {
+    "entry_number": 3210,
+    "svs_file": "BRACS_3298.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_BT/Type_PB/BRACS_3298_files",
+    "collection_name": "BRACS-Val-BT-PB"
+  },
+  {
+    "entry_number": 3211,
+    "svs_file": "BRACS_3300.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_BT/Type_PB/BRACS_3300_files",
+    "collection_name": "BRACS-Val-BT-PB"
+  },
+  {
+    "entry_number": 3212,
+    "svs_file": "BRACS_3337.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_BT/Type_PB/BRACS_3337_files",
+    "collection_name": "BRACS-Val-BT-PB"
+  },
+  {
+    "entry_number": 3213,
+    "svs_file": "BRACS_1330.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_PB/BRACS_1330_files",
+    "collection_name": "BRACS-Test-BT-PB"
+  },
+  {
+    "entry_number": 3214,
+    "svs_file": "BRACS_1412.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_PB/BRACS_1412_files",
+    "collection_name": "BRACS-Test-BT-PB"
+  },
+  {
+    "entry_number": 3215,
+    "svs_file": "BRACS_1842.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_PB/BRACS_1842_files",
+    "collection_name": "BRACS-Test-BT-PB"
+  },
+  {
+    "entry_number": 3216,
+    "svs_file": "BRACS_1843.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_PB/BRACS_1843_files",
+    "collection_name": "BRACS-Test-BT-PB"
+  },
+  {
+    "entry_number": 3217,
+    "svs_file": "BRACS_1845.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_PB/BRACS_1845_files",
+    "collection_name": "BRACS-Test-BT-PB"
+  },
+  {
+    "entry_number": 3218,
+    "svs_file": "BRACS_1846.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_PB/BRACS_1846_files",
+    "collection_name": "BRACS-Test-BT-PB"
+  },
+  {
+    "entry_number": 3219,
+    "svs_file": "BRACS_1847.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_PB/BRACS_1847_files",
+    "collection_name": "BRACS-Test-BT-PB"
+  },
+  {
+    "entry_number": 3220,
+    "svs_file": "BRACS_1850.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_PB/BRACS_1850_files",
+    "collection_name": "BRACS-Test-BT-PB"
+  },
+  {
+    "entry_number": 3221,
+    "svs_file": "BRACS_1851.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_PB/BRACS_1851_files",
+    "collection_name": "BRACS-Test-BT-PB"
+  },
+  {
+    "entry_number": 3222,
+    "svs_file": "BRACS_1852.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_PB/BRACS_1852_files",
+    "collection_name": "BRACS-Test-BT-PB"
+  },
+  {
+    "entry_number": 3223,
+    "svs_file": "BRACS_1870.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_PB/BRACS_1870_files",
+    "collection_name": "BRACS-Test-BT-PB"
+  },
+  {
+    "entry_number": 3224,
+    "svs_file": "BRACS_1906.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_PB/BRACS_1906_files",
+    "collection_name": "BRACS-Test-BT-PB"
+  },
+  {
+    "entry_number": 3225,
+    "svs_file": "BRACS_1940.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_PB/BRACS_1940_files",
+    "collection_name": "BRACS-Test-BT-PB"
+  },
+  {
+    "entry_number": 3226,
+    "svs_file": "BRACS_1942.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_PB/BRACS_1942_files",
+    "collection_name": "BRACS-Test-BT-PB"
+  },
+  {
+    "entry_number": 3227,
+    "svs_file": "BRACS_264.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_PB/BRACS_264_files",
+    "collection_name": "BRACS-Test-BT-PB"
+  },
+  {
+    "entry_number": 3228,
+    "svs_file": "BRACS_3324.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/test/Group_BT/Type_PB/BRACS_3324_files",
+    "collection_name": "BRACS-Test-BT-PB"
+  },
+  {
+    "entry_number": 3229,
+    "svs_file": "BRACS_1003697.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1003697_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3230,
+    "svs_file": "BRACS_1238.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1238_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3231,
+    "svs_file": "BRACS_1247.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1247_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3232,
+    "svs_file": "BRACS_1369.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1369_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3233,
+    "svs_file": "BRACS_1489.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1489_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3234,
+    "svs_file": "BRACS_1490.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1490_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3235,
+    "svs_file": "BRACS_1491.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1491_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3236,
+    "svs_file": "BRACS_1492.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1492_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3237,
+    "svs_file": "BRACS_1496.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1496_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3238,
+    "svs_file": "BRACS_1497.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1497_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3239,
+    "svs_file": "BRACS_1509.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1509_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3240,
+    "svs_file": "BRACS_1512.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1512_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3241,
+    "svs_file": "BRACS_1514.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1514_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3242,
+    "svs_file": "BRACS_1515.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1515_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3243,
+    "svs_file": "BRACS_1653.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1653_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3244,
+    "svs_file": "BRACS_1771.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1771_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3245,
+    "svs_file": "BRACS_1811.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1811_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3246,
+    "svs_file": "BRACS_1816.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1816_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3247,
+    "svs_file": "BRACS_1835.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1835_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3248,
+    "svs_file": "BRACS_1840.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1840_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3249,
+    "svs_file": "BRACS_1862.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1862_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3250,
+    "svs_file": "BRACS_1864.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1864_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3251,
+    "svs_file": "BRACS_1874.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1874_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3252,
+    "svs_file": "BRACS_1888.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1888_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3253,
+    "svs_file": "BRACS_1903.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1903_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3254,
+    "svs_file": "BRACS_1919.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1919_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3255,
+    "svs_file": "BRACS_1920.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1920_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3256,
+    "svs_file": "BRACS_1921.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1921_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3257,
+    "svs_file": "BRACS_1923.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1923_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3258,
+    "svs_file": "BRACS_1927.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1927_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3259,
+    "svs_file": "BRACS_1928.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1928_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3260,
+    "svs_file": "BRACS_1929.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1929_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3261,
+    "svs_file": "BRACS_1930.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1930_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3262,
+    "svs_file": "BRACS_1931.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1931_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3263,
+    "svs_file": "BRACS_1947.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1947_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3264,
+    "svs_file": "BRACS_1950.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1950_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3265,
+    "svs_file": "BRACS_1970.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1970_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3266,
+    "svs_file": "BRACS_1999.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_1999_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3267,
+    "svs_file": "BRACS_755.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_755_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3268,
+    "svs_file": "BRACS_762.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/train/Group_MT/Type_DCIS/BRACS_762_files",
+    "collection_name": "BRACS-Train-MT-DCIS"
+  },
+  {
+    "entry_number": 3269,
+    "svs_file": "BRACS_1261.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_BT/Type_N/BRACS_1261_files",
+    "collection_name": "BRACS-Val-BT-N"
+  },
+  {
+    "entry_number": 3270,
+    "svs_file": "BRACS_1296.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_BT/Type_N/BRACS_1296_files",
+    "collection_name": "BRACS-Val-BT-N"
+  },
+  {
+    "entry_number": 3271,
+    "svs_file": "BRACS_1584.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_BT/Type_N/BRACS_1584_files",
+    "collection_name": "BRACS-Val-BT-N"
+  },
+  {
+    "entry_number": 3272,
+    "svs_file": "BRACS_1585.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_BT/Type_N/BRACS_1585_files",
+    "collection_name": "BRACS-Val-BT-N"
+  },
+  {
+    "entry_number": 3273,
+    "svs_file": "BRACS_1614.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_BT/Type_N/BRACS_1614_files",
+    "collection_name": "BRACS-Val-BT-N"
+  },
+  {
+    "entry_number": 3274,
+    "svs_file": "BRACS_1632.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_BT/Type_N/BRACS_1632_files",
+    "collection_name": "BRACS-Val-BT-N"
+  },
+  {
+    "entry_number": 3275,
+    "svs_file": "BRACS_1974.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_BT/Type_N/BRACS_1974_files",
+    "collection_name": "BRACS-Val-BT-N"
+  },
+  {
+    "entry_number": 3276,
+    "svs_file": "BRACS_1978.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_BT/Type_N/BRACS_1978_files",
+    "collection_name": "BRACS-Val-BT-N"
+  },
+  {
+    "entry_number": 3277,
+    "svs_file": "BRACS_1979.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_BT/Type_N/BRACS_1979_files",
+    "collection_name": "BRACS-Val-BT-N"
+  },
+  {
+    "entry_number": 3278,
+    "svs_file": "BRACS_1981.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BRACS/BRACS_WSI/val/Group_BT/Type_N/BRACS_1981_files",
+    "collection_name": "BRACS-Val-BT-N"
+  },
+  {
+    "entry_number": 3279,
+    "svs_file": "test1.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge_TestDataset/ICIAR2018_BACH_Challenge_TestDataset/WSI/test1_files",
+    "collection_name": "BACH-Challenge-Test"
+  },
+  {
+    "entry_number": 3280,
+    "svs_file": "test10.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge_TestDataset/ICIAR2018_BACH_Challenge_TestDataset/WSI/test10_files",
+    "collection_name": "BACH-Challenge-Test"
+  },
+  {
+    "entry_number": 3281,
+    "svs_file": "test2.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge_TestDataset/ICIAR2018_BACH_Challenge_TestDataset/WSI/test2_files",
+    "collection_name": "BACH-Challenge-Test"
+  },
+  {
+    "entry_number": 3282,
+    "svs_file": "test3.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge_TestDataset/ICIAR2018_BACH_Challenge_TestDataset/WSI/test3_files",
+    "collection_name": "BACH-Challenge-Test"
+  },
+  {
+    "entry_number": 3283,
+    "svs_file": "test4.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge_TestDataset/ICIAR2018_BACH_Challenge_TestDataset/WSI/test4_files",
+    "collection_name": "BACH-Challenge-Test"
+  },
+  {
+    "entry_number": 3284,
+    "svs_file": "test5.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge_TestDataset/ICIAR2018_BACH_Challenge_TestDataset/WSI/test5_files",
+    "collection_name": "BACH-Challenge-Test"
+  },
+  {
+    "entry_number": 3285,
+    "svs_file": "test6.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge_TestDataset/ICIAR2018_BACH_Challenge_TestDataset/WSI/test6_files",
+    "collection_name": "BACH-Challenge-Test"
+  },
+  {
+    "entry_number": 3286,
+    "svs_file": "test7.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge_TestDataset/ICIAR2018_BACH_Challenge_TestDataset/WSI/test7_files",
+    "collection_name": "BACH-Challenge-Test"
+  },
+  {
+    "entry_number": 3287,
+    "svs_file": "test8.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge_TestDataset/ICIAR2018_BACH_Challenge_TestDataset/WSI/test8_files",
+    "collection_name": "BACH-Challenge-Test"
+  },
+  {
+    "entry_number": 3288,
+    "svs_file": "test9.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge_TestDataset/ICIAR2018_BACH_Challenge_TestDataset/WSI/test9_files",
+    "collection_name": "BACH-Challenge-Test"
+  }
+]
