@@ -1,47 +1,53 @@
 services:
-  annotation-tool:
+  annotation-tool3:
     build:
       context: ..
       dockerfile: Docker/Dockerfile
-    container_name: ink_annotation_tool
+    container_name: ink_annotation_tool3
     # user: "50157:1000"  # Temporarily commented out to allow root access for cleanup
     ports:
-      - "${PANEL_APP_PORT:-10565}:${PANEL_APP_PORT:-10565}"
-      - "${DZI_SERVER_PORT:-10566}:${DZI_SERVER_PORT:-10566}"
+      - "10707:10707"  # ✓ Changed both host and container ports
+      - "10708:10708"  # ✓ Changed both host and container ports
     volumes:
       # Mount parent directories containing all the datasets
       - /local/data/magicscan/dzi_ink_datasets/HnE/BRACS:/data/dzi_datasets/BRACS:ro
       - /local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA:/data/dzi_datasets/TCGA:ro
       - /local/data/magicscan/dzi_ink_datasets/HnE/BACH:/data/dzi_datasets/BACH:ro
-      - /local/data/magicscan:/data/detect:ro
       
       # Annotations directory
-      - /local/data/magicscan/ink_annotations:/data/anno
+      - /local/data/magicscan/ink_output/user3:/data/anno
       
       # Ink status
-      - /local/data/magicscan/ink_annotations/ink_status:/data/ink_status
+      - /local/data/magicscan/ink_output/user3/ink_status:/data/ink_status
       
       
       # Mount the JSON mapping file
-      - ./tiles_directory_list_part_1.json:/data/tiles_directory_list.json:ro
+      - ./tiles_directory_list_part_3.json:/data/tiles_directory_list.json:ro
     environment:
       - PYTHONUNBUFFERED=1
-      - PANEL_APP_PORT=${PANEL_APP_PORT:-10565}
-      - DZI_SERVER_PORT=${DZI_SERVER_PORT:-10566}
+      - PANEL_APP_PORT=10707  # ✓ Different port
+      - DZI_SERVER_PORT=10708  # ✓ Different port
       - UMASK=0000
     env_file:
       - ../app/.env
     restart: unless-stopped
+    networks:
+      - ink_annotation_network3
 
-  redis:
+  redis3:
     image: redis:7-alpine
-    container_name: ink_annotation_redis
+    container_name: ink_annotation_redis3
     ports:
-      - "10379:6379"
+      - "10709:6379"
     volumes:
-      - redis_data:/data
+      - redis_data3:/data
     command: redis-server --appendonly yes --maxmemory 2gb --maxmemory-policy allkeys-lru
     restart: unless-stopped
-
+    networks:
+      - ink_annotation_network3
 volumes:
-  redis_data:
+  redis_data3:
+
+networks:
+  ink_annotation_network3:
+
