@@ -1,53 +1,51 @@
 services:
-  annotation-tool3:
+  annotation-tool111:
     build:
       context: ..
       dockerfile: Docker/Dockerfile
-    container_name: ink_annotation_tool3
+    container_name: ink_annotation_tool111
     # user: "50157:1000"  # Temporarily commented out to allow root access for cleanup
     ports:
-      - "10707:10707"  # ✓ Changed both host and container ports
-      - "10708:10708"  # ✓ Changed both host and container ports
+      - "10750:10750"  # ✓ Changed both host and container ports
+      - "10751:10751"  # ✓ Changed both host and container ports
     volumes:
       # Mount parent directories containing all the datasets
-      - /local/data/magicscan/dzi_ink_datasets/HnE/BRACS:/data/dzi_datasets/BRACS:ro
-      - /local/data/magicscan/dzi_ink_datasets/HnE/TCGA-BRCA:/data/dzi_datasets/TCGA:ro
       - /local/data/magicscan/dzi_ink_datasets/HnE/BACH:/data/dzi_datasets/BACH:ro
       
       # Annotations directory
-      - /local/data/magicscan/ink_output/user3:/data/anno
+      - /local/data/magicscan/dev_sam/test_thirty/anno:/data/anno
       
       # Ink status
-      - /local/data/magicscan/ink_output/user3/ink_status:/data/ink_status
+      - /local/data/magicscan/dev_sam/test_thirty/ink_status:/data/ink_status
       
       
       # Mount the JSON mapping file
-      - ./tiles_directory_list_part_3.json:/data/tiles_directory_list.json:ro
+      - ./tiles_directory_list_bach_1.json:/data/tiles_directory_list.json:ro
     environment:
       - PYTHONUNBUFFERED=1
-      - PANEL_APP_PORT=10707  # ✓ Different port
-      - DZI_SERVER_PORT=10708  # ✓ Different port
+      - PANEL_APP_PORT=10750  # ✓ Different port
+      - DZI_SERVER_PORT=10751  # ✓ Different port
       - UMASK=0000
     env_file:
       - ../app/.env
     restart: unless-stopped
     networks:
-      - ink_annotation_network3
+      - ink_annotation_network111
 
-  redis3:
+  redis111:
     image: redis:7-alpine
-    container_name: ink_annotation_redis3
+    container_name: ink_annotation_redis111
     ports:
-      - "10709:6379"
+      - "10752:6379"
     volumes:
-      - redis_data3:/data
+      - redis_data111:/data
     command: redis-server --appendonly yes --maxmemory 2gb --maxmemory-policy allkeys-lru
     restart: unless-stopped
     networks:
-      - ink_annotation_network3
+      - ink_annotation_network111
 volumes:
-  redis_data3:
+  redis_data111:
 
 networks:
-  ink_annotation_network3:
+  ink_annotation_network111:
 

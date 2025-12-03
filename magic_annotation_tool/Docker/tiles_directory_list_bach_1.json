@@ -1,0 +1,182 @@
+[
+  {
+    "entry_number": 1,
+    "svs_file": "01.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/01_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 2,
+    "svs_file": "02.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/02_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 3,
+    "svs_file": "03.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/03_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 4,
+    "svs_file": "04.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/04_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 5,
+    "svs_file": "05.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/05_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 6,
+    "svs_file": "06.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/06_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 7,
+    "svs_file": "07.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/07_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 8,
+    "svs_file": "08.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/08_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 9,
+    "svs_file": "09.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/09_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 10,
+    "svs_file": "10.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/10_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 11,
+    "svs_file": "11.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/11_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 12,
+    "svs_file": "12.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/12_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 13,
+    "svs_file": "13.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/13_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 14,
+    "svs_file": "14.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/14_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 15,
+    "svs_file": "15.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/15_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 16,
+    "svs_file": "16.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/16_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 17,
+    "svs_file": "17.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/17_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 18,
+    "svs_file": "18.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/18_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 19,
+    "svs_file": "19.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/19_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 20,
+    "svs_file": "20.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/20_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 21,
+    "svs_file": "A01.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/A01_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 22,
+    "svs_file": "A02.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/A02_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 23,
+    "svs_file": "A03.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/A03_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 24,
+    "svs_file": "A04.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/A04_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 25,
+    "svs_file": "A05.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/A05_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 26,
+    "svs_file": "A06.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/A06_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 27,
+    "svs_file": "A07.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/A07_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 28,
+    "svs_file": "A08.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/A08_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 29,
+    "svs_file": "A09.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/A09_files",
+    "collection_name": "BACH-Challenge"
+  },
+  {
+    "entry_number": 30,
+    "svs_file": "A10.svs",
+    "tiles_directory": "/local/data/magicscan/dzi_ink_datasets/HnE/BACH/ICIAR2018_BACH_Challenge/ICIAR2018_BACH_Challenge/WSI/A10_files",
+    "collection_name": "BACH-Challenge"
+  }
+]
